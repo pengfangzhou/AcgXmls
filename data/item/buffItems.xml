@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun)
+    0ffset:相对于武将中心的偏移量
+    image:图片名称，有多个每次随机选一个，用逗号隔开
+    animated:是否是动画
+    time:停留的时间
+    type:c表示条件buff，符合某条件时移除buff,
+        t表示时间buff，时间到达后移除buff
+    flip:表示是否随着武将翻转
+    shake:像“惨了”“呃”等字，不停地颤抖
+
+    001:被克；002：冲锋；003：克对方；004：冒血
+ -->
+
+<goods>
+	<buffItem id="004" name="blood" offset="0,0" image="blood" animated="1" time="2000" flip="1" description="冒血"/>
+	<buffItem id="005" name="xuezhandaodi" offset="0,-100" image="xuezhanbuffIcon" time="2300" type="t" flip="1" description="血战到底buff"/>
+    <buffItem id="1006" name="wanfumodi" offset="0,-50" image="wanfumodi" type="c" description="万夫莫敌buff"/>
+    <buffItem id="1007" name="dizzy" offset="0,-35" image="dizzy" animated="1" type="c" description="眩晕，铁骑突起buff"/>
+    <buffItem id="1008" name="baguazhanzhen" offset="0,-45" image="baguazhanzhen" type="c" description="八卦斩阵buff"/>
+    <buffItem id="1009" name="huofengaoxiang" offset="0,-50" image="huofengaoxiang" type="c" description="火凤翱翔buff"/>
+</goods>

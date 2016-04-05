@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<guide>
+	<!--
+    说明：节点名请保证使用step，否则将不被识别。
+    每个节点中的必须属性如下:
+	sequence:显示此步骤出现的次序
+	instanceName:此步骤所关联的实例名称
+    每个节点中的可选属性如下：
+	subSeq:子步骤。某些界面可能会涉及到多次引导步骤，在每次步骤时执行的逻辑都不一样。此时用该属性来识别当前步骤该干嘛
+	speaker:说话人
+	content：显示文案
+	bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+    bgUrl:背景图片地址，如果没有，可以写""
+    tfBgX:说话背景图的左上角x位置
+    tfBgY:说话背景图的左上角y位置
+	-->
+    <step sequence="0" instanceName="assets1Scene" subSeq="1" mmguideId="guide1" dialogId="" record="1" />
+    <step sequence="1" instanceName="assets1Scene" subSeq="2" mmguideId="guide2" dialogId="" record="0" />
+    <step sequence="2" instanceName="email" subSeq="1" mmguideId="guide3" dialogId="" record="0" />
+    <step sequence="3" instanceName="emailDetails" subSeq="1" mmguideId="" dialogId="" record="1" />
+    <step sequence="4" instanceName="assets1Scene" subSeq="3" mmguideId="guide4" dialogId="" record="0" />
+    <step sequence="5" instanceName="battleLevel" subSeq="1" mmguideId="" dialogId="" record="0" />
+    <step sequence="6" instanceName="battleLevelDetails" subSeq="1" mmguideId="" dialogId="" record="0" />
+    <step sequence="7" instanceName="FormationState" subSeq="1" mmguideId="guide5" dialogId="" record="0" />
+    <step sequence="8" instanceName="FormationState" subSeq="2" mmguideId="" dialogId="" record="0" />
+    <step sequence="9" instanceName="FormationState" subSeq="3" mmguideId="" dialogId="" record="0" />
+    <step sequence="10" instanceName="FormationState" subSeq="4" mmguideId="" dialogId="" record="0" />
+    <step sequence="11" instanceName="tacticalFormationPanel" subSeq="1" mmguideId="guide6" dialogId="" record="0" />
+    <step sequence="12" instanceName="FormationState" subSeq="5" mmguideId="" dialogId="" record="1" />
+	
+   <!-- <step sequence="0" instanceName="assets1Scene" subSeq="1" mmguideId="1" type="1" speaker="guojia" content="测试数据测试ing" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="1" instanceName="assets1Scene" subSeq="2" type="2" speaker="guojia" content="测试数据测试ing" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="800"/>
+    <step sequence="2" instanceName="assets1Scene" subSeq="3" type="2" speaker="guojia" content="测试数据测试ing" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="800"/>
+    <step sequence="3" instanceName="battleLevel" subSeq="1" type="2" speaker="guojia" content="战役面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="4" instanceName="battleLevelDetails" subSeq="1" type="2" speaker="guojia" content="关卡信息面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="5" instanceName="FormationState" subSeq="1" type="2" speaker="guojia" content="派兵布阵面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="6" instanceName="FormationState" subSeq="2" type="2" speaker="guojia" content="派兵布阵面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="7" instanceName="FormationState" subSeq="3" type="2" speaker="guojia" content="派兵布阵面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="8" instanceName="tacticalFormationPanel" subSeq="1" type="2" speaker="guojia" content="布阵面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>
+    <step sequence="9" instanceName="FormationState" subSeq="4" type="2" speaker="guojia" content="派兵布阵面板" bg="1" bgUrl="bg.png" tfBgX="500" tfBgY="900"/>-->
+
+</guide>

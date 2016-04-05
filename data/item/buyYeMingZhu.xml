@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<data>
+	<item time="0" costDiamond="50" getYeMingZhu="10"/>
+	<item time="1" costDiamond="50" getYeMingZhu="10"/>
+	<item time="2" costDiamond="100" getYeMingZhu="10"/>
+	<item time="3" costDiamond="150" getYeMingZhu="10"/>
+	<item time="4" costDiamond="200" getYeMingZhu="10"/>
+	<item time="5" costDiamond="250" getYeMingZhu="10"/>
+	<item time="6" costDiamond="300" getYeMingZhu="10"/>
+	<item time="7" costDiamond="350" getYeMingZhu="10"/>
+	<item time="8" costDiamond="400" getYeMingZhu="10"/>
+	<item time="9" costDiamond="450" getYeMingZhu="10"/>
+	<item time="10" costDiamond="500" getYeMingZhu="10"/>
+	<item time="11" costDiamond="550" getYeMingZhu="10"/>
+	<item time="12" costDiamond="600" getYeMingZhu="10"/>
+	<item time="13" costDiamond="650" getYeMingZhu="10"/>
+	<item time="14" costDiamond="700" getYeMingZhu="10"/>
+	<item time="15" costDiamond="750" getYeMingZhu="10"/>
+	<item time="16" costDiamond="800" getYeMingZhu="10"/>
+	<item time="17" costDiamond="850" getYeMingZhu="10"/>
+	<item time="18" costDiamond="900" getYeMingZhu="10"/>
+	<item time="19" costDiamond="950" getYeMingZhu="10"/>
+	<item time="20" costDiamond="1000" getYeMingZhu="10"/>
+</data>

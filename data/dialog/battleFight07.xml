@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="010701start" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="曹军大将乐进率领的前锋三千骑兵到达河口镇。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="这些青州骑兵冲入店铺洗劫钱财，奸淫妇女。" light="1" />
+    </dialog>
+    <dialog id="010701right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="全部杀光！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010701left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="aniu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="阿牛"
+                   speakerTf="600,500,300" speakerContent="这群畜生，受死吧。"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010704start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="我军沿江北上，抗击曹军。"
+                   light="1"
+                />
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+		           nameContent="{myname}" speakerContent="既然从江夏来了，就要给曹军一个下马威。" light="1" />
+    </dialog>
+    <dialog id="010704right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="怎么来了这么多战船？"
+                   light="2"
+                />   
+    </dialog>
+    <dialog id="010704left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="传我的命令，准备重击岸上曹军！"
+                   light="1"
+               />
+        
+    </dialog>
+    <dialog id="010704end" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="yujin.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiaxu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="于禁"
+                   speakerTf="600,500,300" speakerContent="传令，立刻撤离！"
+                   light="1"
+                />
+		<subDialog nameContent="旁白" speakerContent="我军焚烧了战船，暂时阻止了曹军的南下。" light="2" />
+    </dialog>
+	
+    <dialog id="010707start" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="我军派出二千余名荆州骑兵，北上袭扰曹军。"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010707end" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="wojunfujiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="wojundajiang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军副将"
+                   speakerTf="600,500,300" speakerContent="将军，我们不如直捣洛阳。"
+                   light="1"
+                />
+        <subDialog nameContent="我军大将" speakerContent="我们只是在中原耀武扬威一番便可，不要损耗兵力。" light="2" />
+    </dialog>
+	
+    <dialog id="010710start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="叶县号称南阳郡东大门，历来是兵家必争之地。"
+                   light="1"
+                />
+		<subDialog nameContent="旁白" speakerContent="曹操在这里修建了大量仓库，囤积粮食和物资。" light="1" />
+	</dialog>
+		<dialog id="010710right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunyajiang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军牙将"
+                   speakerTf="600,500,300" speakerContent="关闭城门！关门！"
+                   light="2"
+                />   
+    </dialog>
+    <dialog id="010710left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="杀！"
+                   light="1"
+               />   
+    </dialog>
+	<dialog id="010710end" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiaxu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="夺取粮草，放火焚城！"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="叶县仓库被偷袭焚毁的消息如长了翅膀一般，" light="2" />
+		<subDialog nameContent="旁白" speakerContent="迅速向南方传来。" light="2" />
+    </dialog>
+	
+    <dialog id="010713start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="襄阳城中，蔡瑁张允投降。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="曹军开始进攻樊城。" light="1" />
+		</dialog>
+    <dialog id="010713right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="怎么这么安静？"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010713left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="还是主公神机妙算。"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010713end" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="曹军攻打樊城时，遭到江夏军伏击。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="无数士兵跪地投降，哀求饶命。" light="1" />
+		</dialog>
+	
+	<dialog id="010716start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="汉建安十三年八月，刘表病逝。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="曹军一万军队偷袭邓塞堡。" light="1" />
+		</dialog>
+		
+		 <dialog id="010716right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="加速，杀。"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010716left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="还好主公早料到了曹军的阴谋。"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010716end" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="曹军遭遇了樊城战役打响以来的第二次惨败。"
+                   light="1"
+                />
+		</dialog>
+</root>

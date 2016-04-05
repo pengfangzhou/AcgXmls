@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        这里是新手战斗开场
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+<dialog id="right" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+            rightSpeaker="simayi.png" rightSpeakerPos="1500,400"
+            nameTf="750,450,400" nameContent="贾诩"
+            speakerTf="600,500,300" speakerContent="昨夜星象突变，仲达对此有何看法？"
+            light="1" soundId="battle_003"
+        />
+        <subDialog nameContent="司马懿" speakerContent="刘备的主星一向明亮，昨夜忽然势弱，着实让人不解。" light="2" soundId="battle_004"/>
+        <subDialog nameContent="贾诩" speakerContent="仲达你看漏了那一闪而过的弧光，星变因它而起。"
+                   light="1" soundId="battle_005"
+                />
+        <subDialog nameContent="司马懿" speakerContent="莫非，有人将取代刘备成为丞相新的宿敌？" light="2" soundId="battle_006"/>
+		<subDialog nameContent="贾诩" speakerContent="正是如此，这乱世变得愈发有趣了。" light="1" soundId="battle_007"/>
+		<subDialog nameContent="司马懿" speakerContent="呵呵呵，在下亦有同感。" light="2" soundId="battle_008"/>
+		<subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="xiahouyuan.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="贾诩"
+                   speakerTf="600,500,300" speakerContent="夏侯将军，准备出发，拿下汝南再说。"
+                   light="1" soundId="battle_009"
+                />
+        <subDialog nameContent="夏侯渊" speakerContent="全军听令，驱使民夫向前行军，不从者杀无赦！" light="2" soundId="battle_010"/>
+</dialog>
+<dialog id="right" bg="1" bgUrl="">
+    <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+               rightSpeaker="gaosheng.png" rightSpeakerPos="1500,400"
+               nameTf="750,450,400" nameContent="汝南黄巾军"
+               speakerTf="600,500,300" speakerContent="曹军主力来了！"
+               light="2" soundId="battle_002"
+            />
+</dialog>
+<dialog id="left" bg="1" bgUrl="">
+    <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+               rightSpeaker="" rightSpeakerPos="1500,400"
+               nameTf="750,450,400" nameContent="我"
+               speakerTf="600,500,300" speakerContent="当炮灰…… 阿牛，小倩，我们要找机会逃出去。"
+               light="1" soundId="battle_001"
+            />
+</dialog>
+</root>

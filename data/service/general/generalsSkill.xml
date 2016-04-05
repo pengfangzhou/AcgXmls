@@ -1,0 +1,2271 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<level>0</level><layer>0</layer><needlv>0</needlv><needbook>0</needbook><needmoney>0</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>0</level><layer>1</layer><needlv>0</needlv><needbook>0</needbook><needmoney>0</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>0</level><layer>2</layer><needlv>0</needlv><needbook>0</needbook><needmoney>0</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>0</level><layer>3</layer><needlv>0</needlv><needbook>0</needbook><needmoney>0</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>1</level><layer>0</layer><needlv>1</needlv><needbook>1</needbook><needmoney>100</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>1</level><layer>1</layer><needlv>1</needlv><needbook>1</needbook><needmoney>100</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>1</level><layer>2</layer><needlv>10</needlv><needbook>2</needbook><needmoney>10000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>1</level><layer>3</layer><needlv>10</needlv><needbook>10</needbook><needmoney>21000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>2</level><layer>0</layer><needlv>2</needlv><needbook>1</needbook><needmoney>500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>2</level><layer>1</layer><needlv>2</needlv><needbook>1</needbook><needmoney>500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>2</level><layer>2</layer><needlv>11</needlv><needbook>2</needbook><needmoney>10500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>2</level><layer>3</layer><needlv>11</needlv><needbook>12</needbook><needmoney>22000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>3</level><layer>0</layer><needlv>3</needlv><needbook>1</needbook><needmoney>1000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>3</level><layer>1</layer><needlv>3</needlv><needbook>1</needbook><needmoney>1000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>3</level><layer>2</layer><needlv>12</needlv><needbook>2</needbook><needmoney>11000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>3</level><layer>3</layer><needlv>12</needlv><needbook>14</needbook><needmoney>23000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>4</level><layer>0</layer><needlv>4</needlv><needbook>1</needbook><needmoney>1500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>4</level><layer>1</layer><needlv>4</needlv><needbook>1</needbook><needmoney>1500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>4</level><layer>2</layer><needlv>13</needlv><needbook>2</needbook><needmoney>11500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>4</level><layer>3</layer><needlv>13</needlv><needbook>16</needbook><needmoney>24000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>5</level><layer>0</layer><needlv>5</needlv><needbook>1</needbook><needmoney>2000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>5</level><layer>1</layer><needlv>5</needlv><needbook>1</needbook><needmoney>2000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>5</level><layer>2</layer><needlv>14</needlv><needbook>2</needbook><needmoney>12000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>5</level><layer>3</layer><needlv>14</needlv><needbook>18</needbook><needmoney>25000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>6</level><layer>0</layer><needlv>6</needlv><needbook>1</needbook><needmoney>2500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>6</level><layer>1</layer><needlv>6</needlv><needbook>1</needbook><needmoney>2500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>6</level><layer>2</layer><needlv>15</needlv><needbook>2</needbook><needmoney>12500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>6</level><layer>3</layer><needlv>15</needlv><needbook>20</needbook><needmoney>26000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>7</level><layer>0</layer><needlv>7</needlv><needbook>1</needbook><needmoney>3000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>7</level><layer>1</layer><needlv>7</needlv><needbook>1</needbook><needmoney>3000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>7</level><layer>2</layer><needlv>16</needlv><needbook>2</needbook><needmoney>13000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>7</level><layer>3</layer><needlv>16</needlv><needbook>22</needbook><needmoney>27000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>8</level><layer>0</layer><needlv>8</needlv><needbook>1</needbook><needmoney>3500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>8</level><layer>1</layer><needlv>8</needlv><needbook>1</needbook><needmoney>3500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>8</level><layer>2</layer><needlv>17</needlv><needbook>2</needbook><needmoney>13500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>8</level><layer>3</layer><needlv>17</needlv><needbook>24</needbook><needmoney>28000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>9</level><layer>0</layer><needlv>9</needlv><needbook>1</needbook><needmoney>4000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>9</level><layer>1</layer><needlv>9</needlv><needbook>1</needbook><needmoney>4000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>9</level><layer>2</layer><needlv>18</needlv><needbook>2</needbook><needmoney>14000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>9</level><layer>3</layer><needlv>18</needlv><needbook>26</needbook><needmoney>29000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>10</level><layer>0</layer><needlv>10</needlv><needbook>1</needbook><needmoney>4500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>10</level><layer>1</layer><needlv>10</needlv><needbook>1</needbook><needmoney>4500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>10</level><layer>2</layer><needlv>19</needlv><needbook>2</needbook><needmoney>14500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>10</level><layer>3</layer><needlv>19</needlv><needbook>28</needbook><needmoney>30000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>11</level><layer>0</layer><needlv>11</needlv><needbook>1</needbook><needmoney>5000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>11</level><layer>1</layer><needlv>11</needlv><needbook>1</needbook><needmoney>5000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>11</level><layer>2</layer><needlv>20</needlv><needbook>3</needbook><needmoney>15000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>11</level><layer>3</layer><needlv>20</needlv><needbook>30</needbook><needmoney>31000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>12</level><layer>0</layer><needlv>12</needlv><needbook>1</needbook><needmoney>5500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>12</level><layer>1</layer><needlv>12</needlv><needbook>1</needbook><needmoney>5500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>12</level><layer>2</layer><needlv>21</needlv><needbook>3</needbook><needmoney>15500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>12</level><layer>3</layer><needlv>21</needlv><needbook>32</needbook><needmoney>32000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>13</level><layer>0</layer><needlv>13</needlv><needbook>1</needbook><needmoney>6000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>13</level><layer>1</layer><needlv>13</needlv><needbook>1</needbook><needmoney>6000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>13</level><layer>2</layer><needlv>22</needlv><needbook>3</needbook><needmoney>16000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>13</level><layer>3</layer><needlv>22</needlv><needbook>34</needbook><needmoney>33000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>14</level><layer>0</layer><needlv>14</needlv><needbook>1</needbook><needmoney>6500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>14</level><layer>1</layer><needlv>14</needlv><needbook>1</needbook><needmoney>6500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>14</level><layer>2</layer><needlv>23</needlv><needbook>3</needbook><needmoney>16500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>14</level><layer>3</layer><needlv>23</needlv><needbook>36</needbook><needmoney>34000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>15</level><layer>0</layer><needlv>15</needlv><needbook>1</needbook><needmoney>7000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>15</level><layer>1</layer><needlv>15</needlv><needbook>1</needbook><needmoney>7000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>15</level><layer>2</layer><needlv>24</needlv><needbook>3</needbook><needmoney>17000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>15</level><layer>3</layer><needlv>24</needlv><needbook>38</needbook><needmoney>35000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>16</level><layer>0</layer><needlv>16</needlv><needbook>1</needbook><needmoney>7500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>16</level><layer>1</layer><needlv>16</needlv><needbook>1</needbook><needmoney>7500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>16</level><layer>2</layer><needlv>25</needlv><needbook>3</needbook><needmoney>17500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>16</level><layer>3</layer><needlv>25</needlv><needbook>40</needbook><needmoney>36000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>17</level><layer>0</layer><needlv>17</needlv><needbook>1</needbook><needmoney>8000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>17</level><layer>1</layer><needlv>17</needlv><needbook>1</needbook><needmoney>8000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>17</level><layer>2</layer><needlv>26</needlv><needbook>3</needbook><needmoney>18000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>17</level><layer>3</layer><needlv>26</needlv><needbook>42</needbook><needmoney>37000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>18</level><layer>0</layer><needlv>18</needlv><needbook>1</needbook><needmoney>8500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>18</level><layer>1</layer><needlv>18</needlv><needbook>1</needbook><needmoney>8500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>18</level><layer>2</layer><needlv>27</needlv><needbook>3</needbook><needmoney>18500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>18</level><layer>3</layer><needlv>27</needlv><needbook>44</needbook><needmoney>38000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>19</level><layer>0</layer><needlv>19</needlv><needbook>1</needbook><needmoney>9000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>19</level><layer>1</layer><needlv>19</needlv><needbook>1</needbook><needmoney>9000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>19</level><layer>2</layer><needlv>28</needlv><needbook>3</needbook><needmoney>19000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>19</level><layer>3</layer><needlv>28</needlv><needbook>46</needbook><needmoney>39000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>20</level><layer>0</layer><needlv>20</needlv><needbook>1</needbook><needmoney>9500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>20</level><layer>1</layer><needlv>20</needlv><needbook>1</needbook><needmoney>9500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>20</level><layer>2</layer><needlv>29</needlv><needbook>3</needbook><needmoney>19500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>20</level><layer>3</layer><needlv>29</needlv><needbook>48</needbook><needmoney>40000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>21</level><layer>0</layer><needlv>21</needlv><needbook>1</needbook><needmoney>10000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>21</level><layer>1</layer><needlv>21</needlv><needbook>1</needbook><needmoney>10000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>21</level><layer>2</layer><needlv>30</needlv><needbook>4</needbook><needmoney>20000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>21</level><layer>3</layer><needlv>30</needlv><needbook>50</needbook><needmoney>41000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>22</level><layer>0</layer><needlv>22</needlv><needbook>1</needbook><needmoney>10500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>22</level><layer>1</layer><needlv>22</needlv><needbook>1</needbook><needmoney>10500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>22</level><layer>2</layer><needlv>31</needlv><needbook>4</needbook><needmoney>21000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>22</level><layer>3</layer><needlv>31</needlv><needbook>52</needbook><needmoney>42000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>23</level><layer>0</layer><needlv>23</needlv><needbook>1</needbook><needmoney>11000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>23</level><layer>1</layer><needlv>23</needlv><needbook>1</needbook><needmoney>11000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>23</level><layer>2</layer><needlv>32</needlv><needbook>4</needbook><needmoney>22000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>23</level><layer>3</layer><needlv>32</needlv><needbook>54</needbook><needmoney>43000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>24</level><layer>0</layer><needlv>24</needlv><needbook>1</needbook><needmoney>11500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>24</level><layer>1</layer><needlv>24</needlv><needbook>1</needbook><needmoney>11500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>24</level><layer>2</layer><needlv>33</needlv><needbook>4</needbook><needmoney>23000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>24</level><layer>3</layer><needlv>33</needlv><needbook>56</needbook><needmoney>44000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>25</level><layer>0</layer><needlv>25</needlv><needbook>1</needbook><needmoney>12000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>25</level><layer>1</layer><needlv>25</needlv><needbook>1</needbook><needmoney>12000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>25</level><layer>2</layer><needlv>34</needlv><needbook>4</needbook><needmoney>24000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>25</level><layer>3</layer><needlv>34</needlv><needbook>58</needbook><needmoney>45000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>26</level><layer>0</layer><needlv>26</needlv><needbook>1</needbook><needmoney>12500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>26</level><layer>1</layer><needlv>26</needlv><needbook>1</needbook><needmoney>12500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>26</level><layer>2</layer><needlv>35</needlv><needbook>4</needbook><needmoney>25000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>26</level><layer>3</layer><needlv>35</needlv><needbook>60</needbook><needmoney>46000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>27</level><layer>0</layer><needlv>27</needlv><needbook>1</needbook><needmoney>13000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>27</level><layer>1</layer><needlv>27</needlv><needbook>1</needbook><needmoney>13000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>27</level><layer>2</layer><needlv>36</needlv><needbook>4</needbook><needmoney>26000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>27</level><layer>3</layer><needlv>36</needlv><needbook>62</needbook><needmoney>47000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>28</level><layer>0</layer><needlv>28</needlv><needbook>1</needbook><needmoney>13500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>28</level><layer>1</layer><needlv>28</needlv><needbook>1</needbook><needmoney>13500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>28</level><layer>2</layer><needlv>37</needlv><needbook>4</needbook><needmoney>27000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>28</level><layer>3</layer><needlv>37</needlv><needbook>64</needbook><needmoney>48000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>29</level><layer>0</layer><needlv>29</needlv><needbook>1</needbook><needmoney>14000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>29</level><layer>1</layer><needlv>29</needlv><needbook>1</needbook><needmoney>14000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>29</level><layer>2</layer><needlv>38</needlv><needbook>4</needbook><needmoney>28000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>29</level><layer>3</layer><needlv>38</needlv><needbook>66</needbook><needmoney>49000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>30</level><layer>0</layer><needlv>30</needlv><needbook>2</needbook><needmoney>14500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>30</level><layer>1</layer><needlv>30</needlv><needbook>2</needbook><needmoney>14500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>30</level><layer>2</layer><needlv>39</needlv><needbook>4</needbook><needmoney>29000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>30</level><layer>3</layer><needlv>39</needlv><needbook>68</needbook><needmoney>50000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>31</level><layer>0</layer><needlv>31</needlv><needbook>2</needbook><needmoney>15000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>31</level><layer>1</layer><needlv>31</needlv><needbook>2</needbook><needmoney>15000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>31</level><layer>2</layer><needlv>40</needlv><needbook>5</needbook><needmoney>30000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>31</level><layer>3</layer><needlv>40</needlv><needbook>70</needbook><needmoney>51000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>32</level><layer>0</layer><needlv>32</needlv><needbook>2</needbook><needmoney>15500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>32</level><layer>1</layer><needlv>32</needlv><needbook>2</needbook><needmoney>15500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>32</level><layer>2</layer><needlv>41</needlv><needbook>5</needbook><needmoney>31000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>32</level><layer>3</layer><needlv>41</needlv><needbook>72</needbook><needmoney>52000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>33</level><layer>0</layer><needlv>33</needlv><needbook>2</needbook><needmoney>16000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>33</level><layer>1</layer><needlv>33</needlv><needbook>2</needbook><needmoney>16000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>33</level><layer>2</layer><needlv>42</needlv><needbook>5</needbook><needmoney>32000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>33</level><layer>3</layer><needlv>42</needlv><needbook>74</needbook><needmoney>53000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>34</level><layer>0</layer><needlv>34</needlv><needbook>2</needbook><needmoney>16500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>34</level><layer>1</layer><needlv>34</needlv><needbook>2</needbook><needmoney>16500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>34</level><layer>2</layer><needlv>43</needlv><needbook>5</needbook><needmoney>33000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>34</level><layer>3</layer><needlv>43</needlv><needbook>76</needbook><needmoney>54000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>35</level><layer>0</layer><needlv>35</needlv><needbook>2</needbook><needmoney>17000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>35</level><layer>1</layer><needlv>35</needlv><needbook>2</needbook><needmoney>17000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>35</level><layer>2</layer><needlv>44</needlv><needbook>5</needbook><needmoney>34000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>35</level><layer>3</layer><needlv>44</needlv><needbook>78</needbook><needmoney>55000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>36</level><layer>0</layer><needlv>36</needlv><needbook>2</needbook><needmoney>17500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>36</level><layer>1</layer><needlv>36</needlv><needbook>2</needbook><needmoney>17500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>36</level><layer>2</layer><needlv>45</needlv><needbook>5</needbook><needmoney>35000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>36</level><layer>3</layer><needlv>45</needlv><needbook>80</needbook><needmoney>56000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>37</level><layer>0</layer><needlv>37</needlv><needbook>2</needbook><needmoney>18000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>37</level><layer>1</layer><needlv>37</needlv><needbook>2</needbook><needmoney>18000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>37</level><layer>2</layer><needlv>46</needlv><needbook>5</needbook><needmoney>36000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>37</level><layer>3</layer><needlv>46</needlv><needbook>82</needbook><needmoney>57000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>38</level><layer>0</layer><needlv>38</needlv><needbook>2</needbook><needmoney>18500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>38</level><layer>1</layer><needlv>38</needlv><needbook>2</needbook><needmoney>18500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>38</level><layer>2</layer><needlv>47</needlv><needbook>5</needbook><needmoney>37000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>38</level><layer>3</layer><needlv>47</needlv><needbook>84</needbook><needmoney>58000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>39</level><layer>0</layer><needlv>39</needlv><needbook>2</needbook><needmoney>19000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>39</level><layer>1</layer><needlv>39</needlv><needbook>2</needbook><needmoney>19000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>39</level><layer>2</layer><needlv>48</needlv><needbook>5</needbook><needmoney>38000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>39</level><layer>3</layer><needlv>48</needlv><needbook>86</needbook><needmoney>59000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>40</level><layer>0</layer><needlv>40</needlv><needbook>2</needbook><needmoney>19500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>40</level><layer>1</layer><needlv>40</needlv><needbook>2</needbook><needmoney>19500</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>40</level><layer>2</layer><needlv>49</needlv><needbook>5</needbook><needmoney>39000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>40</level><layer>3</layer><needlv>49</needlv><needbook>90</needbook><needmoney>60000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>41</level><layer>0</layer><needlv>41</needlv><needbook>2</needbook><needmoney>20000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>41</level><layer>1</layer><needlv>41</needlv><needbook>2</needbook><needmoney>20000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>41</level><layer>2</layer><needlv>50</needlv><needbook>6</needbook><needmoney>40000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>41</level><layer>3</layer><needlv>50</needlv><needbook>90</needbook><needmoney>61000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>42</level><layer>0</layer><needlv>42</needlv><needbook>2</needbook><needmoney>16490</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>42</level><layer>1</layer><needlv>42</needlv><needbook>2</needbook><needmoney>21000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>42</level><layer>2</layer><needlv>51</needlv><needbook>6</needbook><needmoney>41000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>42</level><layer>3</layer><needlv>51</needlv><needbook>90</needbook><needmoney>62000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>43</level><layer>0</layer><needlv>43</needlv><needbook>2</needbook><needmoney>22000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>43</level><layer>1</layer><needlv>43</needlv><needbook>2</needbook><needmoney>22000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>43</level><layer>2</layer><needlv>52</needlv><needbook>6</needbook><needmoney>42000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>43</level><layer>3</layer><needlv>52</needlv><needbook>90</needbook><needmoney>63000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>44</level><layer>0</layer><needlv>44</needlv><needbook>2</needbook><needmoney>23000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>44</level><layer>1</layer><needlv>44</needlv><needbook>2</needbook><needmoney>23000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>44</level><layer>2</layer><needlv>53</needlv><needbook>6</needbook><needmoney>43000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>44</level><layer>3</layer><needlv>53</needlv><needbook>90</needbook><needmoney>64000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>45</level><layer>0</layer><needlv>45</needlv><needbook>2</needbook><needmoney>24000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>45</level><layer>1</layer><needlv>45</needlv><needbook>2</needbook><needmoney>24000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>45</level><layer>2</layer><needlv>54</needlv><needbook>6</needbook><needmoney>44000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>45</level><layer>3</layer><needlv>54</needlv><needbook>90</needbook><needmoney>65000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>46</level><layer>0</layer><needlv>46</needlv><needbook>2</needbook><needmoney>25000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>46</level><layer>1</layer><needlv>46</needlv><needbook>2</needbook><needmoney>25000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>46</level><layer>2</layer><needlv>55</needlv><needbook>7</needbook><needmoney>45000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>46</level><layer>3</layer><needlv>55</needlv><needbook>90</needbook><needmoney>66000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>47</level><layer>0</layer><needlv>47</needlv><needbook>2</needbook><needmoney>26000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>47</level><layer>1</layer><needlv>47</needlv><needbook>2</needbook><needmoney>26000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>47</level><layer>2</layer><needlv>56</needlv><needbook>7</needbook><needmoney>46000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>47</level><layer>3</layer><needlv>56</needlv><needbook>90</needbook><needmoney>67000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>48</level><layer>0</layer><needlv>48</needlv><needbook>2</needbook><needmoney>27000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>48</level><layer>1</layer><needlv>48</needlv><needbook>2</needbook><needmoney>27000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>48</level><layer>2</layer><needlv>57</needlv><needbook>7</needbook><needmoney>47000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>48</level><layer>3</layer><needlv>57</needlv><needbook>90</needbook><needmoney>68000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>49</level><layer>0</layer><needlv>49</needlv><needbook>2</needbook><needmoney>28000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>49</level><layer>1</layer><needlv>49</needlv><needbook>2</needbook><needmoney>28000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>49</level><layer>2</layer><needlv>58</needlv><needbook>7</needbook><needmoney>48000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>49</level><layer>3</layer><needlv>58</needlv><needbook>90</needbook><needmoney>69000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>50</level><layer>0</layer><needlv>50</needlv><needbook>3</needbook><needmoney>29000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>50</level><layer>1</layer><needlv>50</needlv><needbook>3</needbook><needmoney>29000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>50</level><layer>2</layer><needlv>59</needlv><needbook>7</needbook><needmoney>49000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>50</level><layer>3</layer><needlv>59</needlv><needbook>90</needbook><needmoney>70000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>51</level><layer>0</layer><needlv>51</needlv><needbook>3</needbook><needmoney>30000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>51</level><layer>1</layer><needlv>51</needlv><needbook>3</needbook><needmoney>30000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>51</level><layer>2</layer><needlv>60</needlv><needbook>8</needbook><needmoney>50000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>51</level><layer>3</layer><needlv>60</needlv><needbook>90</needbook><needmoney>71000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>52</level><layer>0</layer><needlv>52</needlv><needbook>3</needbook><needmoney>31000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>52</level><layer>1</layer><needlv>52</needlv><needbook>3</needbook><needmoney>31000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>52</level><layer>2</layer><needlv>61</needlv><needbook>8</needbook><needmoney>51000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>52</level><layer>3</layer><needlv>61</needlv><needbook>90</needbook><needmoney>72000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>53</level><layer>0</layer><needlv>53</needlv><needbook>3</needbook><needmoney>32000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>53</level><layer>1</layer><needlv>53</needlv><needbook>3</needbook><needmoney>32000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>53</level><layer>2</layer><needlv>62</needlv><needbook>8</needbook><needmoney>52000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>53</level><layer>3</layer><needlv>62</needlv><needbook>90</needbook><needmoney>73000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>54</level><layer>0</layer><needlv>54</needlv><needbook>3</needbook><needmoney>33000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>54</level><layer>1</layer><needlv>54</needlv><needbook>3</needbook><needmoney>33000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>54</level><layer>2</layer><needlv>63</needlv><needbook>8</needbook><needmoney>53000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>54</level><layer>3</layer><needlv>63</needlv><needbook>90</needbook><needmoney>74000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>55</level><layer>0</layer><needlv>55</needlv><needbook>3</needbook><needmoney>34000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>55</level><layer>1</layer><needlv>55</needlv><needbook>3</needbook><needmoney>34000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>55</level><layer>2</layer><needlv>64</needlv><needbook>8</needbook><needmoney>54000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>55</level><layer>3</layer><needlv>64</needlv><needbook>90</needbook><needmoney>75000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>56</level><layer>0</layer><needlv>56</needlv><needbook>3</needbook><needmoney>35000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>56</level><layer>1</layer><needlv>56</needlv><needbook>3</needbook><needmoney>35000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>56</level><layer>2</layer><needlv>65</needlv><needbook>9</needbook><needmoney>55000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>56</level><layer>3</layer><needlv>65</needlv><needbook>90</needbook><needmoney>76000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>57</level><layer>0</layer><needlv>57</needlv><needbook>3</needbook><needmoney>36000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>57</level><layer>1</layer><needlv>57</needlv><needbook>3</needbook><needmoney>36000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>57</level><layer>2</layer><needlv>66</needlv><needbook>9</needbook><needmoney>56000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>57</level><layer>3</layer><needlv>66</needlv><needbook>90</needbook><needmoney>77000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>58</level><layer>0</layer><needlv>58</needlv><needbook>3</needbook><needmoney>37000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>58</level><layer>1</layer><needlv>58</needlv><needbook>3</needbook><needmoney>37000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>58</level><layer>2</layer><needlv>67</needlv><needbook>9</needbook><needmoney>57000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>58</level><layer>3</layer><needlv>67</needlv><needbook>90</needbook><needmoney>78000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>59</level><layer>0</layer><needlv>59</needlv><needbook>3</needbook><needmoney>38000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>59</level><layer>1</layer><needlv>59</needlv><needbook>3</needbook><needmoney>38000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>59</level><layer>2</layer><needlv>68</needlv><needbook>9</needbook><needmoney>58000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>59</level><layer>3</layer><needlv>68</needlv><needbook>90</needbook><needmoney>79000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>60</level><layer>0</layer><needlv>60</needlv><needbook>4</needbook><needmoney>39000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>60</level><layer>1</layer><needlv>60</needlv><needbook>4</needbook><needmoney>39000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>60</level><layer>2</layer><needlv>69</needlv><needbook>9</needbook><needmoney>59000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>60</level><layer>3</layer><needlv>69</needlv><needbook>61</needbook><needmoney>80000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>61</level><layer>0</layer><needlv>61</needlv><needbook>4</needbook><needmoney>40000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>61</level><layer>1</layer><needlv>61</needlv><needbook>4</needbook><needmoney>40000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>61</level><layer>2</layer><needlv>70</needlv><needbook>11</needbook><needmoney>60000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>61</level><layer>3</layer><needlv>70</needlv><needbook>90</needbook><needmoney>81000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>62</level><layer>0</layer><needlv>62</needlv><needbook>4</needbook><needmoney>41000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>62</level><layer>1</layer><needlv>62</needlv><needbook>4</needbook><needmoney>41000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>62</level><layer>2</layer><needlv>71</needlv><needbook>11</needbook><needmoney>61000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>62</level><layer>3</layer><needlv>71</needlv><needbook>90</needbook><needmoney>82000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>63</level><layer>0</layer><needlv>63</needlv><needbook>4</needbook><needmoney>42000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>63</level><layer>1</layer><needlv>63</needlv><needbook>4</needbook><needmoney>42000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>63</level><layer>2</layer><needlv>72</needlv><needbook>11</needbook><needmoney>62000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>63</level><layer>3</layer><needlv>72</needlv><needbook>90</needbook><needmoney>83000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>64</level><layer>0</layer><needlv>64</needlv><needbook>4</needbook><needmoney>43000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>64</level><layer>1</layer><needlv>64</needlv><needbook>4</needbook><needmoney>43000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>64</level><layer>2</layer><needlv>73</needlv><needbook>11</needbook><needmoney>63000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>64</level><layer>3</layer><needlv>73</needlv><needbook>90</needbook><needmoney>84000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>65</level><layer>0</layer><needlv>65</needlv><needbook>4</needbook><needmoney>44000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>65</level><layer>1</layer><needlv>65</needlv><needbook>4</needbook><needmoney>44000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>65</level><layer>2</layer><needlv>74</needlv><needbook>11</needbook><needmoney>64000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>65</level><layer>3</layer><needlv>74</needlv><needbook>90</needbook><needmoney>85000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>66</level><layer>0</layer><needlv>66</needlv><needbook>4</needbook><needmoney>45000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>66</level><layer>1</layer><needlv>66</needlv><needbook>4</needbook><needmoney>45000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>66</level><layer>2</layer><needlv>75</needlv><needbook>13</needbook><needmoney>65000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>66</level><layer>3</layer><needlv>75</needlv><needbook>90</needbook><needmoney>86000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>67</level><layer>0</layer><needlv>67</needlv><needbook>4</needbook><needmoney>46000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>67</level><layer>1</layer><needlv>67</needlv><needbook>4</needbook><needmoney>46000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>67</level><layer>2</layer><needlv>76</needlv><needbook>13</needbook><needmoney>66000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>67</level><layer>3</layer><needlv>76</needlv><needbook>90</needbook><needmoney>87000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>68</level><layer>0</layer><needlv>68</needlv><needbook>4</needbook><needmoney>47000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>68</level><layer>1</layer><needlv>68</needlv><needbook>4</needbook><needmoney>47000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>68</level><layer>2</layer><needlv>77</needlv><needbook>13</needbook><needmoney>67000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>68</level><layer>3</layer><needlv>77</needlv><needbook>90</needbook><needmoney>88000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>69</level><layer>0</layer><needlv>69</needlv><needbook>4</needbook><needmoney>48000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>69</level><layer>1</layer><needlv>69</needlv><needbook>4</needbook><needmoney>48000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>69</level><layer>2</layer><needlv>78</needlv><needbook>13</needbook><needmoney>68000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>69</level><layer>3</layer><needlv>78</needlv><needbook>90</needbook><needmoney>89000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>70</level><layer>0</layer><needlv>70</needlv><needbook>5</needbook><needmoney>49000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>70</level><layer>1</layer><needlv>70</needlv><needbook>5</needbook><needmoney>49000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>70</level><layer>2</layer><needlv>79</needlv><needbook>13</needbook><needmoney>69000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>70</level><layer>3</layer><needlv>79</needlv><needbook>90</needbook><needmoney>90000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>71</level><layer>0</layer><needlv>71</needlv><needbook>5</needbook><needmoney>50000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>71</level><layer>1</layer><needlv>71</needlv><needbook>5</needbook><needmoney>50000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>71</level><layer>2</layer><needlv>80</needlv><needbook>15</needbook><needmoney>70000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>71</level><layer>3</layer><needlv>80</needlv><needbook>90</needbook><needmoney>91000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>72</level><layer>0</layer><needlv>72</needlv><needbook>5</needbook><needmoney>51000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>72</level><layer>1</layer><needlv>72</needlv><needbook>5</needbook><needmoney>51000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>72</level><layer>2</layer><needlv>81</needlv><needbook>15</needbook><needmoney>71000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>72</level><layer>3</layer><needlv>81</needlv><needbook>90</needbook><needmoney>92000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>73</level><layer>0</layer><needlv>73</needlv><needbook>5</needbook><needmoney>52000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>73</level><layer>1</layer><needlv>73</needlv><needbook>5</needbook><needmoney>52000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>73</level><layer>2</layer><needlv>82</needlv><needbook>15</needbook><needmoney>72000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>73</level><layer>3</layer><needlv>82</needlv><needbook>90</needbook><needmoney>93000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>74</level><layer>0</layer><needlv>74</needlv><needbook>5</needbook><needmoney>53000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>74</level><layer>1</layer><needlv>74</needlv><needbook>5</needbook><needmoney>53000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>74</level><layer>2</layer><needlv>83</needlv><needbook>15</needbook><needmoney>73000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>74</level><layer>3</layer><needlv>83</needlv><needbook>90</needbook><needmoney>94000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>75</level><layer>0</layer><needlv>75</needlv><needbook>5</needbook><needmoney>54000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>75</level><layer>1</layer><needlv>75</needlv><needbook>5</needbook><needmoney>54000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>75</level><layer>2</layer><needlv>84</needlv><needbook>15</needbook><needmoney>74000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>75</level><layer>3</layer><needlv>84</needlv><needbook>90</needbook><needmoney>95000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>76</level><layer>0</layer><needlv>76</needlv><needbook>5</needbook><needmoney>55000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>76</level><layer>1</layer><needlv>76</needlv><needbook>5</needbook><needmoney>55000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>76</level><layer>2</layer><needlv>85</needlv><needbook>17</needbook><needmoney>75000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>76</level><layer>3</layer><needlv>85</needlv><needbook>90</needbook><needmoney>96000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>77</level><layer>0</layer><needlv>77</needlv><needbook>5</needbook><needmoney>56000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>77</level><layer>1</layer><needlv>77</needlv><needbook>5</needbook><needmoney>56000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>77</level><layer>2</layer><needlv>86</needlv><needbook>17</needbook><needmoney>76000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>77</level><layer>3</layer><needlv>86</needlv><needbook>90</needbook><needmoney>97000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>78</level><layer>0</layer><needlv>78</needlv><needbook>5</needbook><needmoney>57000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>78</level><layer>1</layer><needlv>78</needlv><needbook>5</needbook><needmoney>57000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>78</level><layer>2</layer><needlv>87</needlv><needbook>17</needbook><needmoney>77000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>78</level><layer>3</layer><needlv>87</needlv><needbook>90</needbook><needmoney>98000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>79</level><layer>0</layer><needlv>79</needlv><needbook>5</needbook><needmoney>59000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>79</level><layer>1</layer><needlv>79</needlv><needbook>5</needbook><needmoney>59000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>79</level><layer>2</layer><needlv>88</needlv><needbook>17</needbook><needmoney>78000</needmoney>
+		
+		
+		
+		
+	</item>
+	<item>
+		<level>79</level><layer>3</layer><needlv>88</needlv><needbook>90</needbook><needmoney>99000</needmoney>
+		
+		
+		
+		
+	</item>
+    <item>
+        <level>80</level><layer>0</layer><needlv>80</needlv><needbook>5</needbook><needmoney>59000</needmoney>
+
+
+
+
+    </item>
+    <item>
+        <level>80</level><layer>1</layer><needlv>80</needlv><needbook>5</needbook><needmoney>59000</needmoney>
+
+
+
+
+    </item>
+    <item>
+        <level>80</level><layer>2</layer><needlv>88</needlv><needbook>17</needbook><needmoney>78000</needmoney>
+
+
+
+
+    </item>
+    <item>
+        <level>80</level><layer>3</layer><needlv>88</needlv><needbook>90</needbook><needmoney>99000</needmoney>
+
+
+
+
+    </item>
+</root>

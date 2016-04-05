@@ -1,0 +1,4553 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<id>01001</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>190 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>406 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>651 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>197 </pcsGrow>
+		<physicsarmorGrow>53 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>950 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>298 </pcsGrow>
+		<physicsarmorGrow>79 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1278 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>409 </pcsGrow>
+		<physicsarmorGrow>109 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1637 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>535 </pcsGrow>
+		<physicsarmorGrow>143 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2025 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>667 </pcsGrow>
+		<physicsarmorGrow>181 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2455 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>808 </pcsGrow>
+		<physicsarmorGrow>224 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01001</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2911 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>960 </pcsGrow>
+		<physicsarmorGrow>271 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01002</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>189 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>403 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>646 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>942 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1266 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1622 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2006 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2432 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01003</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2883 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>191 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>407 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>652 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>197 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>951 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>298 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1279 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>409 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1638 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>535 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2026 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>667 </pcsGrow>
+		<physicsarmorGrow>180 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2456 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>808 </pcsGrow>
+		<physicsarmorGrow>223 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01004</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2912 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>960 </pcsGrow>
+		<physicsarmorGrow>270 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>190 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>406 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>107 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>651 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>198 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>950 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>299 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1278 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>410 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1637 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>536 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2025 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>668 </pcsGrow>
+		<physicsarmorGrow>180 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2455 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>809 </pcsGrow>
+		<physicsarmorGrow>223 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01005</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2911 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>961 </pcsGrow>
+		<physicsarmorGrow>270 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01006</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>179 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>222 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01007</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>268 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>189 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>403 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>646 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>942 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1266 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1622 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2006 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2432 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01008</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2883 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01009</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>190 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>406 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>651 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>197 </pcsGrow>
+		<physicsarmorGrow>53 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>950 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>298 </pcsGrow>
+		<physicsarmorGrow>79 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1278 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>409 </pcsGrow>
+		<physicsarmorGrow>109 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1637 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>535 </pcsGrow>
+		<physicsarmorGrow>143 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2025 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>667 </pcsGrow>
+		<physicsarmorGrow>181 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2455 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>808 </pcsGrow>
+		<physicsarmorGrow>224 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01010</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2911 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>960 </pcsGrow>
+		<physicsarmorGrow>271 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>191 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>407 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>652 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>197 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>951 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>298 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1279 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>409 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1638 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>535 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2026 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>667 </pcsGrow>
+		<physicsarmorGrow>180 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2456 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>808 </pcsGrow>
+		<physicsarmorGrow>223 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01011</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2912 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>960 </pcsGrow>
+		<physicsarmorGrow>270 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>196 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>296 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>406 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>531 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>661 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>801 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01012</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>951 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>190 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>406 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>651 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>197 </pcsGrow>
+		<physicsarmorGrow>53 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>950 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>298 </pcsGrow>
+		<physicsarmorGrow>79 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1278 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>409 </pcsGrow>
+		<physicsarmorGrow>109 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1637 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>535 </pcsGrow>
+		<physicsarmorGrow>143 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2025 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>667 </pcsGrow>
+		<physicsarmorGrow>181 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2455 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>808 </pcsGrow>
+		<physicsarmorGrow>224 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01013</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2911 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>960 </pcsGrow>
+		<physicsarmorGrow>271 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>189 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>403 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>646 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>942 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1266 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1622 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2006 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2432 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01014</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2883 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>190 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>406 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>107 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>651 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>198 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>950 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>299 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1278 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>410 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1637 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>536 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2025 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>668 </pcsGrow>
+		<physicsarmorGrow>180 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2455 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>809 </pcsGrow>
+		<physicsarmorGrow>223 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01015</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2911 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>961 </pcsGrow>
+		<physicsarmorGrow>270 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>179 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>222 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01016</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>268 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>179 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>222 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01017</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>268 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>196 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>296 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>406 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>531 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>661 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>801 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01018</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>951 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>105 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>195 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>295 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>405 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>530 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>660 </pcsGrow>
+		<physicsarmorGrow>179 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>800 </pcsGrow>
+		<physicsarmorGrow>222 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01019</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>950 </pcsGrow>
+		<physicsarmorGrow>268 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>195 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>415 </maxbloodGrow>
+		<magicintensityGrow>44 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>107 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>665 </maxbloodGrow>
+		<magicintensityGrow>75 </magicintensityGrow>
+		<magicimmuneGrow>26 </magicimmuneGrow>
+		<pcsGrow>200 </pcsGrow>
+		<physicsarmorGrow>53 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>970 </maxbloodGrow>
+		<magicintensityGrow>115 </magicintensityGrow>
+		<magicimmuneGrow>39 </magicimmuneGrow>
+		<pcsGrow>303 </pcsGrow>
+		<physicsarmorGrow>79 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1304 </maxbloodGrow>
+		<magicintensityGrow>162 </magicintensityGrow>
+		<magicimmuneGrow>55 </magicimmuneGrow>
+		<pcsGrow>416 </pcsGrow>
+		<physicsarmorGrow>110 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1671 </maxbloodGrow>
+		<magicintensityGrow>214 </magicintensityGrow>
+		<magicimmuneGrow>72 </magicimmuneGrow>
+		<pcsGrow>545 </pcsGrow>
+		<physicsarmorGrow>145 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2067 </maxbloodGrow>
+		<magicintensityGrow>272 </magicintensityGrow>
+		<magicimmuneGrow>92 </magicimmuneGrow>
+		<pcsGrow>679 </pcsGrow>
+		<physicsarmorGrow>183 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2505 </maxbloodGrow>
+		<magicintensityGrow>338 </magicintensityGrow>
+		<magicimmuneGrow>114 </magicimmuneGrow>
+		<pcsGrow>823 </pcsGrow>
+		<physicsarmorGrow>228 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01020</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2970 </maxbloodGrow>
+		<magicintensityGrow>408 </magicintensityGrow>
+		<magicimmuneGrow>138 </magicimmuneGrow>
+		<pcsGrow>978 </pcsGrow>
+		<physicsarmorGrow>275 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>190 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>40 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>406 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>651 </maxbloodGrow>
+		<magicintensityGrow>74 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>197 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>950 </maxbloodGrow>
+		<magicintensityGrow>113 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>298 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1278 </maxbloodGrow>
+		<magicintensityGrow>159 </magicintensityGrow>
+		<magicimmuneGrow>54 </magicimmuneGrow>
+		<pcsGrow>409 </pcsGrow>
+		<physicsarmorGrow>108 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1637 </maxbloodGrow>
+		<magicintensityGrow>210 </magicintensityGrow>
+		<magicimmuneGrow>71 </magicimmuneGrow>
+		<pcsGrow>535 </pcsGrow>
+		<physicsarmorGrow>142 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2025 </maxbloodGrow>
+		<magicintensityGrow>267 </magicintensityGrow>
+		<magicimmuneGrow>90 </magicimmuneGrow>
+		<pcsGrow>667 </pcsGrow>
+		<physicsarmorGrow>180 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2455 </maxbloodGrow>
+		<magicintensityGrow>331 </magicintensityGrow>
+		<magicimmuneGrow>112 </magicimmuneGrow>
+		<pcsGrow>808 </pcsGrow>
+		<physicsarmorGrow>223 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01021</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2911 </maxbloodGrow>
+		<magicintensityGrow>400 </magicintensityGrow>
+		<magicimmuneGrow>135 </magicimmuneGrow>
+		<pcsGrow>960 </pcsGrow>
+		<physicsarmorGrow>270 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>188 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>402 </maxbloodGrow>
+		<magicintensityGrow>43 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>106 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>645 </maxbloodGrow>
+		<magicintensityGrow>73 </magicintensityGrow>
+		<magicimmuneGrow>25 </magicimmuneGrow>
+		<pcsGrow>196 </pcsGrow>
+		<physicsarmorGrow>51 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>941 </maxbloodGrow>
+		<magicintensityGrow>112 </magicintensityGrow>
+		<magicimmuneGrow>38 </magicimmuneGrow>
+		<pcsGrow>296 </pcsGrow>
+		<physicsarmorGrow>77 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1265 </maxbloodGrow>
+		<magicintensityGrow>157 </magicintensityGrow>
+		<magicimmuneGrow>53 </magicimmuneGrow>
+		<pcsGrow>406 </pcsGrow>
+		<physicsarmorGrow>107 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1621 </maxbloodGrow>
+		<magicintensityGrow>208 </magicintensityGrow>
+		<magicimmuneGrow>70 </magicimmuneGrow>
+		<pcsGrow>531 </pcsGrow>
+		<physicsarmorGrow>141 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2005 </maxbloodGrow>
+		<magicintensityGrow>264 </magicintensityGrow>
+		<magicimmuneGrow>89 </magicimmuneGrow>
+		<pcsGrow>661 </pcsGrow>
+		<physicsarmorGrow>178 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2431 </maxbloodGrow>
+		<magicintensityGrow>328 </magicintensityGrow>
+		<magicimmuneGrow>111 </magicimmuneGrow>
+		<pcsGrow>801 </pcsGrow>
+		<physicsarmorGrow>221 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01022</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2882 </maxbloodGrow>
+		<magicintensityGrow>396 </magicintensityGrow>
+		<magicimmuneGrow>134 </magicimmuneGrow>
+		<pcsGrow>951 </pcsGrow>
+		<physicsarmorGrow>267 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>194 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>13 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>414 </maxbloodGrow>
+		<magicintensityGrow>44 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>109 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>664 </maxbloodGrow>
+		<magicintensityGrow>75 </magicintensityGrow>
+		<magicimmuneGrow>26 </magicimmuneGrow>
+		<pcsGrow>202 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>969 </maxbloodGrow>
+		<magicintensityGrow>115 </magicintensityGrow>
+		<magicimmuneGrow>39 </magicimmuneGrow>
+		<pcsGrow>305 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1304 </maxbloodGrow>
+		<magicintensityGrow>162 </magicintensityGrow>
+		<magicimmuneGrow>55 </magicimmuneGrow>
+		<pcsGrow>418 </pcsGrow>
+		<physicsarmorGrow>109 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1670 </maxbloodGrow>
+		<magicintensityGrow>214 </magicintensityGrow>
+		<magicimmuneGrow>72 </magicimmuneGrow>
+		<pcsGrow>547 </pcsGrow>
+		<physicsarmorGrow>144 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2066 </maxbloodGrow>
+		<magicintensityGrow>272 </magicintensityGrow>
+		<magicimmuneGrow>92 </magicimmuneGrow>
+		<pcsGrow>681 </pcsGrow>
+		<physicsarmorGrow>182 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2504 </maxbloodGrow>
+		<magicintensityGrow>338 </magicintensityGrow>
+		<magicimmuneGrow>114 </magicimmuneGrow>
+		<pcsGrow>825 </pcsGrow>
+		<physicsarmorGrow>227 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01023</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2969 </maxbloodGrow>
+		<magicintensityGrow>408 </magicintensityGrow>
+		<magicimmuneGrow>138 </magicimmuneGrow>
+		<pcsGrow>980 </pcsGrow>
+		<physicsarmorGrow>275 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>194 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>414 </maxbloodGrow>
+		<magicintensityGrow>44 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>108 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>664 </maxbloodGrow>
+		<magicintensityGrow>75 </magicintensityGrow>
+		<magicimmuneGrow>26 </magicimmuneGrow>
+		<pcsGrow>201 </pcsGrow>
+		<physicsarmorGrow>53 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>969 </maxbloodGrow>
+		<magicintensityGrow>115 </magicintensityGrow>
+		<magicimmuneGrow>39 </magicimmuneGrow>
+		<pcsGrow>304 </pcsGrow>
+		<physicsarmorGrow>79 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1303 </maxbloodGrow>
+		<magicintensityGrow>162 </magicintensityGrow>
+		<magicimmuneGrow>55 </magicimmuneGrow>
+		<pcsGrow>417 </pcsGrow>
+		<physicsarmorGrow>110 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1670 </maxbloodGrow>
+		<magicintensityGrow>214 </magicintensityGrow>
+		<magicimmuneGrow>72 </magicimmuneGrow>
+		<pcsGrow>546 </pcsGrow>
+		<physicsarmorGrow>145 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2066 </maxbloodGrow>
+		<magicintensityGrow>272 </magicintensityGrow>
+		<magicimmuneGrow>92 </magicimmuneGrow>
+		<pcsGrow>680 </pcsGrow>
+		<physicsarmorGrow>183 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2504 </maxbloodGrow>
+		<magicintensityGrow>338 </magicintensityGrow>
+		<magicimmuneGrow>114 </magicimmuneGrow>
+		<pcsGrow>824 </pcsGrow>
+		<physicsarmorGrow>228 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01024</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2969 </maxbloodGrow>
+		<magicintensityGrow>408 </magicintensityGrow>
+		<magicimmuneGrow>138 </magicimmuneGrow>
+		<pcsGrow>979 </pcsGrow>
+		<physicsarmorGrow>275 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>43 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>112 </pcsGrow>
+		<physicsarmorGrow>33 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>208 </pcsGrow>
+		<physicsarmorGrow>54 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>314 </pcsGrow>
+		<physicsarmorGrow>82 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>431 </pcsGrow>
+		<physicsarmorGrow>114 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>563 </pcsGrow>
+		<physicsarmorGrow>150 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>701 </pcsGrow>
+		<physicsarmorGrow>189 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>850 </pcsGrow>
+		<physicsarmorGrow>235 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01025</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1009 </pcsGrow>
+		<physicsarmorGrow>283 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>200 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>428 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>111 </pcsGrow>
+		<physicsarmorGrow>33 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>685 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>207 </pcsGrow>
+		<physicsarmorGrow>54 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1000 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>313 </pcsGrow>
+		<physicsarmorGrow>82 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1343 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>430 </pcsGrow>
+		<physicsarmorGrow>114 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1721 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>562 </pcsGrow>
+		<physicsarmorGrow>150 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2129 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>700 </pcsGrow>
+		<physicsarmorGrow>189 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2581 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>849 </pcsGrow>
+		<physicsarmorGrow>235 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01026</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3059 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1008 </pcsGrow>
+		<physicsarmorGrow>283 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>16 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>111 </pcsGrow>
+		<physicsarmorGrow>34 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>207 </pcsGrow>
+		<physicsarmorGrow>55 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>313 </pcsGrow>
+		<physicsarmorGrow>83 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>430 </pcsGrow>
+		<physicsarmorGrow>115 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>562 </pcsGrow>
+		<physicsarmorGrow>151 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>700 </pcsGrow>
+		<physicsarmorGrow>190 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>849 </pcsGrow>
+		<physicsarmorGrow>236 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01027</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1008 </pcsGrow>
+		<physicsarmorGrow>284 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>194 </maxbloodGrow>
+		<magicintensityGrow>20 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>13 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>414 </maxbloodGrow>
+		<magicintensityGrow>44 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>109 </pcsGrow>
+		<physicsarmorGrow>31 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>664 </maxbloodGrow>
+		<magicintensityGrow>75 </magicintensityGrow>
+		<magicimmuneGrow>26 </magicimmuneGrow>
+		<pcsGrow>202 </pcsGrow>
+		<physicsarmorGrow>52 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>969 </maxbloodGrow>
+		<magicintensityGrow>115 </magicintensityGrow>
+		<magicimmuneGrow>39 </magicimmuneGrow>
+		<pcsGrow>305 </pcsGrow>
+		<physicsarmorGrow>78 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1304 </maxbloodGrow>
+		<magicintensityGrow>162 </magicintensityGrow>
+		<magicimmuneGrow>55 </magicimmuneGrow>
+		<pcsGrow>418 </pcsGrow>
+		<physicsarmorGrow>109 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1670 </maxbloodGrow>
+		<magicintensityGrow>214 </magicintensityGrow>
+		<magicimmuneGrow>72 </magicimmuneGrow>
+		<pcsGrow>547 </pcsGrow>
+		<physicsarmorGrow>144 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2066 </maxbloodGrow>
+		<magicintensityGrow>272 </magicintensityGrow>
+		<magicimmuneGrow>92 </magicimmuneGrow>
+		<pcsGrow>681 </pcsGrow>
+		<physicsarmorGrow>182 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2504 </maxbloodGrow>
+		<magicintensityGrow>338 </magicintensityGrow>
+		<magicimmuneGrow>114 </magicimmuneGrow>
+		<pcsGrow>825 </pcsGrow>
+		<physicsarmorGrow>227 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01028</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2969 </maxbloodGrow>
+		<magicintensityGrow>408 </magicintensityGrow>
+		<magicimmuneGrow>138 </magicimmuneGrow>
+		<pcsGrow>980 </pcsGrow>
+		<physicsarmorGrow>275 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>194 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>41 </pcsGrow>
+		<physicsarmorGrow>14 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>414 </maxbloodGrow>
+		<magicintensityGrow>44 </magicintensityGrow>
+		<magicimmuneGrow>15 </magicimmuneGrow>
+		<pcsGrow>108 </pcsGrow>
+		<physicsarmorGrow>32 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>664 </maxbloodGrow>
+		<magicintensityGrow>75 </magicintensityGrow>
+		<magicimmuneGrow>26 </magicimmuneGrow>
+		<pcsGrow>201 </pcsGrow>
+		<physicsarmorGrow>53 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>969 </maxbloodGrow>
+		<magicintensityGrow>115 </magicintensityGrow>
+		<magicimmuneGrow>39 </magicimmuneGrow>
+		<pcsGrow>304 </pcsGrow>
+		<physicsarmorGrow>79 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1303 </maxbloodGrow>
+		<magicintensityGrow>162 </magicintensityGrow>
+		<magicimmuneGrow>55 </magicimmuneGrow>
+		<pcsGrow>417 </pcsGrow>
+		<physicsarmorGrow>110 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1670 </maxbloodGrow>
+		<magicintensityGrow>214 </magicintensityGrow>
+		<magicimmuneGrow>72 </magicimmuneGrow>
+		<pcsGrow>546 </pcsGrow>
+		<physicsarmorGrow>145 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2066 </maxbloodGrow>
+		<magicintensityGrow>272 </magicintensityGrow>
+		<magicimmuneGrow>92 </magicimmuneGrow>
+		<pcsGrow>680 </pcsGrow>
+		<physicsarmorGrow>183 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2504 </maxbloodGrow>
+		<magicintensityGrow>338 </magicintensityGrow>
+		<magicimmuneGrow>114 </magicimmuneGrow>
+		<pcsGrow>824 </pcsGrow>
+		<physicsarmorGrow>228 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01029</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2969 </maxbloodGrow>
+		<magicintensityGrow>408 </magicintensityGrow>
+		<magicimmuneGrow>138 </magicimmuneGrow>
+		<pcsGrow>979 </pcsGrow>
+		<physicsarmorGrow>275 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>43 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>112 </pcsGrow>
+		<physicsarmorGrow>33 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>208 </pcsGrow>
+		<physicsarmorGrow>54 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>314 </pcsGrow>
+		<physicsarmorGrow>82 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>431 </pcsGrow>
+		<physicsarmorGrow>114 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>563 </pcsGrow>
+		<physicsarmorGrow>150 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>701 </pcsGrow>
+		<physicsarmorGrow>189 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>850 </pcsGrow>
+		<physicsarmorGrow>235 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01030</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1009 </pcsGrow>
+		<physicsarmorGrow>283 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>200 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>428 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>111 </pcsGrow>
+		<physicsarmorGrow>33 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>685 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>207 </pcsGrow>
+		<physicsarmorGrow>54 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1000 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>313 </pcsGrow>
+		<physicsarmorGrow>82 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1343 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>430 </pcsGrow>
+		<physicsarmorGrow>114 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1721 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>562 </pcsGrow>
+		<physicsarmorGrow>150 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2129 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>700 </pcsGrow>
+		<physicsarmorGrow>189 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2581 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>849 </pcsGrow>
+		<physicsarmorGrow>235 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01031</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3059 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1008 </pcsGrow>
+		<physicsarmorGrow>283 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>16 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>111 </pcsGrow>
+		<physicsarmorGrow>34 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>207 </pcsGrow>
+		<physicsarmorGrow>55 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>313 </pcsGrow>
+		<physicsarmorGrow>83 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>430 </pcsGrow>
+		<physicsarmorGrow>115 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>562 </pcsGrow>
+		<physicsarmorGrow>151 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>700 </pcsGrow>
+		<physicsarmorGrow>190 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>849 </pcsGrow>
+		<physicsarmorGrow>236 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01032</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1008 </pcsGrow>
+		<physicsarmorGrow>284 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>16 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>111 </pcsGrow>
+		<physicsarmorGrow>34 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>207 </pcsGrow>
+		<physicsarmorGrow>55 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>313 </pcsGrow>
+		<physicsarmorGrow>83 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>430 </pcsGrow>
+		<physicsarmorGrow>115 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>562 </pcsGrow>
+		<physicsarmorGrow>151 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>700 </pcsGrow>
+		<physicsarmorGrow>190 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>849 </pcsGrow>
+		<physicsarmorGrow>236 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01033</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1008 </pcsGrow>
+		<physicsarmorGrow>284 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>43 </pcsGrow>
+		<physicsarmorGrow>15 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>112 </pcsGrow>
+		<physicsarmorGrow>33 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>208 </pcsGrow>
+		<physicsarmorGrow>54 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>314 </pcsGrow>
+		<physicsarmorGrow>82 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>431 </pcsGrow>
+		<physicsarmorGrow>114 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>563 </pcsGrow>
+		<physicsarmorGrow>150 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>701 </pcsGrow>
+		<physicsarmorGrow>189 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>850 </pcsGrow>
+		<physicsarmorGrow>235 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01034</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1009 </pcsGrow>
+		<physicsarmorGrow>283 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>1</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>0 </maxbloodGrow>
+		<magicintensityGrow>0 </magicintensityGrow>
+		<magicimmuneGrow>0 </magicimmuneGrow>
+		<pcsGrow>0 </pcsGrow>
+		<physicsarmorGrow>0 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>2</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>199 </maxbloodGrow>
+		<magicintensityGrow>21 </magicintensityGrow>
+		<magicimmuneGrow>7 </magicimmuneGrow>
+		<pcsGrow>42 </pcsGrow>
+		<physicsarmorGrow>16 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>3</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>427 </maxbloodGrow>
+		<magicintensityGrow>46 </magicintensityGrow>
+		<magicimmuneGrow>16 </magicimmuneGrow>
+		<pcsGrow>111 </pcsGrow>
+		<physicsarmorGrow>34 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>4</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>684 </maxbloodGrow>
+		<magicintensityGrow>77 </magicintensityGrow>
+		<magicimmuneGrow>27 </magicimmuneGrow>
+		<pcsGrow>207 </pcsGrow>
+		<physicsarmorGrow>55 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>5</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>999 </maxbloodGrow>
+		<magicintensityGrow>119 </magicintensityGrow>
+		<magicimmuneGrow>40 </magicimmuneGrow>
+		<pcsGrow>313 </pcsGrow>
+		<physicsarmorGrow>83 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>6</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1342 </maxbloodGrow>
+		<magicintensityGrow>167 </magicintensityGrow>
+		<magicimmuneGrow>56 </magicimmuneGrow>
+		<pcsGrow>430 </pcsGrow>
+		<physicsarmorGrow>115 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>7</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>1720 </maxbloodGrow>
+		<magicintensityGrow>221 </magicintensityGrow>
+		<magicimmuneGrow>74 </magicimmuneGrow>
+		<pcsGrow>562 </pcsGrow>
+		<physicsarmorGrow>151 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>8</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2128 </maxbloodGrow>
+		<magicintensityGrow>280 </magicintensityGrow>
+		<magicimmuneGrow>94 </magicimmuneGrow>
+		<pcsGrow>700 </pcsGrow>
+		<physicsarmorGrow>190 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>9</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>2580 </maxbloodGrow>
+		<magicintensityGrow>348 </magicintensityGrow>
+		<magicimmuneGrow>118 </magicimmuneGrow>
+		<pcsGrow>849 </pcsGrow>
+		<physicsarmorGrow>236 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+	<item>
+		<id>01035</id>
+		<color>10</color>
+		<strengthGrow>0 </strengthGrow>
+		<intelligenceGrow>0 </intelligenceGrow>
+		<maxbloodGrow>3058 </maxbloodGrow>
+		<magicintensityGrow>420 </magicintensityGrow>
+		<magicimmuneGrow>142 </magicimmuneGrow>
+		<pcsGrow>1008 </pcsGrow>
+		<physicsarmorGrow>284 </physicsarmorGrow>
+		<bloodRevertGrow>0 </bloodRevertGrow>
+		<energyRevertGrow>0 </energyRevertGrow>
+	</item>
+</root>

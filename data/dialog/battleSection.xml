@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="1" bg="1" bgUrl="xiaoSeZhanChang.jpg">
+        <subDialog leftSpeaker="wuxiu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="武修"
+                   speakerTf="600,500,300" speakerContent="唉! 在下奉主公刘表之命去接主公侄子。"
+                   light="1" soundId="battleSec_101" 
+                />
+        <subDialog nameContent="武修" speakerContent="没想到公子竟…竟被他们杀了，唉。" light="1" soundId="battleSec_102" />
+		<subDialog rightSpeaker="aniu.png" rightSpeakerPos="1500,400"
+		           nameContent="阿牛" speakerContent="刘表侄子也太悲剧了。" light="2" soundId="battleSec_103" />
+        <subDialog nameContent="武修" speakerContent="恳求公子扮作我家少公子，救救我全家老小。" light="1" soundId="battleSec_104" />
+        <subDialog rightSpeaker="zhujue.png" rightSpeakerPos="1500,400" nameContent="{myname}" speakerContent="我刚来三国，无名无分确实难混。那行吧。" light="2" soundId="battleSec_105" />
+    </dialog>
+    <dialog id="2" bg="1" bgUrl="diErZhangKaiQi.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="这里便是赤壁了，滚滚长江东逝水，浪花淘尽英雄。"
+                   light="1" soundId="battleSec_106"
+                />
+        <subDialog nameContent="{myname}" speakerContent="再过七年，这里将爆发一场决定天下格局的战役。" light="1" soundId="battleSec_107" />
+        <subDialog nameContent="{myname}" speakerContent="却不知我的到来，又会给这段历史增添几分什么样的色彩？" light="1" soundId="battleSec_108" />
+    </dialog>
+    <dialog id="3" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="樊城位于汉水北岸，和襄阳隔江而望。"
+                   light="1" soundId="battleSec_109"
+                />
+        <subDialog nameContent="旁白" speakerContent="码头上商船云集，城内各种店铺林立。" light="1" soundId="battleSec_110" />
+        <subDialog nameContent="旁白" speakerContent="它是整个荆州的手工业和物资集散中心。" light="1" soundId="battleSec_111" />
+		<subDialog nameContent="旁白" speakerContent="您由于在江夏平息张武之战中表现英勇。" light="1" soundId="battleSec_112" />
+		<subDialog nameContent="旁白" speakerContent="被任命为：汉水游缴督曹，负责巡查汉水，抓捕水盗。" light="1" soundId="battleSec_113" />
+    </dialog>
+	
+	<dialog id="4" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="曹操为了彻底歼灭刘备，命夏侯惇亲自来南阳督战。"
+                   light="1" soundId="battleSec_114"
+                />
+        <subDialog nameContent="旁白" speakerContent="夏侯惇身负重任，他唯恐刘备逃入荆州。" light="1" soundId="battleSec_115" />
+        <subDialog nameContent="旁白" speakerContent="便先命李典为先锋，牵制住刘备。" light="1" soundId="battleSec_116" />
+		<subDialog nameContent="旁白" speakerContent="随即亲率大军杀向新野，准备将刘备一举歼灭。" light="1" soundId="battleSec_117" />
+    </dialog>
+	
+	<dialog id="5" bg="1" bgUrl="miaoTang.jpg">
+        <subDialog leftSpeaker="kuaiyue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="liubiao.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="蒯越"
+                   speakerTf="600,500,300" speakerContent="长江后浪推前浪，璟公子的表现确实可圈可点。"
+                   light="1" soundId="battleSec_118"
+                />
+        <subDialog nameContent="蒯越" speakerContent="让人感觉，天下是属于他们。" light="1" soundId="battleSec_119" />
+        <subDialog nameContent="刘表" speakerContent="你说得很对，他完全可以替我独镇一方。" light="2" soundId="battleSec_120" />
+		<subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+		           nameContent="旁白" speakerContent="您被任命为：柴桑县丞，镇守江夏重要港口。" light="1" soundId="battleSec_121" />
+	 </dialog>
+	
+	<dialog id="6" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="汉建安八年秋，孙权亲为主帅。"
+                   light="1" soundId="battleSec_122"
+                />
+        <subDialog nameContent="旁白" speakerContent="命中护军周瑜为裨将。" light="1" soundId="battleSec_123" />
+        <subDialog nameContent="旁白" speakerContent="率领两千四百艘战船。" light="1" soundId="battleSec_124" />
+		<subDialog nameContent="旁白" speakerContent="浩浩荡荡杀向江夏。" light="1" soundId="battleSec_125" />
+    </dialog>
+	
+	<dialog id="7" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="汉建安十二年，曹操北征乌恒。"
+                   light="1" soundId="battleSec_126"
+                />
+        <subDialog nameContent="旁白" speakerContent="为防止荆州军趁机北上中原。" light="1" soundId="battleSec_127" />
+        <subDialog nameContent="旁白" speakerContent="曹军直接占领樊城，威胁襄阳，震慑荆州。" light="1" soundId="battleSec_128" />
+    </dialog>
+	
+	<dialog id="8" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="刘备挟刘琦占据荆州以南。"
+                   light="1" soundId="battleSec_129"
+                />
+        <subDialog nameContent="旁白" speakerContent="以蔡瑁为首的本土势力控制襄阳。" light="1" soundId="battleSec_130" />
+        <subDialog nameContent="旁白" speakerContent="我军凭借战绩，牢牢控制着江夏。" light="1" soundId="battleSec_131" />
+    </dialog>
+	
+	<dialog id="9" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="汉建安十三年，曹操率领水陆大军，号称百万。"
+                   light="1" soundId="battleSec_132"
+                />
+        <subDialog nameContent="旁白" speakerContent="讨伐我、孙权和刘备联盟，赤壁大战爆发。" light="1" soundId="battleSec_133" />
+    </dialog>
+	
+	<dialog id="10" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="赤壁大战后，天下格局大变。"
+                   light="1" soundId="battleSec_134"
+                />
+        <subDialog nameContent="旁白" speakerContent="州牧已不再是偏地小诸侯。" light="1" soundId="battleSec_135" />
+        <subDialog nameContent="旁白" speakerContent="而是可以和中原抗衡的力量。" light="1" soundId="battleSec_136" />
+    </dialog>
+</root>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="010101right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunduizhang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军队长"
+                   speakerTf="600,500,300" speakerContent="这是哪家的少爷？弟兄们，发财啦！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010101left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="哈哈，钱倒是有，就看你们是否有命来拿！"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010101end" bg="1" bgUrl="bj010101end.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="wuxiu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="刘辟兵败，曹军势头正盛，大家快走！"
+                   light="1"
+                />
+        <subDialog nameContent="伍修" speakerContent="公…公子说得对，快走快走！" light="2" />
+    </dialog>
+		<dialog id="010104start" bg="1" bgUrl="jiejiuzhenmi.jpg">
+        <subDialog leftSpeaker="aniu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="wuxiu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="阿牛"
+                   speakerTf="600,500,300" speakerContent="有一伙曹军正在抢掠从汝南逃出来的百姓！"
+                   light="1"
+                />
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+		           nameContent="{myname}" speakerContent="好一群恶犬！今天倒是个打狗的好日子。" light="1" />
+		<subDialog nameContent="伍修" speakerContent="公子不必管那些草民，保命要紧啊！" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="伍先生可知民贵而君轻否！" light="1" />
+    </dialog>
+    <dialog id="010104right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunyajiang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军军侯"
+                   speakerTf="600,500,300" speakerContent="嘁，哪里冒出来个小虾兵？"
+                   light="2"
+                />
+        
+    </dialog>
+    <dialog id="010104left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="你不仅该死，而且已经死了。"
+                   light="1"
+               />
+        
+    </dialog>
+    <dialog id="010104end" bg="1" bgUrl="bj010107end.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="wuxiu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="百姓流离失所，天下何时方定？"
+                   light="1"
+                />
+        <subDialog  nameContent="伍修" speakerContent="公子哪来这么多感慨，又有曹军追上来了！" light="2" />
+    </dialog>
+	
+	<dialog id="010107start" bg="1" bgUrl="bj010107start.jpg">
+        <subDialog leftSpeaker="aniu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="gaolan.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="阿牛"
+                   speakerTf="600,500,300" speakerContent="哥…公子，装死躲得过去吗？"
+                   light="1"
+                />
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+		           nameContent="{myname}" speakerContent="只能搏一搏了。" light="1" />
+		<subDialog nameContent="高览" speakerContent="清扫战场，仔细检查，不留活口！" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="吾命休矣！本来还想在三国闯出一番名堂，我不甘心啊！" light="1" />
+		<subDialog rightSpeaker="wuxiu.png" leftSpeakerPos="1500,400"
+            		nameContent="伍修" speakerContent="啊啊！我不想死！" light="2" />
+    </dialog>
+    <dialog id="010107right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="gaolan.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="高览"
+                   speakerTf="600,500,300" speakerContent="他娘的，谁这么厉害？白马银枪…是赵云！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010107left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="天不绝我，大家起身杀敌！"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010107end" bg="1" bgUrl="bj010107end.jpg">
+        <subDialog leftSpeaker="zhaoyun.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="赵云"
+                   speakerTf="600,500,300" speakerContent="子龙奉劝各位，装死不过一时之计，不如另寻生路。"
+                   light="1"
+                />
+        <subDialog nameContent="{myname}" speakerContent="曹军已成包围之势，万望将军救我们一命！" light="2" />
+		<subDialog nameContent="赵云" speakerContent="皇叔布仁德于天下，我赵子龙又怎忍心拒人于千里之外，诸位请随我来！" light="1" />
+		<subDialog rightSpeaker="wuxiu.png" leftSpeakerPos="1500,400"
+            		nameContent="伍修" speakerContent="多谢赵将军，多谢赵将军！" light="2" />
+    </dialog>
+	
+	<dialog id="010110start" bg="1" bgUrl="zhandoujieshu.jpg">
+        <subDialog leftSpeaker="zhaoyun.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="赵云"
+                   speakerTf="600,500,300" speakerContent="此处是包围圈弱点所在，待我杀出一条血路，诸位跟紧了！"
+                   light="1"
+                />
+		<subDialog nameContent="{myname}" speakerContent="是，赵将军！" light="2" />
+    </dialog>
+    <dialog id="010110right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="yujin.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="于禁"
+                   speakerTf="600,500,300" speakerContent="拿弓来！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010110left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhaoyun.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="赵云"
+                   speakerTf="600,500,300" speakerContent="公子小心！"
+                   light="1"
+                />
+    </dialog>
+	<dialog id="010110end" bg="1" bgUrl="bj010110end.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhaoyun.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="赵将军，你受伤了！"
+                   light="1"
+                />
+        <subDialog nameContent="赵云" speakerContent="好个贼将，竟用毒箭…" light="2" />
+		<subDialog leftSpeaker="wuxiu.png" leftSpeakerPos="500,400"
+            		nameContent="伍修" speakerContent="曹军追上来了，我们完了，完了！" light="1" />
+		<subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+            		nameContent="{myname}" speakerContent="别说废话，快扶赵将军进草丛暂避，我来应付。" light="1" />
+		
+    </dialog>
+	
+	    <dialog id="010113start" bg="1" bgUrl="bj010113start.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="yujin.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="（来者莫非是…）于文则，你可是要害我？"
+                   light="1"
+                />
+        <subDialog nameContent="于禁" speakerContent="（此人竟知我表字？）阁下怎知我是于禁？" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="哈哈，于将军破吕布二营于濮阳城南，再破高雅于须昌，威名远扬，谁人不知？" light="1" />
+		<subDialog nameContent="于禁" speakerContent="阁下究竟是何人？" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="在下是刘荆州堂侄，自山阳郡去往荆州，无奈卷入战事，滞留于此。" light="1" />
+		<subDialog nameContent="于禁" speakerContent="刘公子胆识过人，于禁佩服。敢问公子可曾见到可疑人物？" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="刚才一位白马将军带着一行人向东去了，走得太急，未能搭上话。" light="1" />
+		<subDialog nameContent="于禁" speakerContent="多谢，可惜于禁尚有军令在身，无法护送公子上路，告辞了，驾！" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="哈哈，千穿万穿，马屁不穿。" light="1" />
+		</dialog>
+    <dialog id="010113right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="前方何人？"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010113left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="趁于禁还没起疑，大家赶紧冲过去！"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010113end" bg="1" bgUrl="bj010113end.jpg">
+        <subDialog leftSpeaker="aniu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="huatuo.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="阿牛"
+                   speakerTf="600,500,300" speakerContent="公子，前方有一老翁。"
+                   light="1"
+                />
+	    <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+            		nameContent="{myname}" speakerContent="请问老先生附近哪个小镇有医馆？我的朋友身中剧毒危在旦夕！" light="1" />
+        <subDialog nameContent="华佗" speakerContent="哈哈公子遇到我华佗，也是咱们的缘分，中毒者何在？" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="竟是华佗先生，赵将军有救了！" light="1" />
+    </dialog>
+	
+	<dialog id="010116start" bg="1" bgUrl="bj010116start.jpg">
+        <subDialog leftSpeaker="wuxiu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="伍修"
+                   speakerTf="600,500,300" speakerContent="公子，带着伤患迟早要被追上，扔下他才有活路啊！"
+                   light="1"
+                />
+        <subDialog nameContent="{myname}" speakerContent="再说这种话我就杀了你这忘恩负义之徒！" light="2" />
+		<subDialog leftSpeaker="zhaoyun.png" leftSpeakerPos="500,400"
+            		nameContent="赵云" speakerContent="（服下解毒药后，赵云正在静养）" light="1" />
+		<subDialog rightSpeaker="wuxiu.png" leftSpeakerPos="1500,400"
+            		nameContent="伍修" speakerContent="我可不想被你拖累，只能怪你赵云多管闲事，死吧！" light="2" />
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+            		nameContent="{myname}" speakerContent="伍修你个卑鄙小人，我怎能再容你，看剑！" light="1" />
+		<subDialog rightSpeaker="wuxiu.png" leftSpeakerPos="1500,400"
+            		nameContent="伍修" speakerContent="你…你居然敢…你是假…啊！" light="2" />
+	    <subDialog leftSpeaker="zhaoyun.png" leftSpeakerPos="500,400"
+            		nameContent="赵云" speakerContent="公子，带大家走吧，别管我了！" light="1" />
+		<subDialog rightSpeaker="zhujue.png" leftSpeakerPos="1500,400"
+            		nameContent="{myname}" speakerContent="在战场上你赵子龙没抛下我，现在我又怎能弃你不顾？" light="2" />
+		<subDialog nameContent="赵云" speakerContent="公子真男儿也！得友如此，子龙夫复何求！" light="1" />
+		</dialog>
+        <dialog id="010116right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunfujiang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军副将"
+                   speakerTf="600,500,300" speakerContent="有人趁夜突围？摆好阵型，一个也别放过！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010116left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="这最后一关我闯定了，谁能挡我！"
+                   light="1"
+                />
+    </dialog>
+</root>

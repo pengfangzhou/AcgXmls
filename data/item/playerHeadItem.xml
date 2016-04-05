@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preludes>
+    <!--
+        url:头像地址
+        type:头像类型【0】基础头像
+    -->
+    <head url="zhujue" type ="0"/>
+    <head url="zhangliao" type ="0"/>
+    <head url="daqiao" type ="0"/>
+    <head url="sunshi" type ="0"/>
+    <head url="zhugeliang" type ="0"/>
+    <head url="zhaoyun" type ="0"/>
+</preludes>

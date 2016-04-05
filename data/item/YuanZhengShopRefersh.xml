@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<item count="1" coin="10"></item>
+	<item count="2" coin="10"></item>
+	<item count="3" coin="20"></item>
+	<item count="4" coin="20"></item>
+	<item count="5" coin="30"></item>
+	<item count="6" coin="30"></item>
+	<item count="7" coin="40"></item>
+	<item count="8" coin="40"></item>
+	<item count="9" coin="50"></item>
+	<item count="10" coin="50"></item>
+</data>

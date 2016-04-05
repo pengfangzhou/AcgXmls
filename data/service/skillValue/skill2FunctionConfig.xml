@@ -1,0 +1,41 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<!--type:技能效果类型   1. ATT攻击增益 2.DEF防御增益  3.BLK格挡  4.MISS闪避  5.SAP重击 6.HP回血-->
+<!--category:技能触发条件类型   1. 势力 2.兵种  3.性别  4.护甲  5.攻击距离 6.武将属性  7.盾-->
+<!--attribute:基础属性,用于设计了双方属性对比的技能类型，例如弱点攻击等  1. 普通攻击 2.技能攻击  3.普通防御  4.技能防御  5.最大生命 6.当前生命-->
+<skill2function>
+	<skillfunItem id="050002" type="4" category="5" attribute="2" Extends="-1"/>
+	<skillfunItem id="050006" type="1" category="6" attribute="6" Extends="0"/>
+	<skillfunItem id="050010" type="3" category="5" attribute="1" Extends="-1"/>
+	<skillfunItem id="050014" type="2" category="5" attribute="1" Extends="-1"/>
+	<skillfunItem id="050018" type="3" category="5" attribute="1" Extends="-1"/>
+	<skillfunItem id="050022" type="1" category="6" attribute="6" Extends="50"/>
+	<skillfunItem id="050026" type="1" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050030" type="2" category="5" attribute="2" Extends="-1"/>
+	<skillfunItem id="050034" type="3" category="5" attribute="1" Extends="-1"/>
+	<skillfunItem id="050038" type="1" category="7" attribute="2" Extends="-1"/>
+	<skillfunItem id="050042" type="5" category="4" attribute="1" Extends="-1"/>
+	<skillfunItem id="050046" type="5" category="4" attribute="1" Extends="-1"/>
+	<skillfunItem id="050050" type="5" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050054" type="1" category="2" attribute="3" Extends="-1"/>
+	<skillfunItem id="050058" type="1" category="6" attribute="6" Extends="0"/>
+	<skillfunItem id="050062" type="2" category="2" attribute="2" Extends="-1"/>
+	<skillfunItem id="050066" type="1" category="7" attribute="2" Extends="-1"/>
+	<skillfunItem id="050070" type="1" category="4" attribute="2" Extends="-1"/>
+	<skillfunItem id="050074" type="4" category="5" attribute="2" Extends="-1"/>
+	<skillfunItem id="050078" type="2" category="2" attribute="3" Extends="-1"/>
+	<skillfunItem id="050082" type="1" category="3" attribute="1" Extends="-1"/>
+	<skillfunItem id="050086" type="5" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050090" type="2" category="3" attribute="1" Extends="-1"/>
+	<skillfunItem id="050094" type="2" category="2" attribute="4" Extends="-1"/>
+	<skillfunItem id="050098" type="4" category="5" attribute="2" Extends="-1"/>
+	<skillfunItem id="050102" type="1" category="6" attribute="6" Extends="0"/>
+	<skillfunItem id="050106" type="5" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050110" type="4" category="5" attribute="2" Extends="-1"/>
+	<skillfunItem id="050114" type="5" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050118" type="2" category="5" attribute="1" Extends="-1"/>
+	<skillfunItem id="050122" type="1" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050126" type="2" category="2" attribute="2" Extends="-1"/>
+	<skillfunItem id="050130" type="4" category="5" attribute="2" Extends="-1"/>
+	<skillfunItem id="050134" type="5" category="7" attribute="1" Extends="-1"/>
+	<skillfunItem id="050138" type="2" category="5" attribute="1" Extends="-1"/>
+</skill2function>

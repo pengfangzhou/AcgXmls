@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<!--type【1】月卡【2】无限购买【3】限制购买-->
+<data>
+	<item id="08001" typeNo="bltx001" name="300钻石月度礼包" icon="bd_icon_month" price="20" des="连续30天每天可领取120钻" yunying="tuiJian" index="2"/>
+	<item id="08018" typeNo="bltx002" name="50钻石" icon="bd_icon_300" price="5" yunying="normal" index="3"/>
+	<item id="08056" typeNo="bltx201" name="390钻石" icon="bd_icon_6480" price="30" des="另赠送390钻石" yunying="tuiJian" index="1"/>
+	<item id="08057" typeNo="bltx201" name="390钻石" icon="bd_icon_6480" price="30" des="另赠送300钻石" yunying="normal" index="1"/>
+</data>

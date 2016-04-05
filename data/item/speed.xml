@@ -1,0 +1,34 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by jack (mtfcom) -->
+<speeds>
+    <!--
+     等级速度公式：(CLS/CCS)*基础值
+     CCS 冲刺，等级速度分母 100
+     CLS level 冲刺，等级速度分子
+     OSCILL  随机数，同一等级的速度震荡区间 20就是20%
+     从左到右分别是：0,1,2,3,4,5,6,7  如果是弓兵、骑兵则取第一排和第二排。
+    -->
+    <!--<speed name="daobing" arms="1" speed="170"/>-->
+    <!--<speed name="gongbing" arms="2" speed="170"/>-->
+    <!--<speed name="qibing" arms="3" speed="280"/>-->
+    <!--<speed name="qiangbing" arms="4" speed="170"/>-->
+
+    <!--<speed name="daobing" arms="1" speed="85"/>-->
+    <!--<speed name="gongbing" arms="2" speed="85"/>-->
+    <!--<speed name="qibing" arms="3" speed="140"/>-->
+    <!--<speed name="qiangbing" arms="4" speed="85"/>-->
+    <speed name="daobing" arms="1" speed="100"/>
+    <speed name="gongbing" arms="2" speed="60"/>
+    <speed name="qibing" arms="3" speed="150"/>
+    <speed name="qiangbing" arms="4" speed="80"/>
+
+    <speed name="OSCILL" arms="11000" speed="1"/>
+    <speed name="commonSpeed" arms="11001" speed="150"/>
+    <speed name="item0" arms="10000" speed="150"/>
+    <speed name="item1" arms="10001" speed="150"/>
+    <speed name="item2" arms="10002" speed="150"/>
+    <speed name="item3" arms="10003" speed="150"/>
+    <speed name="item4" arms="10004" speed="150"/>
+    <speed name="item5" arms="10005" speed="150"/>
+    <speed name="item6" arms="10006" speed="150"/>
+    <speed name="item7" arms="10007" speed="150"/>
+</speeds>

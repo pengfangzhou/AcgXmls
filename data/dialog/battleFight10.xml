@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="011001start" bg="1" bgUrl="miaoTang.jpg">
+        <subDialog leftSpeaker="sufei.png" leftSpeakerPos="500,400"
+                   rightSpeaker="caocao.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="苏飞"
+                   speakerTf="600,500,300" speakerContent="臣奉荆州牧之命，向陛下献礼，以尽人臣之义。"
+                   light="1"
+                />
+        <subDialog nameContent="曹操" speakerContent="陛下，臣建议加封他为楚侯，以正君臣名分！" light="2" />
+		<subDialog leftSpeaker="liuxie.png" leftSpeakerPos="500,400"
+		           nameContent="刘协" speakerContent="传朕旨意，加封荆州牧为楚侯，赐白玉一双。" light="1" />
+    </dialog>
+    <dialog id="011004start" bg="1" bgUrl="baoXin.jpg">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="我军利用地理优势，趁曹军空虚偷袭江陵。"
+                   light="1"
+                />
+    </dialog>
+	<dialog id="011007start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="编县位于荆州腹地，没有防御功能"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="曹军极为小心，特地安排一千人在城头巡逻。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="但道高一尺，魔则高一丈！" light="2" />
+		<subDialog nameContent="旁白" speakerContent="我军探子却从城下挖洞进去，并在城中放火。" light="1" />
+    </dialog>
+    <dialog id="011107right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="哪来得这么多荆州军？"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="011107left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="城中已经火起，杀！"
+                   light="1"
+                />
+    </dialog>
+	<dialog id="011010start" bg="1" bgUrl="jiaLi.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhaoyun.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="子龙兄长，弟特来拜访。"
+                   light="1"
+                />
+		<subDialog nameContent="赵云" speakerContent="听说江夏军在赤壁大胜曹军，恭喜贤弟了！" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="可惜没有能和兄长并肩作战，这是我最大的遗憾。" light="1" />
+		<subDialog nameContent="赵云" speakerContent="等我解掉最后一个心结后，或许我会和你并肩作战。" light="2" />
+		
+    </dialog>
+	<dialog id="010110end" bg="1" bgUrl="jiaLi.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="赵将军，你受伤了！"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="七年来，刘备一直怀疑赵云和州牧" light="1" />
+		<subDialog nameContent="旁白" speakerContent="赵云对刘备的忠诚已经被消磨殆尽" light="1" />
+		<subDialog nameContent="旁白" speakerContent="如果说还剩下一点什么，那也只是人情。" light="1" />
+		
+    </dialog>
+	
+	    <dialog id="011013start" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="wojunshibing.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军士兵"
+                   speakerTf="600,500,300" speakerContent="启禀州牧，法正求见。"
+                   light="1"
+                />
+        <subDialog nameContent="{myname}" speakerContent="孝直怎么会来江陵？" light="2" />
+		<subDialog leftSpeaker="fazheng.png" leftSpeakerPos="500,400"
+		           nameContent="法正" speakerContent="刘璋不是守土之主，益州迟早是别人盘中之菜。" light="1" />
+		<subDialog nameContent="法正" speakerContent="我法孝直阅人无数，能复兴汉室者，唯有使君耳！" light="1" />
+		</dialog>
+	
+	<dialog id="011016start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="江东军冒充水贼投降。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="我军守将饮酒误事，误将假冒水贼引入城内。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="江东军里应外合偷袭柴桑。" light="1" />
+		</dialog>
+		
+		 <dialog id="011016right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="jiangdongjunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="江东军士兵"
+                   speakerTf="600,500,300" speakerContent="给我杀！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="011016left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="快冲出去，保住生力军。"
+                   light="1"
+                />
+    </dialog>
+</root>

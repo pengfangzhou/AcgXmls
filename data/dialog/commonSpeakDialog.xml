@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        pangBai: 1-是旁边对话  0-不是旁边对话
+
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="right" bg="1" bgUrl="" pangBai="0">
+        <subDialog leftSpeaker="xiaoqiao.png" leftSpeakerPos="500,400"
+                   rightSpeaker="xiaoqiao.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{womenSpeak}"
+                   speakerTf="600,500,300" speakerContent=""
+                   light="2"
+                />
+    </dialog>
+    <dialog id="left" bg="1" bgUrl="" pangBai="0">
+        <subDialog leftSpeaker="guojia.png" leftSpeakerPos="500,400"
+                   rightSpeaker="xiaoqiao.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{menSpeak}"
+                   speakerTf="600,500,300" speakerContent=""
+                   light="1"
+                />
+    </dialog>
+</root>

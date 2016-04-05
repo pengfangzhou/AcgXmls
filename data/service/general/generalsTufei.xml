@@ -1,0 +1,408 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<level>0</level><needchair>20</needchair><addexp>20</addexp>
+		
+		
+	</item>
+	<item>
+		<level>1</level><needchair>24</needchair><addexp>24</addexp>
+		
+		
+	</item>
+	<item>
+		<level>2</level><needchair>32</needchair><addexp>32</addexp>
+		
+		
+	</item>
+	<item>
+		<level>3</level><needchair>48</needchair><addexp>48</addexp>
+		
+		
+	</item>
+	<item>
+		<level>4</level><needchair>64</needchair><addexp>64</addexp>
+		
+		
+	</item>
+	<item>
+		<level>5</level><needchair>80</needchair><addexp>80</addexp>
+		
+		
+	</item>
+	<item>
+		<level>6</level><needchair>104</needchair><addexp>104</addexp>
+		
+		
+	</item>
+	<item>
+		<level>7</level><needchair>120</needchair><addexp>120</addexp>
+		
+		
+	</item>
+	<item>
+		<level>8</level><needchair>144</needchair><addexp>144</addexp>
+		
+		
+	</item>
+	<item>
+		<level>9</level><needchair>144</needchair><addexp>144</addexp>
+		
+		
+	</item>
+	<item>
+		<level>10</level><needchair>168</needchair><addexp>168</addexp>
+		
+		
+	</item>
+	<item>
+		<level>11</level><needchair>176</needchair><addexp>176</addexp>
+		
+		
+	</item>
+	<item>
+		<level>12</level><needchair>176</needchair><addexp>176</addexp>
+		
+		
+	</item>
+	<item>
+		<level>13</level><needchair>184</needchair><addexp>184</addexp>
+		
+		
+	</item>
+	<item>
+		<level>14</level><needchair>192</needchair><addexp>192</addexp>
+		
+		
+	</item>
+	<item>
+		<level>15</level><needchair>216</needchair><addexp>216</addexp>
+		
+		
+	</item>
+	<item>
+		<level>16</level><needchair>224</needchair><addexp>224</addexp>
+		
+		
+	</item>
+	<item>
+		<level>17</level><needchair>232</needchair><addexp>232</addexp>
+		
+		
+	</item>
+	<item>
+		<level>18</level><needchair>232</needchair><addexp>232</addexp>
+		
+		
+	</item>
+	<item>
+		<level>19</level><needchair>240</needchair><addexp>240</addexp>
+		
+		
+	</item>
+	<item>
+		<level>20</level><needchair>248</needchair><addexp>248</addexp>
+		
+		
+	</item>
+	<item>
+		<level>21</level><needchair>256</needchair><addexp>256</addexp>
+		
+		
+	</item>
+	<item>
+		<level>22</level><needchair>264</needchair><addexp>264</addexp>
+		
+		
+	</item>
+	<item>
+		<level>23</level><needchair>272</needchair><addexp>272</addexp>
+		
+		
+	</item>
+	<item>
+		<level>24</level><needchair>280</needchair><addexp>280</addexp>
+		
+		
+	</item>
+	<item>
+		<level>25</level><needchair>288</needchair><addexp>288</addexp>
+		
+		
+	</item>
+	<item>
+		<level>26</level><needchair>296</needchair><addexp>296</addexp>
+		
+		
+	</item>
+	<item>
+		<level>27</level><needchair>304</needchair><addexp>304</addexp>
+		
+		
+	</item>
+	<item>
+		<level>28</level><needchair>312</needchair><addexp>312</addexp>
+		
+		
+	</item>
+	<item>
+		<level>29</level><needchair>320</needchair><addexp>320</addexp>
+		
+		
+	</item>
+	<item>
+		<level>30</level><needchair>424</needchair><addexp>424</addexp>
+		
+		
+	</item>
+	<item>
+		<level>31</level><needchair>544</needchair><addexp>544</addexp>
+		
+		
+	</item>
+	<item>
+		<level>32</level><needchair>664</needchair><addexp>664</addexp>
+		
+		
+	</item>
+	<item>
+		<level>33</level><needchair>784</needchair><addexp>784</addexp>
+		
+		
+	</item>
+	<item>
+		<level>34</level><needchair>880</needchair><addexp>880</addexp>
+		
+		
+	</item>
+	<item>
+		<level>35</level><needchair>1120</needchair><addexp>1120</addexp>
+		
+		
+	</item>
+	<item>
+		<level>36</level><needchair>1360</needchair><addexp>1360</addexp>
+		
+		
+	</item>
+	<item>
+		<level>37</level><needchair>1600</needchair><addexp>1600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>38</level><needchair>1840</needchair><addexp>1840</addexp>
+		
+		
+	</item>
+	<item>
+		<level>39</level><needchair>2080</needchair><addexp>2080</addexp>
+		
+		
+	</item>
+	<item>
+		<level>40</level><needchair>2400</needchair><addexp>2400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>41</level><needchair>2640</needchair><addexp>2640</addexp>
+		
+		
+	</item>
+	<item>
+		<level>42</level><needchair>2960</needchair><addexp>2960</addexp>
+		
+		
+	</item>
+	<item>
+		<level>43</level><needchair>3280</needchair><addexp>3280</addexp>
+		
+		
+	</item>
+	<item>
+		<level>44</level><needchair>3600</needchair><addexp>3600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>45</level><needchair>4000</needchair><addexp>4000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>46</level><needchair>4320</needchair><addexp>4320</addexp>
+		
+		
+	</item>
+	<item>
+		<level>47</level><needchair>4720</needchair><addexp>4720</addexp>
+		
+		
+	</item>
+	<item>
+		<level>48</level><needchair>5120</needchair><addexp>5120</addexp>
+		
+		
+	</item>
+	<item>
+		<level>49</level><needchair>5600</needchair><addexp>5600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>50</level><needchair>6000</needchair><addexp>6000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>51</level><needchair>6480</needchair><addexp>6480</addexp>
+		
+		
+	</item>
+	<item>
+		<level>52</level><needchair>6960</needchair><addexp>6960</addexp>
+		
+		
+	</item>
+	<item>
+		<level>53</level><needchair>7440</needchair><addexp>7440</addexp>
+		
+		
+	</item>
+	<item>
+		<level>54</level><needchair>8000</needchair><addexp>8000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>55</level><needchair>8800</needchair><addexp>8800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>56</level><needchair>8800</needchair><addexp>8800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>57</level><needchair>9600</needchair><addexp>9600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>58</level><needchair>10400</needchair><addexp>10400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>59</level><needchair>11200</needchair><addexp>11200</addexp>
+		
+		
+	</item>
+	<item>
+		<level>60</level><needchair>12000</needchair><addexp>12000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>61</level><needchair>12000</needchair><addexp>12000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>62</level><needchair>12800</needchair><addexp>12800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>63</level><needchair>13600</needchair><addexp>13600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>64</level><needchair>14400</needchair><addexp>14400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>65</level><needchair>16000</needchair><addexp>16000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>66</level><needchair>16800</needchair><addexp>16800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>67</level><needchair>17600</needchair><addexp>17600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>68</level><needchair>18400</needchair><addexp>18400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>69</level><needchair>19200</needchair><addexp>19200</addexp>
+		
+		
+	</item>
+	<item>
+		<level>70</level><needchair>20800</needchair><addexp>20800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>71</level><needchair>21600</needchair><addexp>21600</addexp>
+		
+		
+	</item>
+	<item>
+		<level>72</level><needchair>22400</needchair><addexp>22400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>73</level><needchair>24000</needchair><addexp>24000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>74</level><needchair>24800</needchair><addexp>24800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>75</level><needchair>26400</needchair><addexp>26400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>76</level><needchair>28000</needchair><addexp>28000</addexp>
+		
+		
+	</item>
+	<item>
+		<level>77</level><needchair>28800</needchair><addexp>28800</addexp>
+		
+		
+	</item>
+	<item>
+		<level>78</level><needchair>30400</needchair><addexp>30400</addexp>
+		
+		
+	</item>
+	<item>
+		<level>79</level><needchair>35000</needchair><addexp>35000</addexp>
+		
+		
+	</item>
+    <item>
+        <level>80</level><needchair>38000</needchair><addexp>35000</addexp>
+
+
+    </item>
+</root>

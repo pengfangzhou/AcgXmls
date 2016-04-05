@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<data>
+	<item time="0" costDiamond="10"/>
+	<item time="1" costDiamond="30"/>
+	<item time="2" costDiamond="60"/>
+	<item time="3" costDiamond="100"/>
+	<item time="4" costDiamond="120"/>
+	<item time="5" costDiamond="140"/>
+	<item time="6" costDiamond="160"/>
+	<item time="7" costDiamond="180"/>
+	<item time="8" costDiamond="200"/>
+	<item time="9" costDiamond="220"/>
+	<item time="10" costDiamond="240"/>
+	<item time="11" costDiamond="260"/>
+	<item time="12" costDiamond="280"/>
+	<item time="13" costDiamond="300"/>
+	<item time="14" costDiamond="320"/>
+	<item time="15" costDiamond="340"/>
+	<item time="16" costDiamond="360"/>
+	<item time="17" costDiamond="380"/>
+	<item time="18" costDiamond="400"/>
+	<item time="19" costDiamond="420"/>
+	<item time="20" costDiamond="440"/>
+	<item time="21" costDiamond="460"/>
+	<item time="22" costDiamond="480"/>
+	<item time="23" costDiamond="500"/>
+	<item time="24" costDiamond="520"/>
+	<item time="25" costDiamond="540"/>
+	<item time="26" costDiamond="560"/>
+	<item time="27" costDiamond="580"/>
+	<item time="28" costDiamond="600"/>
+	<item time="29" costDiamond="620"/>
+	<item time="30" costDiamond="700"/>
+</data>

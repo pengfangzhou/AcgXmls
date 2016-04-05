@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="010801start" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="我军想要和江东建立一种同盟关系。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="而刘备也想得到江东的支持。" light="1" />
+    </dialog>
+    <dialog id="010801right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="liujunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="刘军士兵"
+                   speakerTf="600,500,300" speakerContent="把那些船给我挡住。"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010801left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="想耍花样？没门！"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010801end" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="sunquan.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiaxu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="孙权"
+                   speakerTf="600,500,300" speakerContent="从今天开始，璟公子亦吾弟也。"
+                   light="1"
+                />
+        <subDialog nameContent="孙权" speakerContent="谁敢对他无礼，就是欺我孙权，我必杀之！" light="1" />
+		<subDialog nameContent="旁白" speakerContent="经过斡旋，天子封您为荆州牧。" light="2" />
+		<subDialog nameContent="旁白" speakerContent="我军、孙权、刘备结成抗曹联盟。" light="2" />
+    </dialog>
+    <dialog id="010804start" bg="1" bgUrl="baoXin.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="我曹操率领三万大军南下"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="尽管曹操远没有做好南征准备。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="但蔡瑁早就暗中投降了他。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="他现在不过是来收割已经成熟的庄稼。" light="1" />
+    </dialog>
+    <dialog id="010804right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caocao.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹操"
+                   speakerTf="600,500,300" speakerContent="大军立刻南下，攻克新野樊城，饮马汉水！"
+                   light="2"
+                />
+        
+    </dialog>
+    <dialog id="010804left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="冲过这批部队，我们撤回江夏。"
+                   light="1"
+               />
+        
+    </dialog>
+    <dialog id="010804end" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="曹操三天后抵达樊城。"
+                   light="1"
+                />
+        <subDialog  nameContent="旁白" speakerContent="江北都督张允献樊城和新野投降了曹操。" light="1" />
+        
+    </dialog>
+	
+	<dialog id="010807start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="江夏军利用水军优势，孤立襄阳，准备夺回襄阳。"
+                   light="1"
+                />
+		<subDialog nameContent="旁白" speakerContent="从而造声势，振奋荆州军民抵抗曹军的决心。" light="1" />
+    </dialog>
+    <dialog id="010807end" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="caoren.png" leftSpeakerPos="500,400"
+                   rightSpeaker="xuhuang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹仁"
+                   speakerTf="600,500,300" speakerContent="就仿佛走了一个圆，我们又回到了占领樊城的时候。"
+                   light="1"
+                />
+        <subDialog nameContent="曹仁" speakerContent="唯一的区别是襄阳换了主人，是我们成全了他啊！" light="1" />
+		<subDialog nameContent="徐晃" speakerContent="大将军，我相信明年春天，我们会再战江夏，那时才是真正的较量。" light="2" />
+		<subDialog nameContent="曹仁" speakerContent="我期待那一天的到来！" light="1" />
+    </dialog>
+	
+	<dialog id="010810start" bg="1" bgUrl="miaoTang.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiaxu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="曹操想要在长江北岸牵制住江夏军主力。"
+                   light="1"
+                />
+		<subDialog nameContent="旁白" speakerContent="调大军想全歼安陆郡的江夏军。" light="1" />
+		<subDialog nameContent="贾诩" speakerContent="情况紧急，州牧可立刻命文聘南撤，不可与曹军硬战。" light="2" />
+		<subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+		           nameContent="{myname}" speakerContent="可让安陆大军即刻南撤，不可恋战，我在江边有战船接应。" light="1" />
+    </dialog>
+	    <dialog id="010813start" bg="1" bgUrl="miaoTang.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="贾诩"
+                   speakerTf="600,500,300" speakerContent="州牧，曹军对襄阳快形成包围圈了。"
+                   light="1"
+                />
+		<subDialog nameContent="{myname}" speakerContent="让我军立即撤出，让曹操和刘备可以直接接触。" light="2" />
+		</dialog>
+   
+	<dialog id="010816start" bg="1" bgUrl="baoXin.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="趁曹操大军在江陵的时机。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="我军集中兵力击溃安陆郡的曹军。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="呐喊声响彻云霄，一万江夏军铺天盖地。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="如排山倒海般向安陆县冲杀而去。" light="1" />
+		</dialog>
+</root>

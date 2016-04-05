@@ -1,0 +1,408 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<level>0</level><totalexp>0</totalexp><needexp>0</needexp>
+		
+		
+	</item>
+	<item>
+		<level>1</level><totalexp>25</totalexp><needexp>25</needexp>
+		
+		
+	</item>
+	<item>
+		<level>2</level><totalexp>55</totalexp><needexp>30</needexp>
+		
+		
+	</item>
+	<item>
+		<level>3</level><totalexp>95</totalexp><needexp>40</needexp>
+		
+		
+	</item>
+	<item>
+		<level>4</level><totalexp>155</totalexp><needexp>60</needexp>
+		
+		
+	</item>
+	<item>
+		<level>5</level><totalexp>235</totalexp><needexp>80</needexp>
+		
+		
+	</item>
+	<item>
+		<level>6</level><totalexp>335</totalexp><needexp>100</needexp>
+		
+		
+	</item>
+	<item>
+		<level>7</level><totalexp>465</totalexp><needexp>130</needexp>
+		
+		
+	</item>
+	<item>
+		<level>8</level><totalexp>615</totalexp><needexp>150</needexp>
+		
+		
+	</item>
+	<item>
+		<level>9</level><totalexp>795</totalexp><needexp>180</needexp>
+		
+		
+	</item>
+	<item>
+		<level>10</level><totalexp>975</totalexp><needexp>180</needexp>
+		
+		
+	</item>
+	<item>
+		<level>11</level><totalexp>1185</totalexp><needexp>210</needexp>
+		
+		
+	</item>
+	<item>
+		<level>12</level><totalexp>1405</totalexp><needexp>220</needexp>
+		
+		
+	</item>
+	<item>
+		<level>13</level><totalexp>1625</totalexp><needexp>220</needexp>
+		
+		
+	</item>
+	<item>
+		<level>14</level><totalexp>1855</totalexp><needexp>230</needexp>
+		
+		
+	</item>
+	<item>
+		<level>15</level><totalexp>2095</totalexp><needexp>240</needexp>
+		
+		
+	</item>
+	<item>
+		<level>16</level><totalexp>2365</totalexp><needexp>270</needexp>
+		
+		
+	</item>
+	<item>
+		<level>17</level><totalexp>2645</totalexp><needexp>280</needexp>
+		
+		
+	</item>
+	<item>
+		<level>18</level><totalexp>2935</totalexp><needexp>290</needexp>
+		
+		
+	</item>
+	<item>
+		<level>19</level><totalexp>3225</totalexp><needexp>290</needexp>
+		
+		
+	</item>
+	<item>
+		<level>20</level><totalexp>3525</totalexp><needexp>300</needexp>
+		
+		
+	</item>
+	<item>
+		<level>21</level><totalexp>3835</totalexp><needexp>310</needexp>
+		
+		
+	</item>
+	<item>
+		<level>22</level><totalexp>4155</totalexp><needexp>320</needexp>
+		
+		
+	</item>
+	<item>
+		<level>23</level><totalexp>4485</totalexp><needexp>330</needexp>
+		
+		
+	</item>
+	<item>
+		<level>24</level><totalexp>4825</totalexp><needexp>340</needexp>
+		
+		
+	</item>
+	<item>
+		<level>25</level><totalexp>5175</totalexp><needexp>350</needexp>
+		
+		
+	</item>
+	<item>
+		<level>26</level><totalexp>5535</totalexp><needexp>360</needexp>
+		
+		
+	</item>
+	<item>
+		<level>27</level><totalexp>5905</totalexp><needexp>370</needexp>
+		
+		
+	</item>
+	<item>
+		<level>28</level><totalexp>6285</totalexp><needexp>380</needexp>
+		
+		
+	</item>
+	<item>
+		<level>29</level><totalexp>6675</totalexp><needexp>390</needexp>
+		
+		
+	</item>
+	<item>
+		<level>30</level><totalexp>7075</totalexp><needexp>400</needexp>
+		
+		
+	</item>
+	<item>
+		<level>31</level><totalexp>7605</totalexp><needexp>530</needexp>
+		
+		
+	</item>
+	<item>
+		<level>32</level><totalexp>8285</totalexp><needexp>680</needexp>
+		
+		
+	</item>
+	<item>
+		<level>33</level><totalexp>9115</totalexp><needexp>830</needexp>
+		
+		
+	</item>
+	<item>
+		<level>34</level><totalexp>10095</totalexp><needexp>980</needexp>
+		
+		
+	</item>
+	<item>
+		<level>35</level><totalexp>11195</totalexp><needexp>1100</needexp>
+		
+		
+	</item>
+	<item>
+		<level>36</level><totalexp>12595</totalexp><needexp>1400</needexp>
+		
+		
+	</item>
+	<item>
+		<level>37</level><totalexp>14295</totalexp><needexp>1700</needexp>
+		
+		
+	</item>
+	<item>
+		<level>38</level><totalexp>16295</totalexp><needexp>2000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>39</level><totalexp>18595</totalexp><needexp>2300</needexp>
+		
+		
+	</item>
+	<item>
+		<level>40</level><totalexp>21195</totalexp><needexp>2600</needexp>
+		
+		
+	</item>
+	<item>
+		<level>41</level><totalexp>24195</totalexp><needexp>3000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>42</level><totalexp>27495</totalexp><needexp>3300</needexp>
+		
+		
+	</item>
+	<item>
+		<level>43</level><totalexp>31195</totalexp><needexp>3700</needexp>
+		
+		
+	</item>
+	<item>
+		<level>44</level><totalexp>35295</totalexp><needexp>4100</needexp>
+		
+		
+	</item>
+	<item>
+		<level>45</level><totalexp>39795</totalexp><needexp>4500</needexp>
+		
+		
+	</item>
+	<item>
+		<level>46</level><totalexp>44795</totalexp><needexp>5000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>47</level><totalexp>50195</totalexp><needexp>5400</needexp>
+		
+		
+	</item>
+	<item>
+		<level>48</level><totalexp>56095</totalexp><needexp>5900</needexp>
+		
+		
+	</item>
+	<item>
+		<level>49</level><totalexp>62495</totalexp><needexp>6400</needexp>
+		
+		
+	</item>
+	<item>
+		<level>50</level><totalexp>69495</totalexp><needexp>7000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>51</level><totalexp>76995</totalexp><needexp>7500</needexp>
+		
+		
+	</item>
+	<item>
+		<level>52</level><totalexp>85095</totalexp><needexp>8100</needexp>
+		
+		
+	</item>
+	<item>
+		<level>53</level><totalexp>93795</totalexp><needexp>8700</needexp>
+		
+		
+	</item>
+	<item>
+		<level>54</level><totalexp>103095</totalexp><needexp>9300</needexp>
+		
+		
+	</item>
+	<item>
+		<level>55</level><totalexp>113095</totalexp><needexp>10000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>56</level><totalexp>124095</totalexp><needexp>11000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>57</level><totalexp>135095</totalexp><needexp>11000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>58</level><totalexp>147095</totalexp><needexp>12000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>59</level><totalexp>160095</totalexp><needexp>13000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>60</level><totalexp>174095</totalexp><needexp>14000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>61</level><totalexp>189095</totalexp><needexp>15000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>62</level><totalexp>204095</totalexp><needexp>15000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>63</level><totalexp>220095</totalexp><needexp>16000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>64</level><totalexp>237095</totalexp><needexp>17000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>65</level><totalexp>255095</totalexp><needexp>18000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>66</level><totalexp>275095</totalexp><needexp>20000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>67</level><totalexp>296095</totalexp><needexp>21000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>68</level><totalexp>318095</totalexp><needexp>22000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>69</level><totalexp>341095</totalexp><needexp>23000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>70</level><totalexp>365095</totalexp><needexp>24000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>71</level><totalexp>391095</totalexp><needexp>26000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>72</level><totalexp>418095</totalexp><needexp>27000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>73</level><totalexp>446095</totalexp><needexp>28000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>74</level><totalexp>476095</totalexp><needexp>30000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>75</level><totalexp>507095</totalexp><needexp>31000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>76</level><totalexp>540095</totalexp><needexp>33000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>77</level><totalexp>575095</totalexp><needexp>35000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>78</level><totalexp>611095</totalexp><needexp>36000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>79</level><totalexp>649095</totalexp><needexp>38000</needexp>
+		
+		
+	</item>
+	<item>
+		<level>80</level><totalexp>687095</totalexp><needexp>38000</needexp>
+		
+		
+	</item>
+</root>

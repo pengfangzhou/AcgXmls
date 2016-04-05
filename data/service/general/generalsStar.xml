@@ -1,0 +1,33 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<root>
+	<item>
+		<star>0</star>
+		<needStoneNum>10</needStoneNum>
+		<needMoney>0</needMoney>
+		<changeNum>7</changeNum>
+	</item>
+	<item>
+		<star>1</star>
+		<needStoneNum>20</needStoneNum>
+		<needMoney>35000</needMoney>
+		<changeNum>18</changeNum>
+	</item>
+	<item>
+		<star>2</star>
+		<needStoneNum>50</needStoneNum>
+		<needMoney>120000</needMoney>
+		<changeNum>30</changeNum>
+	</item>
+	<item>
+		<star>3</star>
+		<needStoneNum>100</needStoneNum>
+		<needMoney>300000</needMoney>
+		<changeNum>40</changeNum>
+	</item>
+	<item>
+		<star>4</star>
+		<needStoneNum>150</needStoneNum>
+		<needMoney>800000</needMoney>
+		<changeNum>50</changeNum>
+	</item>
+</root>

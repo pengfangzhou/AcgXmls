@@ -1,0 +1,38 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<giftid>1</giftid><goodsid>diamond</goodsid><num>10</num>
+		
+		
+	</item>
+	<item>
+		<giftid>2</giftid><goodsid>diamond</goodsid><num>15</num>
+		
+		
+	</item>
+	<item>
+		<giftid>3</giftid><goodsid>diamond</goodsid><num>20</num>
+		
+		
+	</item>
+	<item>
+		<giftid>4</giftid><goodsid>diamond</goodsid><num>25</num>
+		
+		
+	</item>
+	<item>
+		<giftid>5</giftid><goodsid>diamond</goodsid><num>30</num>
+		
+		
+	</item>
+	<item>
+		<giftid>6</giftid><goodsid>diamond</goodsid><num>35</num>
+		
+		
+	</item>
+	<item>
+		<giftid>7</giftid><goodsid>diamond</goodsid><num>100</num>
+		
+		
+	</item>
+</root>

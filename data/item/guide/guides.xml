@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<!--
+            type,"c"条件操作引导，"o"操作引导
+            force:ForceOperation, 1:true,0:false
+        -->
+<guides>
+    <guide id="1001" name="修改昵称" type="o" priority="1" serverStep="6">
+        <subguide index="0" stepName="toNickPanel" window="mainScene" mmguide="" force="1" des=" 跳转到修改昵称面板"/>
+        <subguide index="1" stepName="toDice" window="ChangeNicknamePanel" mmguide="guide1" force="0" des="指向骰子"/>
+        <!--先忽略<subguide index="2" stepName="toConfirm" window="ChangeNicknamePanel" mmguide="" force="1" des="指向确定按钮"/>-->
+    </guide>
+    <guide id="1002" name="领取新手礼包" type="o" priority="2" serverStep="7">
+        <subguide index="0" stepName="toEmailBtn" window="mainScene" mmguide="guide2" force="1" des="指向邮件按钮"/>
+        <subguide index="1" stepName="toRewardRender" window="email" mmguide="guide3" force="1" des="指向新手礼包邮件"/>
+        <subguide index="2" stepName="toRewardBtn" window="emailDetails" mmguide="" force="1" des="指向领取礼包按钮"/>
+    </guide>
+    <guide id="1003" name="进入战斗" type="o" priority="3" serverStep="8">
+        <subguide index="0" stepName="toBattleBtn" window="mainScene" mmguide="guide4" force="1" des="指向战役按钮"/>
+        <subguide index="1" stepName="toBattleLevel" window="battleLevel" mmguide="" force="1" des="指向击杀散兵关卡"/>
+        <subguide index="2" stepName="toFightBtn" window="battleLevelDetails" mmguide="" force="1" des="指向关卡详情战斗按钮"/>
+        <subguide index="3" stepName="firstGeneral" window="FormationState" mmguide="guide5" force="1" des="指向第一个武将"/>
+        <subguide index="4" stepName="secondGeneral" window="FormationState" mmguide="" force="1" des="指向第二个武将"/>
+        <subguide index="5" stepName="thirdlyGeneral" window="FormationState" mmguide="" force="1" des="指向第三个武将"/>
+        <subguide index="6" stepName="toZhuJue" window="FormationState" mmguide="" force="1" des="指引点主角"/>
+        <subguide index="7" stepName="toMoveZhuJue" window="FormationState" mmguide="guide5_1" force="0" des="主角自动到上排阿牛上面"/>
+        <subguide index="8" stepName="toPutdownZhuJue" window="FormationState" mmguide="guide5_2" force="1" des="将主角放下"/>
+        <subguide index="9" stepName="toFormationBtn" window="FormationState" mmguide="guide6" force="1" des="指向布阵按钮"/>
+        <subguide index="10" stepName="toSelectFormation" window="tacticalFormationPanel" mmguide="" force="1" des="指向锥形阵"/>
+        <subguide index="11" stepName="toStartBtn" window="FormationState" mmguide="" force="0" des="指向开战按钮"/>
+    </guide>
+    <guide id="armEquip" name="指引换装" type="c" priority="101" openSectionId="1" openLevelId="2">
+        <subguide index="0" stepName="toGeneralBtn" window="battleLevel" mmguide="guide7" force="1" des=" 指引点：阵型"/>
+        <subguide index="1" stepName="toGeneralRender" window="general_scene" mmguide="guide8" force="1" des="指引点：阿牛"/>
+        <subguide index="2" stepName="toEquipRender" window="general_window" mmguide="guide9" force="1" des="指引点：碧玉"/>
+        <subguide index="3" stepName="toEquipBtn" window="equip_panel_detail" mmguide="" force="1" des="指引点：装备"/>
+        <subguide index="4" stepName="toBackKey_window" window="general_window" mmguide="guide10" force="0" des="指引点：返回"/>
+        <subguide index="5" stepName="toBackKey_scene" window="general_scene" mmguide="guide10_1" force="0" des="指引点：返回"/>
+        <subguide index="6" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="自动跳到：第二关"/>
+    </guide>
+    <guide id="getGunYu" name="弹出怎么领取关羽提示" type="c" priority="105" openSectionId="1" openLevelId="3">
+        <subguide index="0" stepName="openGetGuanYu" window="battleLevel" mmguide="" force="0" des=" 打开领取关羽提示面板"/>
+        <subguide index="1" stepName="toMonthSign" window="get_guanyu" mmguide="guide105" force="0" des=" 指导去签到"/>
+        <subguide index="2" stepName="toBattleLevel_3" window="battleLevel" mmguide="" force="0" des=" 指引：第3关"/>
+    </guide>
+    <guide id="lottery" name="新手抽奖" type="c" priority="110" openSectionId="1" openLevelId="4">
+        <subguide index="0" stepName="toLotteryPanel" window="battleLevel" mmguide="" force="1" des="跳转到抽奖面板"/>
+        <subguide index="1" stepName="toGoldBuy1" window="LOTTERY_WINDOW" mmguide="lottery1" force="1" des="指向金币购买1个"/>
+        <subguide index="2" stepName="toConfirm" window="LOTTERY_RESULT_PANEL" mmguide="lottery2" force="1" des="指向金币购买确定按钮"/>
+        <subguide index="3" stepName="toDiamondBuy1" window="LOTTERY_WINDOW" mmguide="lottery3" force="1" des="指向钻石购买1个"/>
+        <subguide index="4" stepName="toConfirm" window="LOTTERY_RESULT_PANEL" mmguide="lottery4" force="1" des="指向钻石购买的确定按钮"/>
+        <subguide index="5" stepName="back" window="LOTTERY_WINDOW" mmguide="lottery5" force="0" des="提示返回"/>
+        <subguide index="6" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="刷新焦点"/>
+    </guide>
+    <guide id="newGeneral" name="指引新武将上场" type="c" priority="120" openSectionId="1" openLevelId="4">
+        <subguide index="0" stepName="toNewGeneral" window="FormationState" mmguide="guide11" force="1" des="指引新武将上场"/>
+        <subguide index="2" stepName="toStartBtn" window="FormationState" mmguide="" force="0" des="焦点自动到开战"/>
+    </guide>
+    <guide id="firstMissionReward" name="指引领取第一个任务奖励" type="c" priority="130" openSectionId="1" openLevelId="5">
+        <subguide index="0" stepName="toMissionBtn" window="battleLevel" mmguide="mission1_1" force="1" des="指引点：任务"/>
+        <subguide index="1" stepName="toMissionRender_1" window="mission" mmguide="" force="1" des="指引点完成的任务：迎接挑战1"/>
+        <subguide index="2" stepName="toReceiveBtn" window="missionDetails" mmguide="" force="1" des="指引点：领取"/>
+        <subguide index="3" stepName="toMissionRender_1_2" window="mission" mmguide="" force="1" des="指引点完成的任务：迎接挑战2"/>
+        <subguide index="4" stepName="toReceiveBtn" window="missionDetails" mmguide="" force="1" des="指引点：领取"/>
+        <subguide index="5" stepName="toBackKey" window="mission" mmguide="" force="0" des="返回"/>
+        <subguide index="6" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="焦点自动跳到下一关"/>
+    </guide>
+    <guide id="dramaGeneral" name="剧情武将登场" type="c" priority="140" openSectionId="1" openLevelId="7">
+        <subguide index="0" stepName="toDramaGeneral" window="FormationState" mmguide="" force="1" des="赵云来临"/>
+        <!--先忽略<subguide index="1" stepName="toNewGeneral" window="FormationState" mmguide="" force="0" des="赵云入阵"/>-->
+        <subguide index="2" stepName="toStartBtn" window="FormationState" mmguide="" force="0" des="焦点自动到开战"/>
+    </guide>
+    <guide id="jinJie" name="指引升阶" type="c" priority="150" openSectionId="1" openLevelId="8">
+        <subguide index="0" stepName="toGeneralBtn" window="battleLevel" mmguide="" force="1" des=" 指引点：阵型"/>
+        <subguide index="1" stepName="toGeneralRender" window="general_scene" mmguide="" force="1" des="指引点：阿牛"/>
+        <subguide index="2" stepName="toEquipBtn" window="general_window" mmguide="" force="1" des="指引一键装备"/>
+        <subguide index="3" stepName="toJinJieBtn" window="general_window" mmguide="guide12" force="1" des="指引点：升阶"/>
+        <subguide index="4" stepName="toBackKey_window" window="general_window" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="5" stepName="toBackKey_scene" window="general_scene" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="6" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="自动跳到下一个关卡点"/>
+    </guide>
+    <guide id="skillUp" name="指引技能升级" type="c" priority="160" openSectionId="1" openLevelId="9">
+        <subguide index="0" stepName="toGeneralBtn" window="battleLevel" mmguide="" force="1" des=" 指引点：阵型"/>
+        <subguide index="1" stepName="toZhuJueRender" window="general_scene" mmguide="" force="1" des="指引点:主角"/>
+        <subguide index="2" stepName="toSkillBtn" window="general_window" mmguide="skillUpl_1" force="1" des="指引点:技能"/>
+        <subguide index="3" stepName="toSkillUpBtn" window="general_panel_skill" mmguide="" force="1" des="指引点:升级第一个技能"/>
+        <subguide index="4" stepName="toBackKey_skillPanel" window="general_panel_skill" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="5" stepName="toBackKey_window" window="general_window" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="6" stepName="toBackKey_scene" window="general_scene" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="7" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="自动跳到下一个关卡点"/>
+    </guide>
+    <guide id="dramaGeneralLeave" name="剧情武将离去" type="c" priority="200" openSectionId="1" openLevelId="10">
+        <subguide index="0" stepName="toBuyDiamond" window="FightWin" mmguide="" force="0" des="首冲推荐"/>
+        <subguide index="1" stepName="toPay" window="firstPayGiftBag" mmguide="dramaGeneral_2" force="0" des="指导购买"/>
+    </guide>
+    <guide id="activitiesReward" name="指引领取活动奖励详情" type="c" priority="170" openSectionId="1" openLevelId="11">
+        <subguide index="0" stepName="toActivitiesBtn" window="battleLevel" mmguide="activities1_1" force="1" des="指引点：活动"/>
+        <subguide index="1" stepName="toActivitiesRender" window="dailyActivities" mmguide="" force="0" des="指引点领完成的活动：普通副本杀手"/>
+        <!--<subguide index="2" stepName="toReceiveBtn" window="ActivitiesDetails" mmguide="" force="1" des="指引点：领取"/>-->
+        <subguide index="3" stepName="toBackKey" window="dailyActivities" mmguide="" force="0" des="返回"/>
+        <subguide index="4" stepName="updateCursor" window="battleLevel" mmguide="mission2_1" force="0" des="焦点自动跳到下一关"/>
+    </guide>
+    <guide id="secondMissionReward" name="指引领取第二个任务奖励" type="c" priority="180" openSectionId="1" openLevelId="14">
+        <subguide index="0" stepName="toMissionBtn" window="battleLevel" mmguide="mission2_1" force="1" des="指引点：任务"/>
+        <subguide index="1" stepName="toMissionRender_2" window="mission" mmguide="" force="1" des="指引点完成的任务：迎接挑战"/>
+        <subguide index="2" stepName="toReceiveBtn" window="missionDetails" mmguide="" force="1" des="指引点：领取"/>
+        <subguide index="3" stepName="toBackKey" window="mission" mmguide="" force="0" des="返回"/>
+    </guide>
+    <guide id="raiseStar" name="指引升爵" type="c" priority="190" openSectionId="1" openLevelId="14">
+        <subguide index="0" stepName="toGeneralBtn" window="battleLevel" mmguide="" force="1" des=" 指引点：阵型"/>
+        <subguide index="1" stepName="toZhuJueRender" window="general_scene" mmguide="" force="1" des="指引点：主角"/>
+        <subguide index="2" stepName="toFengJueBtn" window="general_window" mmguide="guide16" force="1" des="指引点：封爵"/>
+        <!--<subguide index="3" stepName="toConfirmBtn" window="" mmguide="" force="1" des="指引点：确定"/>-->
+        <subguide index="4" stepName="toBackKey_window" window="general_window" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="5" stepName="toBackKey_scene" window="general_scene" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="6" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="自动跳到下一个关卡点"/>
+    </guide>
+    <guide id="thirdlyMissionReward" name="指引领取第三个任务奖励" type="c" priority="210" openSectionId="2" openLevelId="5">
+        <subguide index="0" stepName="toMissionBtn" window="battleLevel" mmguide="mission3_1" force="1" des="指引点：任务"/>
+        <subguide index="1" stepName="toMissionRender_3" window="mission" mmguide="" force="1" des="指引点完成的任务：迎接挑战"/>
+        <subguide index="2" stepName="toReceiveBtn" window="missionDetails" mmguide="" force="1" des="指引点：领取"/>
+        <subguide index="3" stepName="toBackKey" window="mission" mmguide="" force="0" des="返回"/>
+    </guide>
+    <guide id="getGeneral" name="指引得武将" type="c" priority="220" openSectionId="2" openLevelId="5">
+        <subguide index="0" stepName="toGeneralBtn" window="battleLevel" mmguide="" force="1" des=" 指引点：阵型"/>
+        <subguide index="1" stepName="toCallGeneral" window="general_scene" mmguide="" force="1" des="指引点:新可召唤武将"/>
+        <subguide index="2" stepName="toBackKey_scene" window="general_scene" mmguide="" force="0" des="指引点：返回"/>
+        <subguide index="3" stepName="updateCursor" window="battleLevel" mmguide="" force="0" des="自动跳到下一个关卡点"/>
+    </guide>
+    <guide id="harem" name="后宫新手引导" type="c" priority="230" serverStep="0">
+        <subguide index="0" stepName="toHaremWindow" window="mainScene" mmguide="open_harem" force="1" des="指向后宫按钮"/>
+        <!--先忽略<subguide index="1" stepName="toOpenBtn" window="HAREM" mmguide="" force="1" des="指向钦点按钮"/>-->
+        <!--先忽略<subguide index="2" stepName="toLevelUpBtn" window="HAREM" mmguide="" force="1" des="指向缠绵按钮"/>-->
+    </guide>
+    <guide id="arena" name="巅峰对决开启" type="c" priority="240" serverStep="0">
+        <subguide index="0" stepName="toArenaWindow" window="mainScene" mmguide="open_arena" force="1" des="指向巅峰对决按钮"/>
+        <subguide index="1" stepName="toEnemy" window="ARENA_WINDOW" mmguide="arena_fight" force="1" des="指向挑战按钮"/>
+    </guide>
+    <guide id="worship" name="膜拜开启" type="c" priority="250" serverStep="0">
+        <subguide index="0" stepName="toWorshipWindow" window="mainScene" mmguide="open_worship" force="1" des="指向膜拜按钮"/>
+        <subguide index="1" stepName="toNo1" window="WORSHIP" mmguide="" force="1" des="膜拜第一名"/>
+    </guide>
+	<guide id="trial_1_1" name="白门楼_1" type="c" priority="251" serverStep="0" trialId="020101">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_1_1" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_1_2" name="白门楼_2" type="c" priority="260" serverStep="0" trialId="020102">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_1_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_1_3" name="白门楼_3" type="c" priority="270" serverStep="0" trialId="020103">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_1_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_1_4" name="白门楼_4" type="c" priority="280" serverStep="0" trialId="020104">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_1_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_1_5" name="白门楼_5" type="c" priority="290" serverStep="0" trialId="020105">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_1_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_2_1" name="三江口_1" type="c" priority="300" serverStep="0" trialId="020201">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_2_1" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_2_2" name="三江口_2" type="c" priority="310" serverStep="0" trialId="020202">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_2_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_2_3" name="三江口_3" type="c" priority="320" serverStep="0" trialId="020203">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_2_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_2_4" name="三江口_4" type="c" priority="330" serverStep="0" trialId="020204">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_2_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_2_5" name="三江口_5" type="c" priority="340" serverStep="0" trialId="020205">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_2_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_3_1" name="铜雀台_1" type="c" priority="350" serverStep="0" trialId="020301">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_3_1" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_3_2" name="铜雀台_2" type="c" priority="360" serverStep="0" trialId="020302">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_3_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_3_3" name="铜雀台_3" type="c" priority="370" serverStep="0" trialId="020303">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_3_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_3_4" name="铜雀台_4" type="c" priority="380" serverStep="0" trialId="020304">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_3_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="trial_3_5" name="铜雀台_5" type="c" priority="390" serverStep="0" trialId="020305">
+        <subguide index="0" stepName="toTrailWindow" window="mainScene" mmguide="open_trail_3_2" force="1" des="指向试炼按钮"/>
+    </guide>
+	<guide id="jingying" name="精英" type="c" priority="400" serverStep="0" >
+        <subguide index="0" stepName="toJingYing" window="battleLevel" mmguide="open_jingying" force="1" des="指向精英按钮"/>
+    </guide>
+	<guide id="baozang" name="藏宝地穴" type="c" priority="410" serverStep="0" >
+        <subguide index="0" stepName="toBaoZangWindow" window="mainScene" mmguide="open_baozang" force="1" des="指向铁骑征伐按钮"/>
+    </guide>
+	<guide id="varietyMarket" name="杂货铺" type="c" priority="420" serverStep="0">
+		<subguide index="0" stepName="toShangHangWindow" window="mainScene" mmguide="" force="1" des="指向商行按钮"/>
+		<subguide index="1" stepName="toVarietyMarket" window="shangHang" mmguide="" force="1" des="指向杂货铺按钮"/>
+	</guide>
+	<guide id="market" name="集市" type="c" priority="430" serverStep="0">
+		<subguide index="0" stepName="toShangHangWindow" window="mainScene" mmguide="" force="1" des="指向商行按钮"/>
+		<subguide index="1" stepName="toMarket" window="shangHang" mmguide="" force="1" des="指向集市按钮"/>
+	</guide>
+	<guide id="blackMarket" name="黑市" type="c" priority="440" serverStep="0">
+		<subguide index="0" stepName="toShangHangWindow" window="mainScene" mmguide="" force="1" des="指向商行按钮"/>
+		<subguide index="1" stepName="toBlackMarket" window="shangHang" mmguide="" force="1" des="指向黑市按钮"/>
+	</guide>
+</guides>

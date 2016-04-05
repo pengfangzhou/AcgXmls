@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="010901start" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="三天后，二十五万曹操大军兵分三路从江陵浩浩荡荡出发了。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="由此，征服江夏的战争终于缓缓拉开了序幕。" light="1" />
+    </dialog>
+    <dialog id="010904start" bg="1" bgUrl="heCha.jpg">
+        <subDialog leftSpeaker="caocao.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹操"
+                   speakerTf="600,500,300" speakerContent="只要你肯归顺朝廷，任何条件我都可以答应你。"
+                   light="1"
+                />
+        <subDialog nameContent="{myname}" speakerContent="我开出什么条件都会答应？" light="2" />
+		<subDialog nameContent="曹操" speakerContent="你若对襄阳王之位不满，那让你登临九鼎也并无不可。" light="1" />
+		<subDialog nameContent="曹操" speakerContent="你本来就是嫡系皇族，我愿意劝说天子退位，拥戴你为新帝。" light="1" />
+    </dialog>
+    <dialog id="010907start" bg="1" bgUrl="heCha.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="丞相身边有无数忠臣挚友，却无一个劲敌，岂不是很寂寞。"
+                   light="1"
+                />
+		<subDialog nameContent="{myname}" speakerContent="在下不才，愿为丞相平生第一劲敌。" light="1" />
+    </dialog>
+    <dialog id="010910start" bg="1" bgUrl="heCha.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="caocao.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="十年后，我死，请丞相为我树碑。"
+                   light="1"
+                />
+		<subDialog nameContent="{myname}" speakerContent="若丞相死，我愿为丞相建祠。" light="1" />
+		<subDialog nameContent="曹操" speakerContent="说得好！十年后，我亲自给璟公子树碑刻铭。" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="丞相错了！应该是我亲自为丞相建祠。" light="1" />
+    </dialog>
+    <dialog id="010913start" bg="1" bgUrl="miaoTang.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiaxu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="是夜，月光微明，清冷的月色照耀在茫茫的大江之上。"
+                   light="1"
+                />
+        <subDialog nameContent="贾诩" speakerContent="州牧已占尽赤壁之利，为何就不肯给曹丞相留一点余地呢？" light="2" />
+		<subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+		           nameContent="{myname}" speakerContent="我信奉的是王道，善守者，藏于九地之下，善攻者，攻于九天之上。" light="1" />
+		<subDialog nameContent="{myname}" speakerContent="对于曹操，我的王道就是，要么不做，要么做绝！" light="1" />
+		</dialog>
+    <dialog id="010916start" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="我军出其不意，纵火焚烧曹操铁链船。"
+                   light="1"
+                />
+        <subDialog nameContent="旁白" speakerContent="风借火势，烈焰腾空。" light="1" />
+		<subDialog nameContent="旁白" speakerContent="曹军士兵们惨叫悲号，争先恐后逃命。" light="1" />
+		</dialog>
+		
+		 <dialog id="010916right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="caojunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="曹军士兵"
+                   speakerTf="600,500,300" speakerContent="冲过去。"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010916left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="wojundajiang.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="我军大将"
+                   speakerTf="600,500,300" speakerContent="杀！"
+                   light="1"
+                />
+    </dialog>
+</root>

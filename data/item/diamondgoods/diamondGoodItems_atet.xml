@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<!--type【1】月卡【2】无限购买【3】限制购买-->
+<data>
+    <item id="08001" typeNo="2295" name="月度礼包" icon="bd_icon_month" price="20" des="连续30天每天可领取120钻" yunying="tuiJian" index="0" payImageUrl="letv0"/>
+    <item id="08034" typeNo="2306" name="6千钻石" icon="bd_icon_6480" price="578" des="另赠送6200钻石(限赠1次)" yunying="tuiJian" index="1" payImageUrl="letv5"/>
+    <item id="08035" typeNo="2306" name="6千钻石" icon="bd_icon_6480" price="578" des="另赠送1100钻石" yunying="normal" index="2" payImageUrl="letv5"/>
+    <item id="08020" typeNo="2303" name="2千钻石" icon="bd_icon_1980" price="198" des="另赠送2100钻石(限赠1次)" yunying="tuiJian" index="3" payImageUrl="letv3"/>
+    <item id="08021" typeNo="2303" name="2千钻石" icon="bd_icon_1980" price="198" des="另赠送300钻石" yunying="normal" index="4" payImageUrl="letv3"/>
+    <item id="08036" typeNo="2307" name="2万钻石" icon="bd_icon_6480" price="1920" des="另赠送22000钻石(限赠1次)" yunying="tuiJian" index="5" payImageUrl="letv5"/>
+    <item id="08037" typeNo="2307" name="2万钻石" icon="bd_icon_6480" price="1920" des="另赠送7000钻石" yunying="normal" index="6" payImageUrl="letv5"/>
+    <item id="08030" typeNo="2304" name="3千钻石" icon="bd_icon_3280" price="298" des="另赠送3200钻石(限赠1次)" yunying="tuiJian" index="7" payImageUrl="letv4"/>
+    <item id="08031" typeNo="2304" name="3千钻石" icon="bd_icon_3280" price="298" des="另赠送800钻石" yunying="normal" index="8" payImageUrl="letv4"/>
+    <item id="08018" typeNo="2296" name="50钻石" icon="bd_icon_300" price="5" des=" " yunying="normal" index="9" payImageUrl="letv1"/>
+    <item id="08038" typeNo="2308" name="4万钻石" icon="bd_icon_6480" price="3780" des="另赠送43000钻石(限赠1次)" yunying="tuiJian" index="10" payImageUrl="letv5"/>
+    <item id="08039" typeNo="2308" name="4万钻石" icon="bd_icon_6480" price="3780" des="另赠送21000钻石" yunying="normal" index="11" payImageUrl="letv5"/>
+    <item id="08013" typeNo="2300" name="300钻石" icon="bd_icon_300" price="30" des="另赠送300钻石(限赠1次)" yunying="tuiJian" index="12" payImageUrl="letv1"/>
+    <item id="08014" typeNo="2300" name="300钻石" icon="bd_icon_300" price="30" des="另赠送10钻石" yunying="normal" index="13" payImageUrl="letv1"/>
+    <item id="08024" typeNo="2302" name="1千钻石" icon="bd_icon_980" price="98" des="另赠送1000钻石(限赠1次)" yunying="tuiJian" index="14" payImageUrl="letv2"/>
+    <item id="08025" typeNo="2302" name="1千钻石" icon="bd_icon_980" price="98" des="另赠送80钻石" yunying="normal" index="15" payImageUrl="letv2"/>
+    <item id="08010" typeNo="2374" name="1个钻石" icon="bd_icon_300" price="1" des="另赠送1钻石" yunying="normal" index="16" payImageUrl="letv1"/>
+</data>

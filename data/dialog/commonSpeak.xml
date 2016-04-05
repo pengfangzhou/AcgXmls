@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<!--nameContent:color
+        speakerContent:
+        type：
+    	-->
+	<speakItem id="2" nameContent="年轻女将军" speakerContent="体恤飞凫，飘忽若神。 " type="0" sex="0" soundId="commonDialogWomen_001"/>
+	<speakItem id="2" nameContent="年轻女将军" speakerContent="你敢来嘛？ ~ " type="0" sex="0" soundId="commonDialogWomen_002"/>
+	<speakItem id="3" nameContent="年轻女将军" speakerContent="接住我得大招哦！~ " type="0" sex="0" soundId="commonDialogWomen_003"/>
+	<speakItem id="4" nameContent="年轻女将军" speakerContent="你们累了，休息吧~" type="0" sex="0" soundId="commonDialogWomen_004"/>
+	<speakItem id="5" nameContent="年轻女将军" speakerContent="小毛贼，呆会莫要逃走哦。" type="0" sex="0" soundId="commonDialogWomen_005"/>
+
+	<speakItem id="6" nameContent="中年男将" speakerContent="取汝首级犹如探囊取物！" type="1" sex="1" soundId="commonDialogNan_001"/>
+	<speakItem id="7" nameContent="中年男将" speakerContent="看我三步之内取你小命！" type="1" sex="1" soundId="commonDialogNan_002"/>
+	<speakItem id="8" nameContent="中年男将" speakerContent="谁来和我大战三百回合。" type="1" sex="1" soundId="commonDialogNan_003"/>
+	<speakItem id="9" nameContent="中年男将" speakerContent="来~管杀还管埋。" type="1" sex="1" soundId="commonDialogNan_004"/>
+	<speakItem id="9" nameContent="中年男将" speakerContent="杀杀杀。" type="1" sex="1" soundId="commonDialogNan_005"/>
+	<speakItem id="11" nameContent="中年男将" speakerContent="尔等敢应战否？" type="1" sex="1" soundId="commonDialogNan_006"/>
+	<speakItem id="12" nameContent="中年男将" speakerContent="贼将早降，可免一死！" type="1" sex="1" soundId="commonDialogNan_007"/>
+	<speakItem id="13" nameContent="中年男将" speakerContent="汝等小儿，可敢杀我？" type="1" sex="1" soundId="commonDialogNan_008"/>
+	<speakItem id="14" nameContent="中年男将" speakerContent="拿命来！" type="1" sex="1" soundId="commonDialogNan_009"/>
+	<speakItem id="15" nameContent="中年男将" speakerContent="别废话多说，一决胜负吧！" type="1" sex="1" soundId="commonDialogNan_010"/>
+	<speakItem id="16" nameContent="中年男将" speakerContent="你的人头我要定了，有什么遗言就快交代吧！" type="1" sex="1" soundId="commonDialogNan_011"/>
+	<speakItem id="17" nameContent="中年男将" speakerContent="反贼，还不快快下马受缚！" type="1" sex="1" soundId="commonDialogNan_012"/>
+	<speakItem id="18" nameContent="中年男将" speakerContent="谁敢和我交手！" type="1" sex="1" soundId="commonDialogNan_013"/>
+	<speakItem id="19" nameContent="中年男将" speakerContent="只动嘴巴是不会赢的，来吧！" type="1" sex="1" soundId="commonDialogNan_014"/>
+	<speakItem id="20" nameContent="中年男将" speakerContent="和我交手是你一生最大的错误！" type="1" sex="1" soundId="commonDialogNan_015"/>
+	<speakItem id="22" nameContent="中年男将" speakerContent="跟我杀！" type="1" sex="1" soundId="commonDialogNan_016"/>
+	<speakItem id="22" nameContent="中年男将" speakerContent="反贼休走,快快下马受缚！" type="1" sex="1" soundId="commonDialogNan_017"/>
+	<speakItem id="23" nameContent="中年男将" speakerContent="无知小辈胆敢斗本将，简直自寻死路！" type="1" sex="1" soundId="commonDialogNan_018"/>
+	<speakItem id="24" nameContent="中年男将" speakerContent="贼人逆天无道，莫怪我刀下不留情！" type="1" sex="1" soundId="commonDialogNan_019"/>
+	<speakItem id="25" nameContent="中年男将" speakerContent="今天我要大开杀戒！" type="1" sex="1" soundId="commonDialogNan_020"/>
+	<speakItem id="26" nameContent="中年男将" speakerContent="哼！废话少说，小贼去死吧！" type="1" sex="1" soundId="commonDialogNan_021"/>
+	<speakItem id="27" nameContent="中年男将" speakerContent="敢到这来，你的勇气还可以！" type="1" sex="1" soundId="commonDialogNan_022"/>
+	<speakItem id="28" nameContent="中年男将" speakerContent="无知狂徒跪地受缚吧！" type="1" sex="1" soundId="commonDialogNan_023"/>
+	<speakItem id="29" nameContent="中年男将" speakerContent="今天就让你见识一下我的厉害！" type="1" sex="1" soundId="commonDialogNan_024"/>
+	<speakItem id="30" nameContent="中年男将" speakerContent="这一战我已经期待很久了。" type="1" sex="1" soundId="commonDialogNan_025"/>
+	<speakItem id="30" nameContent="中年男将" speakerContent="这一战我已经期待很久了。" type="1" sex="1" soundId="commonDialogNan_026"/>
+
+	<speakItem id="27" nameContent="中年男将" speakerContent="别以为我和之前的杂鱼一个水平！" type="2" sex="1" soundId="commonDialogNanNan_027"/>
+	<speakItem id="28" nameContent="中年男将" speakerContent="可别期待我会手下留情！" type="2" sex="1" soundId="commonDialogNan_028"/>
+	<speakItem id="29" nameContent="中年男将" speakerContent="今日也要让此地降下血雨！" type="2" sex="1" soundId="commonDialogNan_029"/>
+	<speakItem id="30" nameContent="中年男将" speakerContent="敌将莫不是以为我军中无人！" type="2" sex="1" soundId="commonDialogNan_030"/>
+	<speakItem id="31" nameContent="中年男将" speakerContent="今天遇到我算你晦气！" type="2" sex="1" soundId="commonDialogNan_031"/>
+	<speakItem id="32" nameContent="中年男将" speakerContent="汝等看好了！" type="2" sex="1" soundId="commonDialogNan_032"/>
+	<speakItem id="33" nameContent="中年男将" speakerContent="破阵斩将，易如反掌！" type="2" sex="1" soundId="commonDialogNan_033"/>
+	<speakItem id="34" nameContent="中年男将" speakerContent="全军突击！" type="2" sex="1" soundId="commonDialogNan_034"/>
+	<speakItem id="35" nameContent="中年男将" speakerContent="明年今天便是你的忌日！" type="2" sex="1" soundId="commonDialogNan_035"/>
+	<speakItem id="36" nameContent="中年男将" speakerContent="实力差距摆在这里，敌将认命吧！" type="2" sex="1" soundId="commonDialogNan_036"/>
+	<speakItem id="37" nameContent="中年男将" speakerContent="要命的速速闪开，挡我者死！" type="2" sex="1" soundId="commonDialogNan_037"/>
+	<speakItem id="38" nameContent="中年男将" speakerContent="哼，贼将莫非怕了？" type="2" sex="1" soundId="commonDialogNan_038"/>
+	<speakItem id="39" nameContent="中年男将" speakerContent="我要杀你们个片甲不留！" type="2" sex="1" soundId="commonDialogNan_039"/>
+	<speakItem id="40" nameContent="中年男将" speakerContent="碰上本将军算你们倒霉！" type="2" sex="1" soundId="commonDialogNan_040"/>
+	<speakItem id="41" nameContent="中年男将" speakerContent="陷阵杀敌，一马当先！" type="2" sex="1" soundId="commonDialogNan_041"/>
+	<speakItem id="42" nameContent="中年男将" speakerContent="伤敌千里之外，夺命须臾之间！" type="2" sex="1" soundId="commonDialogNan_042"/>
+	<speakItem id="43" nameContent="中年男将" speakerContent="汝等见我军威，还不弃甲来降！" type="2" sex="1" soundId="commonDialogNan_043"/>
+	<speakItem id="44" nameContent="中年男将" speakerContent="纵是天下，又何惧之有！" type="2" sex="1" soundId="commonDialogNan_044"/>
+	<speakItem id="45" nameContent="中年男将" speakerContent="看我神威，无坚不摧！" type="2" sex="1" soundId="commonDialogNan_045"/>
+	<speakItem id="46" nameContent="中年男将" speakerContent="我领一军，可胜过百万雄兵！" type="2" sex="1" soundId="commonDialogNan_046"/>
+	<speakItem id="47" nameContent="中年男将" speakerContent="哼，你们这是自寻死路！" type="2" sex="1" soundId="commonDialogNan_047"/>
+	<speakItem id="48" nameContent="中年男将" speakerContent="何须大费周章，待我斩杀敌将！" type="2" sex="1" soundId="commonDialogNan_048"/>
+	<speakItem id="48" nameContent="中年男将" speakerContent="享受尔等生命中最后的时光吧！" type="2" sex="1" soundId="commonDialogNan_049"/>
+	<speakItem id="50" nameContent="中年男将" speakerContent="受命于天，一骑当千！" type="2" sex="1" soundId="commonDialogNan_050"/>
+	<speakItem id="51" nameContent="中年男将" speakerContent="若能挡我十合，放你走又何妨！" type="2" sex="1" soundId="commonDialogNan_051"/>
+	<speakItem id="52" nameContent="中年男将" speakerContent="哼，我从不杀无名之辈！" type="2" sex="1" soundId="commonDialogNan_052"/>
+	<speakItem id="53" nameContent="中年男将" speakerContent="全军听令，列阵杀敌！" type="2" sex="1" soundId="commonDialogNan_053"/>
+	<speakItem id="54" nameContent="中年男将" speakerContent="给你一炷香的时间，逃吧！" type="2" sex="1" soundId="commonDialogNan_054"/>
+	<speakItem id="55" nameContent="中年男将" speakerContent="废话真多，吃我一招！" type="2" sex="1" soundId="commonDialogNan_055"/>
+	<speakItem id="56" nameContent="中年男将" speakerContent="此处便是尔等葬身之地！" type="2" sex="1" soundId="commonDialogNan_056"/>
+</root>

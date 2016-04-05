@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <item id="guideskill" content="哥，点头像可以释放大招。" bgX="618" bgY="418" sound=""/>
+    <item id="guide1" content="哥，扬名立万前，先给自己取个名字吧！" bgX="618" bgY="418" sound="qumingzi_001"/>
+	<item id="guide2" content="乡亲听说我们要去闯世界，给凑了盘缠，哥快去拿吧。" bgX="620" bgY="425" sound="panchan_001"/>
+	<item id="guide3" content="都是好东西，点击就能领啦。" bgX="650" bgY="280" sound="panchan_002"/>
+	<item id="guide4" content="哥，现在咱们兵强马壮啦，从这里去外面看看吧。" bgX="608" bgY="425" sound="bingqiangmazhuang_001"/>
+	<item id="guide5" content="你们上阵杀敌一定要小心哦。" bgX="440" bgY="220" sound="shangzhen_001"/>
+	<item id="guide5_1" content="哥将骑兵布到上排，克制敌方上排刀兵，就有额外优势啦。" bgX="222" bgY="506" sound=""/>
+	<item id="guide5_2" content="哥，点击确定之后就完成布阵啦。" bgX="326" bgY="301" sound=""/>
+	<item id="guide6" content="阵型可以让我们实力大增的。" bgX="628" bgY="375" sound="xuanzhenxing_001"/>
+
+    <item id="guide7" content="哥，我们抢到了好多好东西，快用起来吧。" bgX="445" bgY="490" sound="chuanzhangbei_001"/>
+	<item id="guide8" content="这里就是我们的部队了，以后我们会越来越强大的。" bgX="350" bgY="494" sound="chuanzhangbei_002"/>
+	<item id="guide9" content="快把碧玉带上，很好看的。" bgX="655" bgY="310" sound="chuanzhangbei_003"/>
+	<item id="guide10" content="太好看了！哥按返回咱们回吧。" bgX="627" bgY="525" sound="chuanzhangbei_004" back="1" />
+	<item id="guide10_1" content="哥,继续按返回哦。" bgX="627" bgY="525" sound="" back="1" />
+
+	<item id="guide11" content="哥手下的人越来越多啦。" bgX="353" bgY="285" sound=""/>
+
+    <item id="guide12" content="进阶后的阿牛哥可以一个打十个呢。" bgX="606" bgY="209" sound="shengjie_001"/>
+
+    <item id="guide13" content="这里买东西还送武将令呢。" bgX="407" bgY="344" sound="lottery_001"/>
+
+    <item id="guide105" content="明日登录游戏会有神秘大将前来相助，称霸三国指日可待。" bgX="120" bgY="550" sound=""/>
+    <!--<item id="guide106" content="关将军正在赶来的路上，明天就能相见了。" bgX="440" bgY="317" sound=""/>-->
+
+    <item id="skillUpl_1" content="哥，在这里可以升级技能哦。" bgX="642" bgY="490" sound=""/>
+    <item id="dramaGeneral_1" content="赵云临时加入队伍。" bgX="353" bgY="285" sound=""/>
+    <item id="dramaGeneral_2" content="哥~赵将军救我们于危难之中，我们一定要把他留下来呦~" bgX="353" bgY="285" sound=""/>
+
+    <item id="lottery1" content="这里买东西还送将令呢" bgX="407" bgY="344" sound=""/>
+	<item id="lottery2" content="武将令可以封爵，封爵之后哥哥就更勇猛啦。" bgX="445" bgY="447" sound="lottery_003"/>
+	<item id="lottery3" content="哥，咱们试试这个，送的更多呢。" bgX="574" bgY="250" sound="lottery_002"/>
+	<item id="lottery4" content="有了新武将，咱们去试试。" bgX="574" bgY="250" sound=""/>
+	<item id="lottery5" content="哥，按返回咱们回吧。" bgX="574" bgY="250" sound=""/>
+
+    <item id="guide16" content="将令可以封爵，封爵之后哥哥就更勇猛啦。" bgX="608" bgY="425" sound="shengxing_001"/>
+	<item id="guide17" content="点这里就能封爵啦。" bgX="587" bgY="440" sound="shengxing_002"/>
+	<item id="guide18" content="好勇猛的哥哥呢，咱们返回去外面试试。" bgX="627" bgY="525" sound="shengxing_003" back="1" />
+
+	<item id="open_baozang" content="哥，藏宝地穴开启啦，去这里抓奴隶来赚钱吧。" bgX="157" bgY="370" sound=""/>
+	<item id="open_arena" content="哥，巅峰对决开启啦，在这里把其他主公打的落花流水吧。" bgX="627" bgY="370" sound=""/>
+	<item id="arena_fight" content="哥，打败他，成就无上霸业！" bgX="627" bgY="370" sound=""/>
+	<item id="open_harem" content="哥，后宫美人开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_worship" content="哥，膜拜开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_trail_1_1" content="哥，白门楼开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_trail_1_2" content="哥，白门楼更高难度开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_trail_2_1" content="哥，三江口开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_trail_2_2" content="哥，三江口更高难度开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_trail_3_1" content="哥，铜雀台开启啦！" bgX="627" bgY="370" sound=""/>
+	<item id="open_trail_3_2" content="哥，铜雀台更高难度开启啦！" bgX="627" bgY="370" sound=""/>
+
+	<item id="open_tac_2" content="哥，鱼鳞阵开启啦，去这里看看吧。" bgX="182" bgY="225" sound=""/>
+	<item id="open_tac_3" content="哥，方形阵开启啦，去这里看看吧。" bgX="182" bgY="225" sound=""/>
+	<item id="open_tac_4" content="哥，雁形阵开启啦，去这里看看吧。" bgX="182" bgY="225" sound=""/>
+	<item id="open_tac_5" content="哥，圆形阵开启啦，去这里看看吧。" bgX="182" bgY="225" sound=""/>
+	<item id="open_tac_6" content="哥，峰矢阵开启啦，去这里看看吧。" bgX="182" bgY="225" sound=""/>
+	
+	<item id="open_jingying" content="哥，精英副本开启啦，这里可以找到武将令哦。" bgX="182" bgY="225" sound=""/>
+	<item id="open_blackmarket" content="哥，黑市开启了。" bgX="182" bgY="225" sound=""/>
+	<item id="open_market" content="哥，集市开启了。" bgX="182" bgY="225" sound=""/>
+
+	<item id="mission1_1" content="哥，完成了任务，我们从这里去领奖励。" bgX="662" bgY="495" sound=""/>
+	<item id="mission2_1" content="哥，我们又可以领奖励啦。" bgX="662" bgY="495" sound=""/>
+	<item id="mission3_1" content="哥，我们又可以领奖励啦。" bgX="662" bgY="495" sound=""/>
+	<item id="mission3_2" content="哥，我预感又有猛将要加入啦。" bgX="182" bgY="225" sound=""/>
+	<item id="activities1_1" content="哥，这里可以领取很多活动奖励。" bgX="582" bgY="487" sound=""/>
+
+
+</data>

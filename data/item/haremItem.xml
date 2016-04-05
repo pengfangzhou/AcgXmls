@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<data>
+	<item id="06001" name="小包子" nameUri="xiaobaozi" borderColor="15366038" maxLevel="80" openLevel="10" openGold="0" openYe="0" from="刘府配给公子的小丫鬟，活泼开朗惹人喜爱，与公子日久生情。" add_zh="提升我方上阵刀兵部队生命上限"/>
+	<item id="06002" name="九娘" nameUri="jiuniang" borderColor="44737" maxLevel="80" openLevel="20" openGold="200000" openYe="50" from="富商之女，聪慧温婉精擅易容。对公子一见倾心，以家族财富助公子争霸天下。" add_zh="提升我方上阵枪兵部队生命上限"/>
+	<item id="06003" name="孙尚香" nameUri="sunshangxiang" borderColor="15951704" maxLevel="80" openLevel="30" openGold="500000" openYe="200" from="东吴郡主，自幼习武尤擅弓马。因路见不平与公子结缘，二人成为欢喜冤家。" add_zh="提升我方上阵骑兵部队生命上限"/>
+	<item id="06004" name="貂蝉" nameUri="diaochan" borderColor="8548286" maxLevel="80" openLevel="40" openGold="1000000" openYe="500" from="绝世美女，曾施美女连环计智杀董卓。前往江南隐居途中结识公子，终得归宿。" add_zh="提升我方上阵弓兵部队生命上限"/>
+	<item id="06005" name="小乔" nameUri="xiaoqiao" borderColor="15884835" maxLevel="80" openLevel="50" openGold="2000000" openYe="900" from="桥公之女，与大乔以美貌齐名于世。公子赴东吴时二人偶然相见，遂芳心暗许。" add_zh="提升我方上阵刀兵部队普通攻击"/>
+	<item id="06006" name="甄宓" nameUri="zhenmi" borderColor="8548286" maxLevel="80" openLevel="60" openGold="9000000" openYe="900" from="又称甄夫人，上蔡令甄逸之女。魏文帝曹丕的妾室，魏明帝生母。" add_zh="提升我方上阵枪兵部队普通攻击"/>
+</data>

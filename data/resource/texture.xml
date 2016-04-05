@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textures>
+    <textureItem id="building_Item" name="buildingItem" scene="main" imageUrl="assets/images/ui/main/buildingItem.png" xmlUrl="assets/images/ui/main/buildingItem.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy005" name="fightUI"  scene="Fight" extra="xxy008,assets2id" imageUrl="assets/images/ui/fight/fightScene.png" xmlUrl="assets/images/ui/fight/fightScene.xml" persist="0" type="ImageResource"/>
+   
+    <textureItem id="main_payGifts" name="payGifts" scene="main" imageUrl="assets/images/ui/main/payGifts.png" xmlUrl="assets/images/ui/main/payGifts.xml" persist="0" type="ImageResource"/>
+    <textureItem id="main_firstPay" name="firstpay" scene="main" imageUrl="assets/images/ui/main/firstPayIcon.png" xmlUrl="assets/images/ui/main/firstPayIcon.xml" persist="0" type="ImageResource"/>
+    <textureItem id="gen_nav" name="nav_gen" scene="general" imageUrl="assets/images/ui/general/nav_gen.png" xmlUrl="assets/images/ui/general/nav_gen.xml" persist="0" type="ImageResource"/>
+    <textureItem id="battle_Fn" name="battleFn" scene="battle" imageUrl="assets/images/ui/battle/battleFn.png" xmlUrl="assets/images/ui/battle/battleFn.xml" persist="0" type="ImageResource"/>
+    <textureItem id="arrow_metal" name="arrowMetal" scene="battle" imageUrl="assets/images/ui/battle/arrow_metal.png" xmlUrl="assets/images/ui/battle/arrow_metal.xml" persist="0" type="ImageResource"/>
+    <textureItem id="trial" name="trialSection" scene="Trial" imageUrl="assets/images/ui/trial/trial.png" xmlUrl="assets/images/ui/trial/trial.xml" persist="0" type="ImageResource"/>
+    <textureItem id="World_map" name="worldMap" scene="worldMap" imageUrl="assets/images/ui/battle/worldMap/worldMap.png" xmlUrl="assets/images/ui/battle/worldMap/worldMap.xml" persist="0" type="ImageResource"/>
+    <textureItem id="shagn_hang" name="shangHang" scene="shangHang" imageUrl="assets/images/ui/shangHang/shangHang.png" xmlUrl="assets/images/ui/shangHang/shangHang.xml" persist="0" type="ImageResource"/>
+    <textureItem id="yuan_zheng" name="yuanZheng" scene="yuanZheng" imageUrl="assets/images/ui/yuanZheng/yuanZheng.png" xmlUrl="assets/images/ui/yuanZheng/yuanZheng.xml" persist="0" type="ImageResource"/>
+
+    <textureItem id="button1_Effect" name="button1Effect" scene="effect" imageUrl="assets/images/animation/effects/button1Effect/button1Effect.png" xmlUrl="assets/images/animation/effects/button1Effect/button1Effect.xml" persist="0" type="ImageResource"/>
+
+    <textureItem id="gxh002" name="input" scene="INPUT" imageUrl="assets/images/ui/signUp/keyboard.png" xmlUrl="assets/images/ui/signUp/keyboard.xml" persist="0" type="ImageResource"/>
+    <textureItem id="gxh003" name="zone" scene="ZONE" imageUrl="assets/images/ui/game_zone/zone.png" xmlUrl="assets/images/ui/game_zone/zone.xml" persist="0" type="ImageResource"/>
+    <textureItem id="gxh004" name="loadingState" scene="LOADING_STATE" imageUrl="assets/images/ui/login/LoadingState.png" xmlUrl="assets/images/ui/login/LoadingState.xml" persist="0" type="ImageResource"/>
+    <textureItem id="gxh005" name="myinfo" scene="MyinfoState" imageUrl="assets/images/ui/myinfo/myinfo.png" xmlUrl="assets/images/ui/myinfo/myinfo.xml" persist="0" type="ImageResource"/>
+    <textureItem id="gxh006" name="hunt" scene="HUNT" imageUrl="assets/images/ui/hunt/hunt.png" xmlUrl="assets/images/ui/hunt/hunt.xml" persist="0" type="ImageResource"/>
+
+    <textureItem id="xxy008" name="BitmapNumber" imageUrl="assets/images/num/Number.png" xmlUrl="assets/images/num/Number.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy009" name="fifty" imageUrl="assets/images/num/fifty.png" xmlUrl="assets/images/num/fifty.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy010" name="fifty_red" imageUrl="assets/images/num/fifty_red.png" xmlUrl="assets/images/num/fifty_red.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy011" name="metal" imageUrl="assets/images/num/metal.png" xmlUrl="assets/images/num/metal.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy012" name="ninety" imageUrl="assets/images/num/ninety.png" xmlUrl="assets/images/num/ninety.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy013" name="thirty" imageUrl="assets/images/num/thirty.png" xmlUrl="assets/images/num/thirty.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy014" name="twenty" imageUrl="assets/images/num/twenty.png" xmlUrl="assets/images/num/twenty.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy015" name="forty" imageUrl="assets/images/num/forty.png" xmlUrl="assets/images/num/forty.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy016" name="forty_dark_red" imageUrl="assets/images/num/forty_dark_red.png" xmlUrl="assets/images/num/forty_dark_red.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy017" name="n26" imageUrl="assets/images/num/n26.png" xmlUrl="assets/images/num/n26.xml" persist="0" type="ImageResource"/>
+    <textureItem id="xxy018" name="rank50" imageUrl="assets/images/num/rank50.png" xmlUrl="assets/images/num/rank50.xml" persist="0" type="ImageResource"/>
+
+ 
+ </textures>

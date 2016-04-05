@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<buildings>
+	<!--
+	<buildingItem id="1" itemIndex="2,10001" x="428" y="205" notifyX="" notifyY="" description="铁骑征伐" asset="tieqizhengfa" params="buildingItem" displayName="PTwindow,HUNT" limitLvel="-1" mmguideId="open_hunt" />
+
+	-->
+	<buildingItem id="1" itemIndex="3,1" x="487" y="560" notifyX="592" notifyY="540" asset="battle" params="buildingItem" description="战役" displayName="PTwindow,battleLevel" limitLvel="0"/>
+	<buildingItem id="2" itemIndex="3,2" x="625" y="593" notifyX="698" notifyY="574" asset="generals" params="buildingItem" description="武将" displayName="PTwindow,general_scene" limitLvel="0"/>
+	<buildingItem id="3" itemIndex="3,3" x="734" y="593" notifyX="806" notifyY="574" asset="bagpack" params="buildingItem" description="背包" displayName="PTwindow,BagState" limitLvel="0"/>
+	<buildingItem id="4" itemIndex="3,4" x="843" y="593" notifyX="915" notifyY="574" asset="everydayactivity" params="buildingItem" description="每日活动" displayName="PTwindow,dailyActivities" limitLvel="0"/>
+	<buildingItem id="5" itemIndex="3,5" x="952" y="593" notifyX="1024" notifyY="574" asset="task" params="buildingItem" description="任务" displayName="PTwindow,mission" limitLvel="0"/>
+	<buildingItem id="6" itemIndex="3,6" x="1062" y="593" notifyX="1132" notifyY="574" asset="email" params="buildingItem" description="邮件" displayName="PTwindow,email" limitLvel="0"/>
+	<buildingItem id="7" itemIndex="3,7" x="1171" y="593" notifyX="1241" notifyY="574" asset="shanghang" params="buildingItem" description="商行" displayName="PTwindow,shangHang" limitLvel="0"/>
+	<buildingItem id="10" itemIndex="1,10003" x="265" y="17" notifyX="375" notifyY="0" asset="sign" params="buildingItem" description="签到" displayName="PTwindow,monthsiginin" limitLvel="0"/>
+	<buildingItem id="12" itemIndex="1,10004" x="405" y="17" notifyX="520" notifyY="0" asset="activity" params="buildingItem" description="大事件" displayName="PTwindow,OPERATE_ACTIVITY" limitLvel="0"/>
+	<buildingItem id="11" itemIndex="1,10010" x="1163" y="22" notifyX="1223" notifyY="11" asset="worship" params="buildingItem" description="膜拜" displayName="PTwindow,WORSHIP" limitLvel="35"/>
+	<buildingItem id="8" itemIndex="2,2" x="143" y="200" notifyX="350" notifyY="186" asset="harem" params="buildingItem" description="后宫" displayName="PTwindow,HAREM" limitLvel="12"/>
+	<buildingItem id="14" itemIndex="2,3" x="372" y="215" notifyX="488" notifyY="209" asset="dianfengduijue" params="buildingItem" description="巅峰对决" displayName="PTwindow,ARENA_WINDOW" limitLvel="10"/>
+	<buildingItem id="9" itemIndex="2,4" x="520" y="215" notifyX="637" notifyY="209" asset="trial" params="buildingItem" description="试炼" displayName="PTwindow,Trial" limitLvel="15"/>
+	<buildingItem id="15" itemIndex="2,5" x="670" y="215" notifyX="784" notifyY="209" asset="zhaohuanxuanzhen" params="buildingItem" description="功勋商店" displayName="PTwindow,LOTTERY_WINDOW" limitLvel="-1"/>
+	<buildingItem id="13" itemIndex="2,6" x="820" y="215" notifyX="932" notifyY="209" asset="cangbaodixue" params="buildingItem" description="藏宝地穴" displayName="PTwindow,HUNT" limitLvel="40"/>
+	<buildingItem id="17" itemIndex="2,7" x="969" y="215" notifyX="1080" notifyY="209" asset="yuanZheng" params="buildingItem" description="过五关" displayName="PTwindow,YUANZHENG_WINDOW" limitLvel="28"/>
+	<buildingItem id="18" itemIndex="2,8" x="1119" y="215" notifyX="1278" notifyY="209" asset="gonghui" params="buildingItem" description="公会" displayName="PTwindow,-1" limitLvel="9999"/>
+	<!--<buildingItem id="16" itemIndex="1,10005" x="526" y="32" notifyX="585" notifyY="26" asset="rushBuy" params="buildingItem" description="限时抢购" displayName="PTwindow,SECKILLING" limitLvel="0"/>-->
+</buildings>

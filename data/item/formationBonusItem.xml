@@ -1,0 +1,13 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by jack (mtfcom) -->
+<!-- taeget. -100:无作用 -1:敌方全体 0:我方全体 1,带刀兵;2,带弓兵;3,带骑兵;4,带枪兵
+     阵法：1：锥形阵 2 ：圆形阵，3：鱼鳞阵，4：锋矢阵，5：方形阵，6：雁型阵 -->
+<FormationBonusItem>
+    <formation id="1" strength="1.0" st_taeget="-100" energyRevert="1.1" enR_target="3" pcs="1.1" pcs_taeget="0" physicsarmor="1" physicsarmor_taeget="-100"/>
+    <formation id="2" strength="1.0" st_taeget="-100" energyRevert="1.1" enR_target="1" pcs="1" pcs_taeget="-100" physicsarmor="1.1" physicsarmor_taeget="0"/>
+    <formation id="3" strength="1.0" st_taeget="-100" energyRevert="1" enR_target="-100" pcs="1" pcs_taeget="-100" physicsarmor="1.13" physicsarmor_taeget="0"/>
+    <formation id="4" strength="1.0" st_taeget="-100" energyRevert="1.1" enR_target="2" pcs="1.1" pcs_taeget="0" physicsarmor="1" physicsarmor_taeget="-100"/>
+    <formation id="5" strength="1.0" st_taeget="-100" energyRevert="1.1" enR_target="4" pcs="1" pcs_taeget="-100" physicsarmor="1.13" physicsarmor_taeget="0"/>
+    <formation id="6" strength="1.0" st_taeget="-100" energyRevert="1" enR_target="-100" pcs="1" pcs_taeget="-100" physicsarmor="1" physicsarmor_taeget="-100"/>
+    <formation id="7" strength="1.0" st_taeget="-100" energyRevert="1" enR_target="-100" pcs="1" pcs_taeget="-100" physicsarmor="1" physicsarmor_taeget="-100"/>
+    <formation id="8" strength="1.0" st_taeget="-100" energyRevert="1" enR_target="-100" pcs="1" pcs_taeget="-100" physicsarmor="1" physicsarmor_taeget="-100"/>
+</FormationBonusItem>

@@ -1,0 +1,363 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by jack (mtfcom) -->
+<root>
+	<item>
+		<level>0</level><addhp>0</addhp>
+		
+	</item>
+	<item>
+		<level>1</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>2</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>3</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>4</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>5</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>6</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>7</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>8</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>9</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>10</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>11</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>12</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>13</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>14</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>15</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>16</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>17</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>18</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>19</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>20</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>21</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>22</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>23</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>24</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>25</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>26</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>27</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>28</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>29</level><addhp>40</addhp>
+		
+	</item>
+	<item>
+		<level>30</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>31</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>32</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>33</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>34</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>35</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>36</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>37</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>38</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>39</level><addhp>50</addhp>
+		
+	</item>
+	<item>
+		<level>40</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>41</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>42</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>43</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>44</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>45</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>46</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>47</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>48</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>49</level><addhp>70</addhp>
+		
+	</item>
+	<item>
+		<level>50</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>51</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>52</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>53</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>54</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>55</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>56</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>57</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>58</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>59</level><addhp>90</addhp>
+		
+	</item>
+	<item>
+		<level>60</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>61</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>62</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>63</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>64</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>65</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>66</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>67</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>68</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>69</level><addhp>100</addhp>
+		
+	</item>
+	<item>
+		<level>70</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>71</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>72</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>73</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>74</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>75</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>76</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>77</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>78</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>79</level><addhp>110</addhp>
+		
+	</item>
+	<item>
+		<level>80</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>81</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>82</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>83</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>84</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>85</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>86</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>87</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>88</level><addhp>120</addhp>
+		
+	</item>
+	<item>
+		<level>89</level><addhp>120</addhp>
+		
+	</item>
+</root>

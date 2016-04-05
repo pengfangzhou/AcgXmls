@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="010501start" bg="1" bgUrl="miaoTang.jpg">
+        <subDialog leftSpeaker="xushu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="徐庶"
+                   speakerTf="600,500,300" speakerContent="报将军，东吴大将徐盛，率三千军队前来夺取柴桑。"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010501right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="xusheng.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="徐盛"
+                   speakerTf="600,500,300" speakerContent="跟我攻城！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010501left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="来得好！"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010501end" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="江东军进攻受挫，士气低迷。终于如潮水般撤退。"
+                   light="1"
+                />     
+    </dialog>
+    <dialog id="010504start" bg="1" bgUrl="bj010107end.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="只见在江面上出现了一支庞大的船队。"
+                   light="1"
+                />
+		<subDialog nameContent="旁白" speakerContent="城头守军顿时一片欢腾，欢呼声响彻云霄" light="1" />
+	    <subDialog nameContent="旁白" speakerContent="我军的援军到来了。" light="1" />
+    </dialog>
+	<dialog id="010507start" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="xusheng.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="徐盛"
+                   speakerTf="600,500,300" speakerContent="给我送一封信给柴桑守将，他若投降。"
+                   light="1"
+                />
+		<subDialog nameContent="徐盛" speakerContent="我承诺放他回襄阳，他若敢负隅顽抗。" light="1" />
+	    <subDialog nameContent="徐盛" speakerContent="江东军一旦杀进城，非但他的小命不保。" light="1" />
+		<subDialog nameContent="徐盛" speakerContent="而且柴桑守军也将全部处斩，一个不留。" light="1" />
+    </dialog>
+	<dialog id="010510start" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="xiaobaozi.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="小包子"
+                   speakerTf="600,500,300" speakerContent="公子，来信了。"
+                   light="1"
+                />
+		<subDialog nameContent="{myname}" speakerContent="我们也回一封。" light="2" />
+	    <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+		           nameContent="信件内容" speakerContent="璟知公乃忠义之士，目光高远，绝非碌碌庸人。" light="1" />
+		<subDialog nameContent="信件内容" speakerContent="望公劝说吴侯，两家修好，携手共志。" light="1" />
+		<subDialog nameContent="信件内容" speakerContent="抗曹贼，匡扶汉室江山....." light="1" />
+    </dialog>
+	    <dialog id="010513start" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="aniu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="阿牛"
+                   speakerTf="600,500,300" speakerContent="江东军人数太多，我们快顶不住了。"
+                   light="1"
+                />
+		<subDialog nameContent="{myname}" speakerContent="甘宁，随我去偷袭水寨。" light="2" />
+		</dialog>
+    <dialog id="010513right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="jiangdongjunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="江东军士兵"
+                   speakerTf="600,500,300" speakerContent="前面怎么会有人？"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010513left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="杀！"
+                   light="1"
+                />
+	</dialog>
+	<dialog id="010516start" bg="1" bgUrl="aiqing.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiuniang.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="九娘，是你？"
+                   light="1"
+                />
+        <subDialog nameContent="九娘" speakerContent="我家就在这里，差点就遭殃，多亏你了。" light="2" />
+		<subDialog rightSpeaker="taolie.png" rightSpeakerPos="1500,400"
+		           nameContent="陶烈" speakerContent="今天收到消息，吴侯母亲去世了，估计江东要退兵了。" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="不能让他们这么容易走。" light="1" />
+		</dialog>
+		
+		 <dialog id="010516right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="jiangdongjunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="江东军士兵"
+                   speakerTf="600,500,300" speakerContent="有人偷袭。"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010516left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="杀！"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010516end" bg="1" bgUrl="jiaLi.jpg">
+        <subDialog leftSpeaker="xiaobaozi.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="小包子"
+                   speakerTf="600,500,300" speakerContent="公子，这里有你的一封信。"
+                   light="1"
+                />
+        <subDialog nameContent="信件内容" speakerContent="’妾心似金石，刀剑不可断，妾意如江水。’" light="2" />
+		<subDialog nameContent="信件内容" speakerContent="’思君不回转，愿君男儿志，一诺重千山。——九娘’" light="2" />
+		<subDialog nameContent="小包子" speakerContent="陶家怕太得罪吴国，以后不好做生意，硬把九姑娘带走了。" light="1" />
+		<subDialog rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+		           nameContent="{myname}" speakerContent="九娘......" light="2" />
+    </dialog>
+</root>

@@ -1,0 +1,35 @@
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<id>010101start</id>
+		<dialogid>battleFight</dialogid>
+	</item>
+    <item>
+        <id>010101right</id>
+        <dialogid>battleFight</dialogid>
+    </item>
+    <item>
+        <id>010101left</id>
+        <dialogid>battleFight</dialogid>
+    </item>
+    <item>
+        <id>010101end</id>
+        <dialogid>battleFight</dialogid>
+    </item>
+	<item>
+		<id>010102start</id>
+		<dialogid>battleFight</dialogid>
+	</item>
+    <item>
+        <id>010102end</id>
+        <dialogid>battle01</dialogid>
+    </item>
+    <item>
+        <id>010116start</id>
+        <dialogid>battle01</dialogid>
+    </item>
+	<item>
+		<id>010116end</id>
+		<dialogid>battle01</dialogid>
+	</item>
+</root>

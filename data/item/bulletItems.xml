@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun)
+
+ -->
+
+<bullets>
+    <bulletItem id="100" name="PTCastBullet" speed="900" resource="null" bulletOffset="35,-53" />
+    <bulletItem id="101" name="PTExplodeBullet" speed="1600" resource="huatuohuoqiu" bulletOffset="175,-15" />
+    <bulletItem id="102" name="PTExplodeBullet" speed="1600" resource="lusu" bulletOffset="30,-30" />
+    <bulletItem id="103" name="PTExplodeBullet" speed="1600" resource="xushu" bulletOffset="30,-30" />
+</bullets>

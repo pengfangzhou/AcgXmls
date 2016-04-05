@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<root>
+	<item>
+		<dramaID>0</dramaID>
+		<type>describe</type>
+		<name>automaton</name>
+		<sign>storyImage_3.PNG</sign>
+		<msg>……</msg>
+		<startTime>0</startTime>
+		<endTime>0</endTime>
+		<x>0</x>
+		<y>0</y>
+		<speed>0</speed>
+	</item>
+	<item>
+		<dramaID>1</dramaID>
+		<type>say</type>
+		<name>man</name>
+		<sign>0</sign>
+		<msg>好啊好啊！</msg>
+		<startTime>0</startTime>
+		<endTime>0</endTime>
+		<x>0</x>
+		<y>0</y>
+		<speed>0</speed>
+	</item>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<buildings>
+	<buildingItem id="07001" asset="city_1" title=""/>
+	<buildingItem id="07002" asset="city_1" title="" />
+	<buildingItem id="07003" asset="city_2" title="level_1" />
+	<buildingItem id="07004" asset="city_1" title="" />
+	<buildingItem id="07005" asset="city_1" title="" />
+	<buildingItem id="07006" asset="city_2" title="level_2" />
+	<buildingItem id="07007" asset="city_1" title="" />
+	<buildingItem id="07008" asset="city_1" title="" />
+	<buildingItem id="07009" asset="city_2" title="level_3" />
+	<buildingItem id="07010" asset="city_1" title="" />
+	<buildingItem id="07011" asset="city_1" title="" />
+	<buildingItem id="07012" asset="city_2" title="level_4" />
+	<buildingItem id="07013" asset="city_1" title="" />
+	<buildingItem id="07014" asset="city_1" title="" />
+	<buildingItem id="07015" asset="city_3" title="level_5" />
+</buildings>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<data>
+	<refresh boughtTimes="0" costDiamond="50"/>
+	<refresh boughtTimes="1" costDiamond="100"/>
+	<refresh boughtTimes="2" costDiamond="150"/>
+	<refresh boughtTimes="3" costDiamond="200"/>
+	<refresh boughtTimes="4" costDiamond="250"/>
+	<refresh boughtTimes="5" costDiamond="300"/>
+	<refresh boughtTimes="6" costDiamond="350"/>
+	<refresh boughtTimes="7" costDiamond="400"/>
+	<refresh boughtTimes="8" costDiamond="450"/>
+	<refresh boughtTimes="9" costDiamond="500"/>
+	<refresh boughtTimes="10" costDiamond="550"/>
+	<refresh boughtTimes="11" costDiamond="600"/>
+	<refresh boughtTimes="12" costDiamond="650"/>
+	<refresh boughtTimes="13" costDiamond="700"/>
+	<refresh boughtTimes="14" costDiamond="750"/>
+	<refresh boughtTimes="15" costDiamond="800"/>
+	<refresh boughtTimes="16" costDiamond="850"/>
+	<refresh boughtTimes="17" costDiamond="900"/>
+	<refresh boughtTimes="18" costDiamond="950"/>
+	<refresh boughtTimes="19" costDiamond="1000"/>
+	<refresh boughtTimes="20" costDiamond="1050"/>
+</data>

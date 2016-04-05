@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tacticalFormations>
+    <tacticalFormationItem id="1" icon="fm_zhuixing" name="锥形阵" introduce="全队普通攻击提高10%" des="#zhuixing" formation="2,4|1,3|3,3|1,2|4,2" formationIndex="4,6,8,9,11" priority="8|3,6|3,9|2,11|2" limitLevel="0" limitVIP="0" mmguideId=""/>
+    <tacticalFormationItem id="2" icon="fm_yulin" name="鱼鳞阵" introduce="全队普通防御提高13%" des="#yulin" formation="2,3|4,3|3,2|2,1|4,1" formationIndex="3,5,7,9,11" priority="3|3,5|3,11|2,9|2" limitLevel="10" limitVIP="0" mmguideId="open_tac_2"/>
+    <tacticalFormationItem id="3" icon="fm_fangxing" name="方形阵" introduce="全队普通防御提高13%" des="#fangxing" formation="1,4|3,4|2,3|1,2|4,2" formationIndex="6,8,9,10,11" priority="6|3,8|3,10|2,11|2,9|2" limitLevel="15" limitVIP="0" mmguideId="open_tac_3"/>
+    <tacticalFormationItem id="4" icon="fm_yanxing" name="雁形阵" introduce="暂未开放，敬请期待" des="#yanxing" formation="1,3|4,3|2,2|3,2|3,1" formationIndex="5,7,8,9,11" priority="9|3,11|2" limitLevel="1001" limitVIP="0" mmguideId="open_tac_4"/>
+    <tacticalFormationItem id="5" icon="fm_yuanxing" name="圆形阵" introduce="全队普通防御提高10%" des="#yanxing" formation="2,3|1,2|2,2|3,2|2,1" formationIndex="4,6,7,8,10" priority="6|3,8|3,10|2,7|2" limitLevel="1001" limitVIP="0" mmguideId="open_tac_5"/>
+    <tacticalFormationItem id="6" icon="fm_fengshi" name="峰矢阵" introduce="全队普通攻击提高10%" des="#yanxing" formation="2,4|1,3|3,3|2,2|2,1" formationIndex="1,3,5,7,10" priority="5|3,3|3,10|2,7|2" limitLevel="1001" limitVIP="0" mmguideId=""/>
+</tacticalFormations>

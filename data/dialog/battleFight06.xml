@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+        bg:背景类型，根据bg值选择bg的class,【1】静态图背景【2】黑色背景
+        bgUrl:背景图片地址，如果没有，可以写""
+        leftSpeaker:左边说话人物的头像
+        leftSpeakerPos:左边说话人物的中心点坐标
+        rightSpeaker/rightSpeakerPos    右边
+        nameTf:显示名字文本框的x/y/width
+        nameContent:显示说话人的姓名
+        speakerTf：说话内容文本框的x/y/width
+        speakerContent：说话内容
+        light【0】两边都不亮【1】左边亮【2】右边亮
+-->
+<root>
+    <dialog id="010601start" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="sunquan.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="孙权"
+                   speakerTf="600,500,300" speakerContent="命人去柴桑告之守将，命他早日投降"
+                   light="1"
+                />
+        <subDialog nameContent="孙权" speakerContent="可保柴桑军民安全。" light="1" />
+    </dialog>
+	<dialog id="010604start" bg="1" bgUrl="yeWai.jpg">
+        <subDialog leftSpeaker="xushu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="taolie.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="徐庶"
+                   speakerTf="600,500,300" speakerContent="将军，此次吴军势大，怕不是一个县能挡得住的了。"
+                   light="1"
+                />
+        <subDialog nameContent="陶烈" speakerContent="公子，这里有我陶家的一个密道，可直接通道城外。" light="2" />
+		<subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+		           nameContent="{myname}" speakerContent="好，做好撤退准备，打完这一仗就撤。" light="1" />
+    </dialog>  
+    <dialog id="010604end" bg="1" bgUrl="baoXin.jpg">
+        <subDialog leftSpeaker="lvmeng.png" leftSpeakerPos="500,400"
+                   rightSpeaker="sunquan.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="吕蒙"
+                   speakerTf="600,500,300" speakerContent="启禀吴侯，敌人向西北逃窜，江面上必有接应"
+                   light="1"
+                />
+        <subDialog nameContent="吕蒙" speakerContent="末将愿领一支船队，追上他们。" light="1" />
+		<subDialog nameContent="孙权" speakerContent="此人每每出人意表，智勇双全，是荆州少有的人才，不必追赶了。" light="2" />
+		<subDialog nameContent="孙权" speakerContent="明天随我继续北上，进攻武昌，先铲除黄祖，回头再对付他们。" light="2" />
+    </dialog>
+	
+    <dialog id="010607start" bg="1" bgUrl="qunZhongYiLun.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="孙权大军大败江夏黄祖，大军不在柴桑。"
+                   light="1"
+                />  
+    </dialog>
+    <dialog id="010607right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="jiangdongjunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="江东军士兵"
+                   speakerTf="600,500,300" speakerContent="怎么今晚特别安静？"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010607left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="大家随我从密道进入，一举夺回柴桑。"
+                   light="1"
+                />
+    </dialog>
+    <dialog id="010607end" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="xushu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="元直，这黑乎乎的是什么？。"
+                   light="1"
+                />
+        <subDialog nameContent="徐庶" speakerContent="报将军，是这里的特产，非常易燃。" light="2" />
+		<subDialog nameContent="{myname}" speakerContent="是石油，好，你派人用我的方法去秘密炼制。" light="1" />
+		<subDialog nameContent="徐庶" speakerContent="是！" light="2" />
+    </dialog>
+	
+	<dialog id="010610start" bg="1" bgUrl="baoXin.jpg">
+        <subDialog leftSpeaker="jiaxu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="旁白"
+                   speakerTf="600,500,300" speakerContent="三天后，探子传来消息。"
+                   light="1"
+                />
+		<subDialog nameContent="旁白" speakerContent="五十里外的大江上发现了江东军主力。" light="1" />
+		
+    </dialog>
+    <dialog id="010613end" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="xushu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="决定胜负关键的一战要来了，命人将石油运来。"
+                   light="1"
+                />    
+		<subDialog nameContent="徐庶" speakerContent="是，将军！" light="2" />
+    </dialog>
+	
+    <dialog id="010116start" bg="1" bgUrl="junZhong.jpg">
+        <subDialog leftSpeaker="xushu.png" leftSpeakerPos="500,400"
+                   rightSpeaker="zhujue.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="徐庶"
+                   speakerTf="600,500,300" speakerContent="将军，这是我们全部提炼的石油，已有上百桶。"
+                   light="1"
+                />
+        <subDialog nameContent="{myname}" speakerContent="命人秘密准备施放。" light="2" />
+		</dialog>
+		<dialog id="010116right" bg="1" bgUrl="">
+        <subDialog leftSpeaker="" leftSpeakerPos="500,400"
+                   rightSpeaker="jiangdongjunshibing.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="江东军士兵"
+                   speakerTf="600,500,300" speakerContent="败军之将，受死吧！"
+                   light="2"
+                />
+    </dialog>
+    <dialog id="010116left" bg="1" bgUrl="">
+        <subDialog leftSpeaker="zhujue.png" leftSpeakerPos="500,400"
+                   rightSpeaker="" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="{myname}"
+                   speakerTf="600,500,300" speakerContent="放。"
+                   light="1"
+                />
+    </dialog>
+	<dialog id="010616end" bg="1" bgUrl="yuebing.jpg">
+        <subDialog leftSpeaker="jiangdongjunshibing.png" leftSpeakerPos="500,400"
+                   rightSpeaker="jiaxu.png" rightSpeakerPos="1500,400"
+                   nameTf="750,450,400" nameContent="江东军士兵"
+                   speakerTf="600,500,300" speakerContent="江神护佑我们，我军无敌！"
+                   light="1"
+                />    
+		<subDialog nameContent="旁白" speakerContent="我军在取得柴桑关键胜利后，趁势夺取了无主的江夏全境。" light="2" />
+    </dialog>
+</root>

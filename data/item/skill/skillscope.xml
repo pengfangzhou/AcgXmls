@@ -1,0 +1,54 @@
+﻿<!-- edited with XMLSpy v2011 (http://www.altova.com) by ss (aa) -->
+<!--
+skillType:技能类型，
+1一次性伤害输出，
+2一次性加血，
+3 buff按回合输出伤害//按回合输出伤害,(与普通伤害绑定，只有普通伤害输出时，才会输出。与普通伤害累加在一起)B:bout回合
+4;//按回合输出伤害,(与普通伤害分离，每回合都会对目标输出技能伤害)B:bout回合
+5;//按回合控制敌方,会打断敌人的普通伤害动作或者类型6的技能释放动作。如冰冻、眩晕、缠绕、符定、魅惑。
+6;//按回合输出伤害，但不再输出普通伤害，会被类型5打断。如闭月羞花，刀塔的冰女技能。
+7;//瞬伤 && 无敌 &&  攻击增益 
+
+target:作用对象，0敌人，1自己
+scope:作用范围，0单体1周边2全体
+element:技能的五行属性
+
+-->
+<skillscope>
+	<skillscopeItem id="050000" target="0" scope="0" btarget="-1" bscope="-1" element="3" bout="1" skillType="1"/>
+	<skillscopeItem id="050001" target="0" scope="0" btarget="-1" bscope="-1" element="3" bout="1" skillType="1"/>
+	<skillscopeItem id="050005" target="1" scope="0" btarget="0" bscope="0" element="1" bout="5" skillType="3"/>
+	<skillscopeItem id="050009" target="1" scope="2" btarget="-1" bscope="-1" element="5" bout="1" skillType="2"/>
+	<skillscopeItem id="050013" target="1" scope="0" btarget="0" bscope="1" element="4" bout="5" skillType="4"/>
+	<skillscopeItem id="050017" target="0" scope="0" btarget="-1" bscope="-1" element="5" bout="1" skillType="1"/>
+	<skillscopeItem id="050021" target="0" scope="0" btarget="-1" bscope="-1" element="4" bout="1" skillType="1"/>
+	<skillscopeItem id="050025" target="0" scope="0" btarget="-1" bscope="-1" element="5" bout="1" skillType="1"/>
+	<skillscopeItem id="050029" target="0" scope="0" btarget="0" bscope="0" element="1" bout="5" skillType="5"/>
+	<skillscopeItem id="050033" target="0" scope="0" btarget="0" bscope="1" element="2" bout="5" skillType="4"/>
+	<skillscopeItem id="050037" target="0" scope="0" btarget="-1" bscope="-1" element="1" bout="1" skillType="1"/>
+	<skillscopeItem id="050041" target="0" scope="0" btarget="0" bscope="0" element="3" bout="1" skillType="5"/>
+	<skillscopeItem id="050045" target="0" scope="1" btarget="-1" bscope="-1" element="2" bout="1" skillType="1"/>
+	<skillscopeItem id="050049" target="0" scope="0" btarget="-1" bscope="-1" element="3" bout="1" skillType="1"/>
+	<skillscopeItem id="050053" target="0" scope="1" btarget="-1" bscope="-1" element="5" bout="1" skillType="1"/>
+	<skillscopeItem id="050057" target="0" scope="1" btarget="-1" bscope="-1" element="4" bout="1" skillType="1"/>
+	<skillscopeItem id="050061" target="1" scope="0" btarget="0" bscope="0" element="2" bout="5" skillType="3"/>
+	<skillscopeItem id="050065" target="1" scope="0" btarget="0" bscope="0" element="4" bout="5" skillType="3"/>
+	<skillscopeItem id="050069" target="0" scope="1" btarget="-1" bscope="-1" element="3" bout="1" skillType="1"/>
+	<skillscopeItem id="050073" target="1" scope="0" btarget="0" bscope="0" element="5" bout="5" skillType="3"/>
+	<skillscopeItem id="050077" target="0" scope="2" btarget="-1" bscope="-1" element="1" bout="1" skillType="1"/>
+	<skillscopeItem id="050081" target="0" scope="0" btarget="-1" bscope="-1" element="3" bout="1" skillType="1"/>
+	<skillscopeItem id="050085" target="1" scope="0" btarget="0" bscope="1" element="2" bout="5" skillType="4"/>
+	<skillscopeItem id="050089" target="1" scope="0" btarget="0" bscope="1" element="4" bout="6" skillType="6"/>
+	<skillscopeItem id="050093" target="1" scope="0" btarget="0" bscope="2" element="3" bout="5" skillType="4"/>
+	<skillscopeItem id="050097" target="0" scope="1" btarget="1" bscope="0" element="4" bout="7" skillType="7"/>
+	<skillscopeItem id="050101" target="0" scope="0" btarget="1" bscope="1" element="4" bout="1" skillType="9"/>
+	<skillscopeItem id="050105" target="0" scope="1" btarget="1" bscope="0" element="4" bout="7" skillType="8"/>
+	<skillscopeItem id="050109" target="1" scope="2" btarget="-1" bscope="-1" element="4" bout="1" skillType="10"/>
+	<skillscopeItem id="050113" target="0" scope="2" btarget="-1" bscope="-1" element="4" bout="1" skillType="11"/>
+    <skillscopeItem id="050117" target="1" scope="0" btarget="-1" bscope="-1" element="4" bout="1" skillType="1"/>
+	<skillscopeItem id="050121" target="0" scope="0" btarget="-1" bscope="-1" element="4" bout="1" skillType="11"/>
+	<skillscopeItem id="050125" target="0" scope="1" btarget="0" bscope="1" element="4" bout="1" skillType="1"/>
+	<skillscopeItem id="050129" target="1" scope="2" btarget="-1" bscope="-1" element="4" bout="1" skillType="1"/>
+	<skillscopeItem id="050133" target="0" scope="2" btarget="-1" bscope="-1" element="4" bout="1" skillType="1"/>
+	<skillscopeItem id="050137" target="0" scope="1" btarget="0" bscope="1" element="4" bout="1" skillType="1"/>
+</skillscope>

@@ -1,0 +1,60 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<strings>
+    <scene name="general">
+        <string id="g001" content="武力：{0}"/>
+        <string id="g002" content="智力：{0}"/>
+        <string id="g003" content="敏捷：{0}"/>
+        <string id="g005" content="最大生命值：{0}"/>
+        <string id="g006" content="普通攻击：{0}"/>
+        <string id="g007" content="普通防御：{0}"/>
+        <string id="g008" content="技能攻击：{0}"/>
+        <string id="g009" content="技能防御：{0}"/>
+        <string id="g0010" content="生命回复：{0}"/>
+        <string id="g0011" content="能量回复：{0}"/>
+        <!--<string id="g006" content="物理攻击力：{0} + {1}"/>-->
+        <!--<string id="g007" content="魔法强度：{0} + {1}"/>-->
+        <!--<string id="g008" content="物理护甲：{0} + {1}"/>-->
+        <!--<string id="g009" content="魔法抗性：{0} + {1}"/>-->
+        <!--<string id="g010" content="物理暴击：{0} + {1}"/>-->
+        <!--<string id="g011" content="魔法暴击：{0} + {1}"/>-->
+        <!--<string id="g014" content="闪避：{0} + {1}"/>-->
+        <!--<string id="g015" content="穿透物理护甲{0}点"/>-->
+        <!--<string id="g016" content="吸血等级：{0}"/>-->
+    </scene>
+    <scene name="bag">
+        <string id="bag001" content="hahhahh{0}hehehe"/>
+        <string id="bag002" content="hahhahh{0}he{2}hehe{1}"/>
+        <string id="bag003" content="ha{2}hhahh{0}hehehe{1}"/>
+        <string id="good001des" content="闪电锤！！！"/>
+        <string id="good002des" content="倚天剑！！！"/>
+        <string id="good003des" content="护身符！！！"/>
+        <!--<![CDATA[恭喜将军。<b><font color='#e67f11'>{0}</font></b>将军真<br/>勇猛。]]>-->
+        <!--<string id="test001" content="<![CDATA[你/n好]]>"/>-->
+        <string id="good001" content="力量#/n# +{0}$速度 +{1}$敏捷 +{2}"/>
+        <string id="good002" content="力量 +{0}$速度 +{1}$敏捷 +{2}"/>
+        <string id="good003" content="力量 +{0}$速度 +{1}$敏捷 +{2}"/>
+        <string id="good004" content="ha{2}hhahh{0}hehehe{1}"/>
+        <string id="stength" content="武力 +{0}"/>
+        <string id="intelligence" content="智力 +{0}"/>
+        <string id="maxblood" content="最大生命值 +{0}"/>
+        <string id="pcs" content="普通攻击 +{0}"/>
+        <string id="armor" content="普通防御 +{0}"/>
+        <string id="magicIntensity" content="技能攻击 +{0}"/>
+        <string id="magicImmune" content="技能防御 +{0}"/>
+    </scene>
+    <scene name="battleLevel">
+        <string id="#level_1_1_description" content="巴拉巴拉之战,保护主公！！！！"/>
+    </scene>
+    <scene name="tactical">
+        <string id="#yuanxing" content="军队呈圆形分布，防御增强，且提升刀兵的能量回复速度。所有士兵{普通防御}提高{10%}，刀兵{能量回复}增加{10%}。" />
+        <string id="#yulin" content="军队在中央集结分作若干鱼鳞状的小方阵，使防御大幅增强。所有士兵{普通防御}提高{13%}。" />
+        <string id="#fengshi" content="前锋呈箭头状，使攻击力上升，弓兵的能量回复速度加快。所有士兵{普通攻击}提高{10%}，弓兵{能量回复}增加{10%}。" />
+        <string id="#fangxing" content="形似钳子的阵型，可提升士兵的防御力。且提升枪兵的能量回复速度。所有士兵{普通防御}提高{13%}，枪兵{能量回复}增加{10%}。" />
+        <string id="#zhuixing" content="军队呈锥形分布，攻击力增强，骑兵的能量回复速度加快。所有士兵{普通攻击}提高{10%}，骑兵{能量回复}增加{10%}。" />
+        <string id="#yanxing" content="暂未开放，敬请期待" />
+    </scene>
+</strings>
+

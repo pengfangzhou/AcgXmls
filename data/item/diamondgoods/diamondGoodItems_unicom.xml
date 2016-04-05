@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<!--type【1】月卡【2】无限购买【3】限制购买-->
+<data>
+	<item id="08001" typeNo="bltx001" name="300钻石月度礼包" icon="bd_icon_month" price="20" des="连续30天每天可领取120钻" yunying="tuiJian" index="3"/>
+	<item id="08018" typeNo="bltx002" name="50钻石" icon="bd_icon_300" price="5" yunying="normal" index="6"/>
+	<item id="08013" typeNo="bltx006" name="300钻石" icon="bd_icon_300" price="30" des="另赠送300钻石(限赠1次)" yunying="tuiJian" index="9"/>
+	<item id="08014" typeNo="bltx006" name="300钻石" icon="bd_icon_300" price="30" des="另赠送10钻石" yunying="normal" index="9"/>
+	<item id="08020" typeNo="bltx009" name="2000钻石" icon="bd_icon_1980" price="198" des="另赠送2100钻石(限赠1次)" yunying="tuiJian" index="4"/>
+	<item id="08021" typeNo="bltx009" name="2000钻石" icon="bd_icon_1980" price="198" des="另赠送300钻石" yunying="normal" index="4"/>
+	<item id="08042" typeNo="bltx102" name="680钻石" icon="bd_icon_980" price="68" des="另赠送680钻石" yunying="tuiJian" index="5"/>
+	<item id="08043" typeNo="bltx102" name="680钻石" icon="bd_icon_980" price="68" des="另赠送60钻石" yunying="normal" index="5"/>
+	<item id="08048" typeNo="bltx105" name="1200钻石" icon="bd_icon_6480" price="99" des="另赠送1500钻石" yunying="tuiJian" index="1"/>
+	<item id="08049" typeNo="bltx105" name="1200钻石" icon="bd_icon_6480" price="99" des="另赠送700钻石" yunying="normal" index="1"/>
+	<item id="08050" typeNo="bltx106" name="1280钻石" icon="bd_icon_980" price="128" des="另赠送1300钻石" yunying="tuiJian" index="2"/>
+	<item id="08051" typeNo="bltx106" name="1280钻石" icon="bd_icon_980" price="128" des="另赠送120钻石" yunying="normal" index="2"/>
+	<item id="08052" typeNo="bltx107" name="1580钻石" icon="bd_icon_980" price="158" des="另赠送1650钻石" yunying="tuiJian" index="8"/>
+	<item id="08053" typeNo="bltx107" name="1580钻石" icon="bd_icon_980" price="158" des="另赠送160钻石" yunying="normal" index="8"/>
+	<item id="08054" typeNo="bltx108" name="1780钻石" icon="bd_icon_980" price="178" des="另赠送1900钻石" yunying="tuiJian" index="7"/>
+	<item id="08055" typeNo="bltx108" name="1780钻石" icon="bd_icon_980" price="178" des="另赠送190钻石" yunying="normal" index="7"/>
+</data>

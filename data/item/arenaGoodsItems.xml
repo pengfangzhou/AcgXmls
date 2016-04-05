@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<goodsItem id="01030" price="290" count="1" />
+	<goodsItem id="01038" price="498" count="1" />
+	<goodsItem id="01065" price="229" count="1" />
+	<goodsItem id="01073" price="1000" count="1" />
+	<goodsItem id="01080" price="1350" count="1" />
+	<goodsItem id="01095" price="5250" count="1" />
+</data>

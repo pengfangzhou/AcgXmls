@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by o (k) -->
+<!--type【1】月卡【2】无限购买【3】限制购买-->
+<data>
+	<item id="08001" typeNo="bltx201" name="300钻石月度礼包" icon="bd_icon_month" price="20" des="连续30天每天可领取120钻" yunying="tuiJian" index="4" payImageUrl="letv0"/>
+	<item id="08034" typeNo="bltx212" name="6000钻石" icon="bd_icon_6480" price="578" des="另赠送6200钻石(限赠1次)" yunying="tuiJian" index="0" payImageUrl="letv5"/>
+	<item id="08035" typeNo="bltx212" name="6000钻石" icon="bd_icon_6480" price="578" des="另赠送1100钻石" yunying="normal" index="1" payImageUrl="letv5"/>
+	<item id="08020" typeNo="bltx209" name="2000钻石" icon="bd_icon_1980" price="198" des="另赠送2100钻石(限赠1次)" yunying="tuiJian" index="2" payImageUrl="letv3"/>
+	<item id="08021" typeNo="bltx209" name="2000钻石" icon="bd_icon_1980" price="198" des="另赠送300钻石" yunying="normal" index="3" payImageUrl="letv3"/>
+	<item id="08036" typeNo="bltx213" name="20000钻石" icon="bd_icon_6480" price="1920" des="另赠送22000钻石(限赠1次)" yunying="tuiJian" index="5" payImageUrl="letv5"/>
+	<item id="08037" typeNo="bltx213" name="20000钻石" icon="bd_icon_6480" price="1920" des="另赠送7000钻石" yunying="normal" index="6" payImageUrl="letv5"/>
+	<item id="08030" typeNo="bltx210" name="3000钻石" icon="bd_icon_3280" price="298" des="另赠送3200钻石(限赠1次)" yunying="tuiJian" index="7" payImageUrl="letv4"/>
+	<item id="08031" typeNo="bltx210" name="3000钻石" icon="bd_icon_3280" price="298" des="另赠送800钻石" yunying="normal" index="8" payImageUrl="letv4"/>
+	<item id="08018" typeNo="bltx202" name="50钻石" icon="bd_icon_300" price="5" des=" " yunying="normal" index="9" payImageUrl="letv1"/>
+	<item id="08038" typeNo="bltx214" name="40000钻石" icon="bd_icon_6480" price="3780" des="另赠送43000钻石(限赠1次)" yunying="tuiJian" index="10" payImageUrl="letv5"/>
+	<item id="08039" typeNo="bltx214" name="40000钻石" icon="bd_icon_6480" price="3780" des="另赠送21000钻石" yunying="normal" index="11" payImageUrl="letv5"/>
+	<item id="08013" typeNo="bltx206" name="300钻石" icon="bd_icon_300" price="30" des="另赠送300钻石(限赠1次)" yunying="tuiJian" index="12" payImageUrl="letv1"/>
+	<item id="08014" typeNo="bltx206" name="300钻石" icon="bd_icon_300" price="30" des="另赠送10钻石" yunying="normal" index="13" payImageUrl="letv1"/>
+	<item id="08024" typeNo="bltx208" name="1000钻石" icon="bd_icon_980" price="98" des="另赠送1000钻石(限赠1次)" yunying="tuiJian" index="14" payImageUrl="letv2"/>
+	<item id="08025" typeNo="bltx208" name="1000钻石" icon="bd_icon_980" price="98" des="另赠送80钻石" yunying="normal" index="15" payImageUrl="letv2"/>
+	<item id="08010" typeNo="bltx200" name="1钻石测试用" icon="bd_icon_300" price="1" des="另赠送1钻石" yunying="normal" index="16" payImageUrl="letv1"/>
+</data>

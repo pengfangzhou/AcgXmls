@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<data>
+	<item time="0" costDiamond="10" addSkillTimes="10"/>
+	<item time="1" costDiamond="20" addSkillTimes="10"/>
+	<item time="2" costDiamond="20" addSkillTimes="10"/>
+	<item time="3" costDiamond="40" addSkillTimes="10"/>
+	<item time="4" costDiamond="40" addSkillTimes="10"/>
+	<item time="5" costDiamond="100" addSkillTimes="10"/>
+	<item time="6" costDiamond="100" addSkillTimes="10"/>
+	<item time="7" costDiamond="100" addSkillTimes="10"/>
+	<item time="8" costDiamond="100" addSkillTimes="10"/>
+	<item time="9" costDiamond="100" addSkillTimes="10"/>
+	<item time="10" costDiamond="100" addSkillTimes="10"/>
+	<item time="11" costDiamond="100" addSkillTimes="10"/>
+	<item time="12" costDiamond="100" addSkillTimes="10"/>
+	<item time="13" costDiamond="100" addSkillTimes="10"/>
+	<item time="14" costDiamond="100" addSkillTimes="10"/>
+	<item time="15" costDiamond="100" addSkillTimes="10"/>
+	<item time="16" costDiamond="100" addSkillTimes="10"/>
+	<item time="17" costDiamond="100" addSkillTimes="10"/>
+	<item time="18" costDiamond="100" addSkillTimes="10"/>
+	<item time="19" costDiamond="100" addSkillTimes="10"/>
+	<item time="20" costDiamond="100" addSkillTimes="10"/>
+</data>

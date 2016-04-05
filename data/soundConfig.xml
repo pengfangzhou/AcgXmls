@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by gaoyun (gaoyun) -->
+<sounds>
+	<!--
+    说明：节点名请保证使用sound，否则将不被识别。
+    每个节点中的必须属性如下:
+    id:
+    url:资源位置assets/sounds/之后的一直到文件的名字
+    loop:【0】表示循环  【1，2，3....】数字表示播放次数
+    priority:表示优先级
+    describe:声音描述，作为说明不解析.
+	-->
+    <!--释放技能名字音效(喊出来技能名字配音)gy-->
+    <sound id="skill_050001" url="skillName/longXiaoJiuTian" loop="1" priority="1" describe="龙啸九天" />
+    <sound id="skill_050005" url="skillName/wanFuMoDi" loop="1" priority="1" describe="万夫莫敌" />
+    <sound id="skill_050009" url="skillName/miaoShouHuiChun" loop="1" priority="1" describe="妙手回春" />
+    <sound id="skill_050013" url="skillName/shenHuoNuZhang" loop="1" priority="1" describe="神火怒张" />
+    <sound id="skill_050017" url="skillName/moDaoMieJi" loop="1" priority="1" describe="魔刀灭极" />
+    <sound id="skill_050021" url="skillName/huoJianTianXi" loop="1" priority="1" describe="火箭天袭" />
+    <sound id="skill_050025" url="skillName/daDiZhiNu" loop="1" priority="1" describe="大地之怒" />
+    <sound id="skill_050029" url="skillName/tieQiTuXi" loop="1" priority="1" describe="铁骑突击" />
+    <sound id="skill_050033" url="skillName/tianGangXuanZhen" loop="1" priority="1" describe="天罡玄阵" />
+    <sound id="skill_050037" url="skillName/jinDaoKuangZhan" loop="1" priority="1" describe="金刀狂斩" />
+    <sound id="skill_050041" url="skillName/bingFengRenWu" loop="1" priority="1" describe="冰风刃舞" />
+    <sound id="skill_050045" url="skillName/changQiangTuJi" loop="1" priority="1" describe="长枪突击" />
+    <sound id="skill_050049" url="skillName/baiBuChuanYang" loop="1" priority="1" describe="百步穿杨" />
+    <sound id="skill_050053" url="skillName/shengSiMen" loop="1" priority="1" describe="生死门" />
+    <sound id="skill_050057" url="skillName/huPaoZhen" loop="1" priority="1" describe="虎咆震" />
+    <sound id="skill_050061" url="skillName/baGuaZhanZhen" loop="1" priority="1" describe="八卦斩阵" />
+    <sound id="skill_050065" url="skillName/huoFengAoXiang" loop="1" priority="1" describe="火凤翱翔" />
+    <sound id="skill_050069" url="skillName/diQuanJingLang" loop="1" priority="1" describe="地泉鲸浪" />
+    <sound id="skill_050073" url="skillName/xueZhanDaoDi" loop="1" priority="1" describe="血战到底" />
+    <sound id="skill_050077" url="skillName/huangLongXiangTian" loop="1" priority="1" describe="黄龙翔天" />
+    <sound id="skill_050081" url="skillName/jueQingBian" loop="1" priority="1" describe="绝情鞭" />
+    <sound id="skill_050085" url="skillName/longJuanXuanFeng" loop="1" priority="1" describe="龙卷旋风" />
+    <sound id="skill_050089" url="skillName/biYueXiuHua" loop="1" priority="1" describe="闭月羞花" />
+    <sound id="skill_050093" url="skillName/miMiZhiYue" loop="1" priority="1" describe="靡靡之乐" />
+    <sound id="skill_050097" url="skillName/shenGuiLuanWu" loop="1" priority="1" describe="神鬼乱舞" />
+    <!--<sound id="skill_050101" url="skillName/qingLongYanYue" loop="1" priority="1" describe="青龙偃月刀" />-->
+    <!--<sound id="skill_050105" url="skillName/shenGuiLuanWu" loop="1" priority="1" describe="神鬼乱舞" />-->
+    <!--<sound id="skill_050109" url="skillName/yueWuQingCheng" loop="1" priority="1" describe="月舞倾城" />-->
+    <sound id="skill_050113" url="skillName/guiShenWuShuang" loop="1" priority="1" describe="鬼神无双" />
+    <sound id="skill_050117" url="skillName/jiFengBneLei" loop="1" priority="1" describe="疾风奔雷" />
+    <!--<sound id="skill_050121" url="skillName/qinYueShengSheng" loop="1" priority="1" describe="琴乐生声" />-->
+    <sound id="skill_050125" url="skillName/qianJunYiShan" loop="1" priority="1" describe="千军一闪" />
+    <!--释放技能音效end-->
+    <!--技能效果音效(技能播放过程的)gy-->
+    <sound id="skillEffect_050001" url="skill/longXiaoJiuTian" loop="1" priority="1" describe="龙啸九天" />
+    <sound id="skillEffect_050005" url="skill/wanFuMoDi" loop="1" priority="1" describe="万夫莫敌" />
+    <sound id="skillEffect_050009" url="skill/miaoShouHuiChun" loop="1" priority="1" describe="妙手回春" />
+    <sound id="skillEffect_050013" url="skill/shenHuoNuZhang" loop="1" priority="1" describe="神火怒张" />
+    <sound id="skillEffect_050017" url="skill/moDaoMieJi" loop="1" priority="1" describe="魔刀灭极" />
+    <sound id="skillEffect_050021" url="skill/huoJianTianXi" loop="1" priority="1" describe="火箭天袭" />
+    <sound id="skillEffect_050025" url="skill/daDiZhiNu" loop="1" priority="1" describe="大地之怒" />
+    <sound id="skillEffect_050029" url="skill/tieQiTuXi" loop="1" priority="1" describe="铁骑突击" />
+    <sound id="skillEffect_050033" url="skill/tianGangXuanZhen" loop="1" priority="1" describe="天罡玄阵" />
+    <sound id="skillEffect_050037" url="skill/jinDaoKuangZhan" loop="1" priority="1" describe="金刀狂斩" />
+    <sound id="skillEffect_050041" url="skill/bingFengRenWu" loop="1" priority="1" describe="冰风刃舞" />
+    <sound id="skillEffect_050045" url="skill/changQiangTuJi" loop="1" priority="1" describe="长枪突击" />
+    <sound id="skillEffect_050049" url="skill/baiBuChuanYang" loop="1" priority="1" describe="百步穿杨" />
+    <sound id="skillEffect_050053" url="skill/shengSiMen" loop="1" priority="1" describe="生死门" />
+    <sound id="skillEffect_050057" url="skill/huPaoZhen" loop="1" priority="1" describe="虎咆震" />
+    <sound id="skillEffect_050061" url="skill/baGuaZhanZhen" loop="1" priority="1" describe="八卦斩阵" />
+    <sound id="skillEffect_050065" url="skill/huoFengAoXiang" loop="1" priority="1" describe="火凤翱翔" />
+    <sound id="skillEffect_050069" url="skill/diQuanJingLang" loop="1" priority="1" describe="地泉鲸浪" />
+    <sound id="skillEffect_050073" url="skill/xueZhanDaoDi" loop="1" priority="1" describe="血战到底" />
+    <sound id="skillEffect_050077" url="skill/huangLongXiangTian" loop="1" priority="1" describe="黄龙翔天" />
+    <sound id="skillEffect_050081" url="skill/jueQingBian" loop="1" priority="1" describe="绝情鞭" />
+    <sound id="skillEffect_050085" url="skill/longJuanXuanFeng" loop="1" priority="1" describe="龙卷旋风" />
+    <sound id="skillEffect_050089" url="skill/biYueXiuHua" loop="1" priority="1" describe="闭月羞花" />
+    <sound id="skillEffect_050093" url="skill/miMiZhiYue" loop="1" priority="1" describe="靡靡之乐" />
+    <sound id="skillEffect_050097" url="skill/daDiZhiNu" loop="1" priority="1" describe="神鬼乱舞" />
+    <!--技能效果音效end-->
+
+    <!--模块音乐gy-->
+    <sound id="music_battleSection" url="music/battleSection" loop="1" priority="1" describe="" />
+    <sound id="music_fightArena" url="music/fightNormaDl" loop="0" priority="1" describe="" />
+    <sound id="music_fightNormal1" url="music/fightNormaDl" loop="0" priority="1" describe="" />
+    <sound id="music_fightNormal2" url="music/fightNormaDl" loop="0" priority="1" describe="" />
+    <sound id="music_fightNormal3" url="music/fightNormaDl" loop="0" priority="1" describe="" />
+    <sound id="music_fightTrial" url="music/fightNormaDl" loop="0" priority="1" describe="" />
+    <sound id="music_login" url="music/login" loop="0" priority="0" describe="" />
+    <sound id="music_mainstate" url="music/mainstate" loop="1" priority="1" describe="" />
+    <!--模块音乐end-->
+
+
+    <!--ui界面gy-->
+    <sound id="ui_buNengDianJi" url="uisound/buNengDianJi" loop="1" priority="1" describe="不能点击" />
+    <sound id="ui_chengGongChouJiang" url="uisound/chengGongChouJiang" loop="1" priority="1" describe="抽奖成功" />
+    <sound id="ui_chengGongShiLian" url="uisound/chengGongShiLian" loop="1" priority="1" describe="抽奖成功" />
+    <sound id="ui_chuangKou" url="uisound/chuangKou" loop="1" priority="1" describe="窗口弹出音效" />
+    <sound id="ui_chuangKouGuanBi" url="uisound/chuangKouGuanBi" loop="1" priority="1" describe="窗口关闭音效" />
+    <sound id="ui_fanHui" url="uisound/fanHui" loop="1" priority="1" describe="点击返回音效" />
+    <sound id="ui_tongYongAnNiu" url="uisound/tongYongAnNiu" loop="1" priority="1" describe="通用按钮点击" />
+    <sound id="ui_jingGaoChuangKou" url="uisound/jingGaoChuangKou" loop="1" priority="1" describe="警告窗口弹出音效" />
+    <sound id="ui_jiaoDianYiDong" url="uisound/jiaoDianYiDong" loop="1" priority="1" describe="焦点移动" />
+    <sound id="ui_zhanDouShiBai" url="uisound/zhanDouShiBai" loop="1" priority="1" describe="战斗失败" />
+    <sound id="ui_zhanDouShengLi" url="uisound/zhanDouShengLi" loop="1" priority="1" describe="战斗场景中时战斗胜利的音效" />
+    <sound id="ui_hanShaSheng" url="uisound/hanShaSheng" loop="1" priority="1" describe="喊杀声" />
+    <sound id="ui_yiXingShengLi" url="uisound/yiXingShengLi" loop="1" priority="1" describe="一星胜利" />
+    <sound id="ui_erXingShengLi" url="uisound/erXingShengLi" loop="1" priority="1" describe="二星胜利" />
+    <sound id="ui_sanXingShengLi" url="uisound/sanXingShengLi" loop="1" priority="1" describe="三星胜利" />
+    <sound id="ui_zhanDuiShengJi" url="uisound/zhanDuiShengJi" loop="1" priority="1" describe="战队升级" />
+    <sound id="ui_jinJie" url="uisound/jinJie" loop="1" priority="1" describe="进阶" />
+    <sound id="ui_fengJue" url="uisound/fengJue" loop="1" priority="1" describe="封爵" />
+    <sound id="ui_tuFei" url="uisound/tuFei" loop="1" priority="1" describe="突飞" />
+    <sound id="ui_heChengChengGong" url="uisound/heChengChengGong" loop="1" priority="1" describe="合成" />
+    <sound id="ui_chuanShangZhuangBei" url="uisound/chuanShangZhuangBei" loop="1" priority="1" describe="穿上装备" />
+    <sound id="ui_jiNengShengJi" url="uisound/jiNengShengJi" loop="1" priority="1" describe="技能升级" />
+    <sound id="ui_xinWuJiang" url="uisound/xinWuJiang" loop="1" priority="1" describe="获取新武将" />
+    <sound id="ui_xiaZhen" url="uisound/xiaZhen" loop="1" priority="1" describe="武将下阵" />
+    <sound id="ui_fightOpen1" url="uisound/kaiMen" loop="1" priority="1" describe="关门" />
+    <sound id="ui_fightOpen2" url="uisound/guanMen" loop="1" priority="1" describe="开门" />
+    <sound id="ui_guanKaQieHuan" url="uisound/guanKaQieHuan" loop="1" priority="1" describe="关卡切换" />
+    <sound id="ui_tabDianJi" url="uisound/tabDianJi" loop="1" priority="1" describe="TAB点击" />
+    <!--ui界面end-->
+
+    <!--战斗通用语句start-->
+    <sound id="commonDialogWomen_001" url="zhandoutongyongyuju/commonBattleStartNvJiang1" loop="1" priority="1" describe="" />
+    <sound id="commonDialogWomen_002" url="zhandoutongyongyuju/commonBattleStartNvJiang2" loop="1" priority="1" describe="" />
+    <sound id="commonDialogWomen_003" url="zhandoutongyongyuju/commonBattleStartNvJiang3" loop="1" priority="1" describe="" />
+    <sound id="commonDialogWomen_004" url="zhandoutongyongyuju/commonBattleStartNvJiang4" loop="1" priority="1" describe="" />
+    <sound id="commonDialogWomen_005" url="zhandoutongyongyuju/commonBattleStartNvJiang5" loop="1" priority="1" describe="" />
+    <sound id="commonDialogNan_001" url="zhandoutongyongyuju/commonBattleStartNanJiang1" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_002" url="zhandoutongyongyuju/commonBattleStartNanJiang2" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_003" url="zhandoutongyongyuju/commonBattleStartNanJiang3" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_004" url="zhandoutongyongyuju/commonBattleStartNanJiang4" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_005" url="zhandoutongyongyuju/commonBattleStartNanJiang5" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_006" url="zhandoutongyongyuju/commonBattleStartNanJiang6" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_007" url="zhandoutongyongyuju/commonBattleStartNanJiang7" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_008" url="zhandoutongyongyuju/commonBattleStartNanJiang8" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_009" url="zhandoutongyongyuju/commonBattleStartNanJiang9" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_010" url="zhandoutongyongyuju/commonBattleStartNanJiang10" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_011" url="zhandoutongyongyuju/commonBattleStartNanJiang11" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_012" url="zhandoutongyongyuju/commonBattleStartNanJiang12" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_013" url="zhandoutongyongyuju/commonBattleStartNanJiang13" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_014" url="zhandoutongyongyuju/commonBattleStartNanJiang14" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_015" url="zhandoutongyongyuju/commonBattleStartNanJiang15" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_016" url="zhandoutongyongyuju/commonBattleStartNanJiang16" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_017" url="zhandoutongyongyuju/commonBattleStartNanJiang17" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_018" url="zhandoutongyongyuju/commonBattleStartNanJiang18" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_019" url="zhandoutongyongyuju/commonBattleStartNanJiang19" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_020" url="zhandoutongyongyuju/commonBattleStartNanJiang20" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_021" url="zhandoutongyongyuju/commonBattleStartNanJiang21" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_022" url="zhandoutongyongyuju/commonBattleStartNanJiang22" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_023" url="zhandoutongyongyuju/commonBattleStartNanJiang23" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_024" url="zhandoutongyongyuju/commonBattleStartNanJiang24" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_025" url="zhandoutongyongyuju/commonBattleStartNanJiang25" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_026" url="zhandoutongyongyuju/commonBattleStartNanJiang26" loop="1" priority="1" describe="" />
+
+	<sound id="commonDialogNan_027" url="zhandoutongyongyuju/commonBattleStartNanJiang27" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_028" url="zhandoutongyongyuju/commonBattleStartNanJiang28" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_029" url="zhandoutongyongyuju/commonBattleStartNanJiang29" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_030" url="zhandoutongyongyuju/commonBattleStartNanJiang30" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_031" url="zhandoutongyongyuju/commonBattleStartNanJiang31" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_032" url="zhandoutongyongyuju/commonBattleStartNanJiang32" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_033" url="zhandoutongyongyuju/commonBattleStartNanJiang33" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_034" url="zhandoutongyongyuju/commonBattleStartNanJiang34" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_035" url="zhandoutongyongyuju/commonBattleStartNanJiang35" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_036" url="zhandoutongyongyuju/commonBattleStartNanJiang36" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_037" url="zhandoutongyongyuju/commonBattleStartNanJiang37" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_038" url="zhandoutongyongyuju/commonBattleStartNanJiang38" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_039" url="zhandoutongyongyuju/commonBattleStartNanJiang39" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_040" url="zhandoutongyongyuju/commonBattleStartNanJiang40" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_041" url="zhandoutongyongyuju/commonBattleStartNanJiang41" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_042" url="zhandoutongyongyuju/commonBattleStartNanJiang42" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_043" url="zhandoutongyongyuju/commonBattleStartNanJiang43" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_044" url="zhandoutongyongyuju/commonBattleStartNanJiang44" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_045" url="zhandoutongyongyuju/commonBattleStartNanJiang45" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_046" url="zhandoutongyongyuju/commonBattleStartNanJiang46" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_047" url="zhandoutongyongyuju/commonBattleStartNanJiang47" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_048" url="zhandoutongyongyuju/commonBattleStartNanJiang48" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_049" url="zhandoutongyongyuju/commonBattleStartNanJiang49" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_050" url="zhandoutongyongyuju/commonBattleStartNanJiang50" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_051" url="zhandoutongyongyuju/commonBattleStartNanJiang51" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_052" url="zhandoutongyongyuju/commonBattleStartNanJiang52" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_053" url="zhandoutongyongyuju/commonBattleStartNanJiang53" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_054" url="zhandoutongyongyuju/commonBattleStartNanJiang54" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_055" url="zhandoutongyongyuju/commonBattleStartNanJiang55" loop="1" priority="1" describe="" />
+	<sound id="commonDialogNan_056" url="zhandoutongyongyuju/commonBattleStartNanJiang56" loop="1" priority="1" describe="" />
+
+	<sound id="commonDialog_032" url="zhandoutongyongyuju/commonBattleKeZhongDuoShiBIng" loop="1" priority="1" describe="" />
+	<sound id="commonDialog_033" url="zhandoutongyongyuju/commonBattleKeDanGeShiBing1" loop="1" priority="1" describe="" />
+	<sound id="commonDialog_034" url="zhandoutongyongyuju/commonBattleKeDanGeShiBing2" loop="1" priority="1" describe="" />
+	<sound id="commonDialog_035" url="zhandoutongyongyuju/commonBattleTaoCuKuangShiBing" loop="1" priority="1" describe="" />
+	<sound id="commonDialog_036" url="zhandoutongyongyuju/commonBattleTaoNanJiang" loop="1" priority="1" describe="" />
+	<sound id="commonDialog_037" url="zhandoutongyongyuju/commonBattleTaoShiBing" loop="1" priority="1" describe="" />
+	   
+    <!--战斗通用语句end-->
+	
+	<!--大章开始-->
+    <sound id="battleSec_101" url="battleDialog/char1/char1Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_102" url="battleDialog/char1/char1Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_103" url="battleDialog/char1/char1Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_104" url="battleDialog/char1/char1Sec0CharStartD4" loop="1" priority="1" describe="" />
+	<sound id="battleSec_105" url="battleDialog/char1/char1Sec0CharStartD5" loop="1" priority="1" describe="" />
+	<sound id="battleSec_106" url="battleDialog/char2/char2Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_107" url="battleDialog/char2/char2Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_108" url="battleDialog/char2/char2Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_109" url="battleDialog/char3/char3Sec0SharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_110" url="battleDialog/char3/char3Sec0SharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_111" url="battleDialog/char3/char3Sec0SharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_112" url="battleDialog/char3/char3Sec0SharStartD4" loop="1" priority="1" describe="" />
+	<sound id="battleSec_113" url="battleDialog/char3/char3Sec0SharStartD5" loop="1" priority="1" describe="" />
+	<sound id="battleSec_114" url="battleDialog/char4/char4Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_115" url="battleDialog/char4/char4Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_116" url="battleDialog/char4/char4Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_117" url="battleDialog/char4/char4Sec0CharStartD4" loop="1" priority="1" describe="" />
+	<sound id="battleSec_118" url="battleDialog/char5/char5Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_119" url="battleDialog/char5/char5Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_120" url="battleDialog/char5/char5Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_121" url="battleDialog/char5/char5Sec0CharStartD4" loop="1" priority="1" describe="" />
+	<sound id="battleSec_122" url="battleDialog/char6/char6Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_123" url="battleDialog/char6/char6Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_124" url="battleDialog/char6/char6Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_125" url="battleDialog/char6/char6Sec0CharStartD4" loop="1" priority="1" describe="" />
+	<sound id="battleSec_126" url="battleDialog/char7/char7Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_127" url="battleDialog/char7/char7Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_128" url="battleDialog/char7/char7Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_129" url="battleDialog/char8/char8Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_130" url="battleDialog/char8/char8Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_131" url="battleDialog/char8/char8Sec0CharStartD3" loop="1" priority="1" describe="" />
+	<sound id="battleSec_132" url="battleDialog/char9/char9Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_133" url="battleDialog/char9/char9Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_134" url="battleDialog/char10/char10Sec0CharStartD1" loop="1" priority="1" describe="" />
+	<sound id="battleSec_135" url="battleDialog/char10/char10Sec0CharStartD2" loop="1" priority="1" describe="" />
+	<sound id="battleSec_136" url="battleDialog/char10/char10Sec0CharStartD3" loop="1" priority="1" describe="" />
+	
+	
+	<!--大章开始end-->
+    <!--第零章-->
+    <sound id="battle_001" url="battleDialog/char0/char0Sec1BattleStartD1" loop="1" priority="1" describe="" />
+    <sound id="battle_002" url="battleDialog/char0/char0Sec1BattleStartD2" loop="1" priority="1" describe="" />
+    <sound id="battle_003" url="battleDialog/char0/char0Sec1BattleStartD3" loop="1" priority="1" describe="" />
+    <sound id="battle_004" url="battleDialog/char0/char0Sec1BattleStartD4" loop="1" priority="1" describe="" />
+    <sound id="battle_005" url="battleDialog/char0/char0Sec1BattleStartD5" loop="1" priority="1" describe="" />
+    <sound id="battle_006" url="battleDialog/char0/char0Sec1BattleStartD6" loop="1" priority="1" describe="" />
+    <sound id="battle_007" url="battleDialog/char0/char0Sec1BattleStartD7" loop="1" priority="1" describe="" />
+    <sound id="battle_008" url="battleDialog/char0/char0Sec1BattleStartD8" loop="1" priority="1" describe="" />
+    <sound id="battle_009" url="battleDialog/char0/char0Sec1BattleStartD9" loop="1" priority="1" describe="" />
+    <sound id="battle_010" url="battleDialog/char0/char0Sec1BattleStartD10" loop="1" priority="1" describe="" />
+
+    <!--章节配音start-->
+    
+    <!--章节配音end-->
+
+
+    <!--特定武将语句id:generalSpeak_ + 武将id(01001)-->
+    <sound id="generalSpeak_01001" url="generalSpeak/genealLiuJing" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01002" url="generalSpeak/genealANiu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01003" url="generalSpeak/genealHuaTuo" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01004" url="generalSpeak/genealGanNing" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01005" url="generalSpeak/genealWeiYan" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01006" url="generalSpeak/genealXuShu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01007" url="generalSpeak/genealLiDian" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01008" url="generalSpeak/genealWenPin" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01009" url="generalSpeak/genealLuSu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01010" url="generalSpeak/genealTaiShiCi" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01011" url="generalSpeak/genealLvMeng" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01012" url="generalSpeak/genealHanDang" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01013" url="generalSpeak/genealHuangZhong" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01014" url="generalSpeak/genealJiaXu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01015" url="generalSpeak/genealZhangLiao" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01016" url="generalSpeak/genealZhangHe" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01017" url="generalSpeak/genealXuHuang" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01018" url="generalSpeak/genealXiaHouYuan" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01019" url="generalSpeak/genealHuangGai" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01020" url="generalSpeak/genealSiMaYi" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01021" url="generalSpeak/genealZhenMi" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01022" url="generalSpeak/genealHuangYueYing" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01023" url="generalSpeak/genealDaQiao" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01024" url="generalSpeak/genealXiaoQiao" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01025" url="generalSpeak/generalZhaoYun" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01026" url="generalSpeak/generalGuanYu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01027" url="generalSpeak/generalZhangFei" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01028" url="generalSpeak/generalDiaoChan" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01029" url="generalSpeak/generalLvBu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01030" url="generalSpeak/generalXiaHouDun" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01031" url="generalSpeak/generalCaiWenJi" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01032" url="generalSpeak/generalYanYan" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01033" url="generalSpeak/generalJiangWei" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01034" url="generalSpeak/generalZhouYu" loop="1" priority="1" describe="" />
+    <sound id="generalSpeak_01035" url="generalSpeak/generalZhouTai" loop="1" priority="1" describe="" />
+    <!--特定武将语句end-->
+
+    <!--新手引导剧情-->
+    <sound id="preludeBg" url="prelude/preludeBg" loop="1" priority="1" describe="" />
+    <sound id="gongcheng_001" url="prelude/preludeGongChengD1" loop="1" priority="1" describe="" />
+    <sound id="gongcheng_002" url="prelude/preludeGongChengD2" loop="1" priority="1" describe="" />
+    <sound id="gongcheng_003" url="prelude/preludeGongChengD3" loop="1" priority="1" describe="" />
+    <sound id="yuebing_001" url="prelude/preludeYueBingD1" loop="1" priority="1" describe="" />
+    <sound id="yuebing_002" url="prelude/preludeYueBingD2" loop="1" priority="1" describe="" />
+    <sound id="yuebing_003" url="prelude/preludeYueBingD3" loop="1" priority="1" describe="" />
+    <sound id="huanxing_001" url="prelude/preludeHuanXingD1" loop="1" priority="1" describe="" />
+    <sound id="huanxing_002" url="prelude/preludeHuanXingD2" loop="1" priority="1" describe="" />
+    <sound id="huanxing_003" url="prelude/preludeHuanXingD3" loop="1" priority="1" describe="" />
+    <sound id="huanxing_004" url="prelude/preludeZhengBingD1" loop="1" priority="1" describe="" />
+    <sound id="baoxin_001" url="prelude/preludeBaoXinD1" loop="1" priority="1" describe="" />
+    <sound id="baoxin_002" url="prelude/preludeBaoXinD2" loop="1" priority="1" describe="" />
+    <sound id="baoxin_003" url="prelude/preludeBaoXinD3" loop="1" priority="1" describe="" />
+    <sound id="taopao_001" url="prelude/preludeTaoPaoD1" loop="1" priority="1" describe="" />
+    <sound id="taopao_002" url="prelude/preludeTaoPaoD2" loop="1" priority="1" describe="" />
+    <sound id="taopao_003" url="prelude/preludeTaoPaoD3" loop="1" priority="1" describe="" />
+    <sound id="taopao_004" url="prelude/preludeTaoPaoD4" loop="1" priority="1" describe="" />
+    <!---新手引导-->
+    <sound id="qumingzi_001" url="guide/guideQuMingZiD1" loop="1" priority="1" describe="" />
+    <sound id="panchan_001" url="guide/guideQuYouJianD1" loop="1" priority="1" describe="" />
+    <sound id="panchan_002" url="guide/guideLingLiBaoD1" loop="1" priority="1" describe="" />
+    <sound id="bingqiangmazhuang_001" url="guide/guideQuZhanYiD1" loop="1" priority="1" describe="" />
+    <sound id="shangzhen_001" url="guide/guideANiuShangZhenD1" loop="1" priority="1" describe="" />
+    <sound id="xuanzhenxing_001" url="guide/guideXuanZhengXingD1" loop="1" priority="1" describe="" />
+    <!--穿装备-->
+    <sound id="chuanzhangbei_001" url="guide/guideDianZhenRongD1" loop="1" priority="1" describe="" />
+    <sound id="chuanzhangbei_002" url="guide/guideDianBuDuiD1" loop="1" priority="1" describe="" />
+    <sound id="chuanzhangbei_003" url="guide/guideChuanZhuangBeiD1" loop="1" priority="1" describe="" />
+    <sound id="chuanzhangbei_004" url="guide/guideDianFanHuiD1" loop="1" priority="1" describe="" />
+    <!--派甄宓-->
+    <sound id="zhenmishang_001" url="guide/guideZhenMiShangD1" loop="1" priority="1" describe="" />
+    <!--升阶-->
+    <sound id="shengjie_001" url="guide/guideShengJieD1" loop="1" priority="1" describe="" />
+    <!--抽奖-->
+    <sound id="lottery_001" url="guide/guideChouPuTongD1" loop="1" priority="1" describe="" />
+    <sound id="lottery_002" url="guide/guideChouBaoShiD1" loop="1" priority="1" describe="" />
+    <sound id="lottery_003" url="guide/guideDeJiangHunD1" loop="1" priority="1" describe="" />
+    <!--升星-->
+    <sound id="shengxing_001" url="guide/guideDaoZhenRongD1" loop="1" priority="1" describe="" />
+    <sound id="shengxing_002" url="guide/guideDianShengXingD1" loop="1" priority="1" describe="" />
+    <sound id="shengxing_003" url="guide/guideFanHuiD1" loop="1" priority="1" describe="" />
+    <!--战斗动作 FightAction-->
+    <sound id="fa_bu_001" url="fight/action/buBingAiDa" loop="1" priority="1" describe="挨打" />
+    <sound id="fa_bu_002" url="fight/action/buBingBaoNu" loop="1" priority="1" describe="暴击" />
+    <sound id="fa_bu_003" url="fight/action/buBingGongJi1" loop="1" priority="1" describe="攻击1" />
+    <sound id="fa_bu_004" url="fight/action/buBingGongJi2" loop="1" priority="1" describe="攻击2" />
+    <sound id="fa_bu_005" url="fight/action/buBingPao" loop="1" priority="1" describe="跑" />
+    <sound id="fa_bu_006" url="fight/action/buBingSiWang" loop="1" priority="1" describe="死亡" />
+
+
+    <sound id="fa_gong_001" url="fight/action/gongBingAiDa" loop="1" priority="1" describe="" />
+    <sound id="fa_gong_002" url="fight/action/gongBingBaoNu" loop="1" priority="1" describe="" />
+    <sound id="fa_gong_003" url="fight/action/gongBingGongJi1" loop="1" priority="1" describe="" />
+    <sound id="fa_gong_004" url="fight/action/gongBingGongJi2" loop="1" priority="1" describe="" />
+    <sound id="fa_gong_005" url="fight/action/gongBingPao" loop="1" priority="1" describe="" />
+    <sound id="fa_gong_006" url="fight/action/gongBingSiWang" loop="1" priority="1" describe="" />
+
+    <sound id="fa_qi_001" url="fight/action/qiBingAiDa" loop="1" priority="1" describe="" />
+    <sound id="fa_qi_002" url="fight/action/qiBingBaoNu" loop="1" priority="1" describe="" />
+    <sound id="fa_qi_003" url="fight/action/qiBingGongJi1" loop="1" priority="1" describe="" />
+    <sound id="fa_qi_004" url="fight/action/qiBingGongJi2" loop="1" priority="1" describe="" />
+    <sound id="fa_qi_005" url="fight/action/qiBingPao" loop="1" priority="1" describe="" />
+    <sound id="fa_qi_006" url="fight/action/qiBingSiWang" loop="1" priority="1" describe="" />
+
+    <sound id="fa_ShiqiDi_001" url="fight/action/shiQiDi" loop="1" priority="1" describe="士气低" />
+
+</sounds>

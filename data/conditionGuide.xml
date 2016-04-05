@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!--
+	id:根据id判断是穿装备还是抽奖等等
+	section:触发的章节
+    levelId:触发的最小开启章节（例如第一个大点之后开启，就是必须开启大点之后的小点，所以为2）
+	mmguideId:秘书说话id
+	-->
+	<item id="1" section="1" levelId="2">
+		<subItem subSeq="0" mmguideId="guide7"/>
+		<subItem subSeq="1" mmguideId="guide8"/>
+		<subItem subSeq="2" mmguideId="guide9"/>
+		<subItem subSeq="3" mmguideId=""/>
+		<subItem subSeq="4" mmguideId="guide10"/>
+		<subItem subSeq="5" mmguideId="guide10_1"/>
+		<subItem subSeq="6" mmguideId=""/>
+	</item>
+	<item id="2" section="1" levelId="5">
+		<subItem subSeq="0" mmguideId="guide11"/>
+	</item>
+	<item id="3" section="1" levelId="8">
+		<subItem subSeq="0" mmguideId=""/>
+		<subItem subSeq="1" mmguideId=""/>
+		<subItem subSeq="2" mmguideId="guide12"/>
+	</item>
+	<item id="4" section="1" levelId="11">
+		<subItem subSeq="0" mmguideId="guide13"/>
+		<subItem subSeq="1" mmguideId=""/>
+		<subItem subSeq="2" mmguideId=""/>
+		<subItem subSeq="3" mmguideId="guide14"/>
+		<subItem subSeq="4" mmguideId="guide15"/>
+	</item>
+	<item id="5" section="1" levelId="11">
+		<subItem subSeq="0" mmguideId="guide16"/>
+		<subItem subSeq="1" mmguideId=""/>
+		<subItem subSeq="2" mmguideId="guide17"/>
+		<subItem subSeq="3" mmguideId="guide18"/>
+	</item>
+</data>
