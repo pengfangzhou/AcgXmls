@@ -11,6 +11,12 @@
 3 技能介绍
 1) 修改item/skill/generalSkillItem.xml
 
+总结，共修改xml：
+修改goodsItems.xml
+item/generalItem.xml
+service/general/generals.xml
+item/skill/generalSkillItem.xml
+
 
 
 

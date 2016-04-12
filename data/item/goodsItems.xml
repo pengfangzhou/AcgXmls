@@ -15,7 +15,7 @@
 	<goodsItem id="01103" name="灵感之裙" goodsType="2" type="1" price="1500" resourceName="acgGoods01103" textPackerName="goodspic" description="一件黑白色系的高级成衣，是高级名媛们争先模仿的风格。" efficiency="pcs"/>
 	<goodsItem id="01104" name="普通浴衣" goodsType="1" type="1" price="300" resourceName="acgGoods01104" textPackerName="goodspic" description="东部特有的传统浴衣，非常轻便。" efficiency="pcs"/>
 	<goodsItem id="01105" name="女神领域裙" goodsType="4" type="1" price="8000" resourceName="acgGoods01105" textPackerName="goodspic" description="这条裙子让你想起那位传奇女神，压住裙摆的姿势是那么诱惑美丽！" efficiency="pcs"/>
-	<goodsItem id="01106" name="栾尾短裙" goodsType="3" type="1" price="3000" resourceName="acgGoods01106" textPackerName="goodspic" description="鸾尾花是光明和自由的象征，那是爱丽丝"爱的使者"的象征。" efficiency="pcs"/>
+	<goodsItem id="01106" name="栾尾短裙" goodsType="3" type="1" price="3000" resourceName="acgGoods01106" textPackerName="goodspic" description="鸾尾花是光明和自由的象征，那是爱丽丝'爱的使者'的象征。" efficiency="pcs"/>
 	<goodsItem id="01107" name="四叶草之恋裙" goodsType="2" type="1" price="1500" resourceName="acgGoods01107" textPackerName="goodspic" description="蜜恋的心情最难描述，也是最难忘却的感受……" efficiency="pcs"/>
 	<goodsItem id="01108" name="天真猫裙" goodsType="1" type="1" price="300" resourceName="acgGoods01108" textPackerName="goodspic" description="带着甜蜜蜜的笑容，你就这样轻快地跑到我身边，带来一片天真的星空。" efficiency="pcs"/>
 	<goodsItem id="01109" name="漫画女神裙" goodsType="4" type="1" price="8000" resourceName="acgGoods01109" textPackerName="goodspic" description="大胆采用了大块面的欧美漫画作为印花，彰显了现代美。" efficiency="pcs"/>
@@ -23,7 +23,7 @@
 	<goodsItem id="01111" name="星球醇香短裙" goodsType="2" type="1" price="1500" resourceName="acgGoods01111" textPackerName="goodspic" description="那是香飘飘的奶茶！不是五花肉！不是五花肉！不是五花肉！" efficiency="pcs"/>
 	<goodsItem id="01112" name="春意短裙" goodsType="1" type="1" price="300" resourceName="acgGoods01112" textPackerName="goodspic" description="光涂着我的眼睛，这就是春天呐！" efficiency="pcs"/>
 	<goodsItem id="01113" name="玫瑰池短裙" goodsType="4" type="1" price="8000" resourceName="acgGoods01113" textPackerName="goodspic" description="全大陆独一无二的玫瑰池短裙！" efficiency="pcs"/>
-	<goodsItem id="01114" name="惑影裙" goodsType="3" type="1" price="3000" resourceName="acgGoods01114" textPackerName="goodspic" description="一袭性感的吊带黑色裙，拖下披肩，摇身成为舞池里的"魅惑缪斯"。" efficiency="pcs"/>
+	<goodsItem id="01114" name="惑影裙" goodsType="3" type="1" price="3000" resourceName="acgGoods01114" textPackerName="goodspic" description="一袭性感的吊带黑色裙，拖下披肩，摇身成为舞池里的'魅惑缪斯'。" efficiency="pcs"/>
 	<goodsItem id="01115" name="飞羽裙" goodsType="2" type="1" price="1500" resourceName="acgGoods01115" textPackerName="goodspic" description="飞向属于我们的美丽，风雨不去理。" efficiency="pcs"/>
 	<goodsItem id="01116" name="好学生校服" goodsType="1" type="1" price="300" resourceName="acgGoods01116" textPackerName="goodspic" description="为什么有这么好看的校服？因为是战姬军校的好学校呀。" efficiency="pcs"/>
 	<goodsItem id="01117" name="淑女女神裙" goodsType="4" type="1" price="8000" resourceName="acgGoods01117" textPackerName="goodspic" description="大面积丝质纯色的面料展现了女性纯真柔美的一面。" efficiency="pcs"/>
