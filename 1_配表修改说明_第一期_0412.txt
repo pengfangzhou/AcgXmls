@@ -1,0 +1,35 @@
+1 物品图标
+1）将：1_icon_equip文件夹中的图片加入到: images/icon/equip中
+2）修改goodsItems.xml的:name、description、resourceName
+
+2 武将
+1）将：2_icon_half_compound文件夹中的图片加入到:images/icon/avatar_compound中
+2）将：3_icon_half_compound文件夹中的图片加入到:images/icon/half_compound中
+3）修改了item/generalItem.xml
+4) 修改了service/general/generals.xml
+
+3 技能介绍
+1) 修改item/skill/generalSkillItem.xml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
