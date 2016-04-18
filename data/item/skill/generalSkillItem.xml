@@ -6,7 +6,7 @@
 	<!--gasATime，集气动画的运动时间 />-->
 	<!--attackATime，进攻动画的运动时间 />-->
 	<generalSkill id="050000" layer="1" name="无" describe="无" type="无" buff="-1" resourceName="longxiaojiutian" icon="longxiaojiutian"/>
-	<generalSkill id="050001" layer="1" name="龙啸九天" describe="驭真龙之力啸贯九天。对敌军单体造成{0}点伤害。" type="DragonAttackSkillPlugin" buff="-1" resourceName="longxiaojiutian" icon="longxiaojiutian"/>
+	<generalSkill id="050001" layer="1" name="珠江之恋" describe="对单体敌军造成{0}点伤害。" type="DragonAttackSkillPlugin" buff="-1" resourceName="longxiaojiutian" icon="longxiaojiutian"/>
 	<generalSkill id="050002" layer="2" name="倾城" describe="有{0}%的机率躲闪远程攻击" type="-1" buff="-1" resourceName="liehuofentian" icon="qiangyun"/>
 	<generalSkill id="050003" layer="3" name="护甲光环" describe="光环:我军全军普通防御增加{0}%" type="-1" buff="-1" resourceName="liehuofentian" icon="bamenjinsuozhen"/>
 	<generalSkill id="050004" layer="4" name="未开放" describe="未开放" type="-1" buff="-1" resourceName="liehuofentian" icon="fuwangSkill_4"/>

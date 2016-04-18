@@ -9,7 +9,7 @@
 	<!--wb:释放技能时的形象，withBullet,0表示无子弹，1表示有子弹-->
 	<!--evaluateColor:评级颜色  白1,绿2,蓝3,紫4,橙5-->
 	<!--技能能用的id有1、5、9、13、21、89、90（89,90的技能配表可能被注释掉了）-->
-	<generalItem id="01001" name="待定战姬" sex="1" arms="1" sf="zhujue" figure="110" description="待定" head="zhujue" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01001" name="美子" sex="1" arms="1" sf="xiahouyuan" figure="110" description="单体伤害活泼型普通战姬" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="单体伤害活泼型普通战姬" evaluateColor="1"/>
 	<generalItem id="01002" name="叶赫那拉氏" sex="1" arms="4" sf="aniu" figure="109" description="攻击加成活泼型普通战姬" head="aniu" propertyDescription="-1" solider="-1" evaluate="攻击加成活泼型普通战姬" evaluateColor="1"/>
 	<generalItem id="01003" name="女奴Mira" sex="1" arms="2" sf="huatuo" figure="112" description="全体治疗温柔型普通战姬" head="huatuo" propertyDescription="-1" solider="-1" evaluate="全体治疗温柔型普通战姬" evaluateColor="1"/>
 	<generalItem id="01004" name="待定战姬" sex="1" arms="1" sf="ganning" figure="111" description="待定" head="ganning" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
