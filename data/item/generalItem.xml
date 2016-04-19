@@ -9,41 +9,41 @@
 	<!--wb:释放技能时的形象，withBullet,0表示无子弹，1表示有子弹-->
 	<!--evaluateColor:评级颜色  白1,绿2,蓝3,紫4,橙5-->
 	<!--技能能用的id有1、5、9、13、21、89、90（89,90的技能配表可能被注释掉了）-->
-	<generalItem id="01001" name="美子" sex="1" arms="1" sf="xiahouyuan" figure="110" description="单体伤害活泼型普通战姬" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="单体伤害活泼型普通战姬" evaluateColor="1"/>
-	<generalItem id="01002" name="叶赫那拉氏" sex="1" arms="4" sf="aniu" figure="109" description="攻击加成活泼型普通战姬" head="aniu" propertyDescription="-1" solider="-1" evaluate="攻击加成活泼型普通战姬" evaluateColor="1"/>
-	<generalItem id="01003" name="女奴Mira" sex="1" arms="2" sf="huatuo" figure="112" description="全体治疗温柔型普通战姬" head="huatuo" propertyDescription="-1" solider="-1" evaluate="全体治疗温柔型普通战姬" evaluateColor="1"/>
-	<generalItem id="01004" name="待定战姬" sex="1" arms="1" sf="ganning" figure="111" description="待定" head="ganning" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01005" name="待定战姬" sex="1" arms="1" sf="weiyan" figure="114" description="待定" head="weiyan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01006" name="修女碧昂斯" sex="1" arms="3" sf="xushu" figure="121" description="防御强化凶悍型普通战姬" head="xushu" propertyDescription="-1" solider="-1" evaluate="防御强化凶悍型普通战姬" evaluateColor="1"/>
-	<generalItem id="01007" name="演员梅蕙丝" sex="1" arms="4" sf="lidian" figure="117" description="单体伤害活泼型稀有战姬" head="lidian" propertyDescription="-1" solider="-1" evaluate="单体伤害活泼型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01008" name="慈禧" sex="1" arms="3" sf="wenpin" figure="122" description="单体控制凶悍型超级稀有战姬" head="wenpin" propertyDescription="-1" solider="-1" evaluate="单体控制凶悍型超级稀有战姬" evaluateColor="3"/>
-	<generalItem id="01009" name="待定战姬" sex="1" arms="1" sf="lusu" figure="123" description="待定" head="lusu" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01010" name="维多利亚女王" sex="1" arms="1" sf="taishici" figure="107" description="普攻光环凶悍型稀有战姬" head="taishici" propertyDescription="-1" solider="-1" evaluate="普攻光环凶悍型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01011" name="演员伊莎贝尔" sex="1" arms="3" sf="lvmeng" figure="124" description="单体控制凶悍型普通战姬" head="lvmeng" propertyDescription="-1" solider="-1" evaluate="单体控制凶悍型普通战姬" evaluateColor="1"/>
-	<generalItem id="01012" name="伊丽莎白女王" sex="1" arms="3" sf="handang" figure="125" description="周边伤害活泼型稀有战姬" head="handang" propertyDescription="-1" solider="-1" evaluate="周边伤害活泼型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01013" name="甄嬛" sex="1" arms="3" sf="huangzhong" figure="113" description="防御强化凶悍型稀有战姬" head="huangzhong" propertyDescription="-1" solider="-1" evaluate="防御强化凶悍型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01014" name="演员梦露" sex="1" arms="2" sf="jiaxu" figure="126" description="攻击加成温柔型稀有战姬" head="jiaxu" propertyDescription="-1" solider="-1" evaluate="攻击加成温柔型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01015" name="埃及艳后" sex="1" arms="1" sf="zhangliao" figure="101" description="周边伤害凶悍型稀有战姬" head="zhangliao" propertyDescription="-1" solider="-1" evaluate="周边伤害凶悍型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01016" name="陆小曼" sex="1" arms="2" sf="zhanghe" figure="105" description="普防光环温柔型稀有战姬" head="zhanghe" propertyDescription="-1" solider="-1" evaluate="普防光环温柔型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01017" name="川岛芳子" sex="1" arms="1" sf="xuhuang" figure="115" description="防御强化凶悍型超级稀有战姬" head="xuhuang" propertyDescription="-1" solider="-1" evaluate="防御强化凶悍型超级稀有战姬" evaluateColor="3"/>
-	<generalItem id="01018" name="美子" sex="1" arms="1" sf="xiahouyuan" figure="116" description="普攻光环活泼型普通战姬" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="普攻光环活泼型普通战姬" evaluateColor="1"/>
-	<generalItem id="01019" name="玛丽公主" sex="1" arms="2" sf="huanggai" figure="127" description="攻击加成温柔型普通战姬" head="huanggai" propertyDescription="-1" solider="-1" evaluate="攻击加成温柔型普通战姬" evaluateColor="1"/>
-	<generalItem id="01020" name="茜茜公主" sex="1" arms="4" sf="simayi" figure="128" description="全体伤害活泼型普通战姬" head="simayi" propertyDescription="-1" solider="-1" evaluate="全体伤害活泼型普通战姬" evaluateColor="1"/>
-	<generalItem id="01021" name="演员爱娃" sex="0" arms="1" sf="zhenmi" figure="103" description="血量光环活泼型普通战姬" head="zhenmi" propertyDescription="-1" solider="-1" evaluate="血量光环活泼型普通战姬" evaluateColor="1"/>
-	<generalItem id="01022" name="海盗奈特莉" sex="0" arms="4" sf="huangyueying" figure="108" description="普攻光环活泼型稀有战姬" head="huangyueying" propertyDescription="-1" solider="-1" evaluate="普攻光环活泼型稀有战姬" evaluateColor="2"/>
-	<generalItem id="01023" name="大乔" sex="0" arms="4" sf="daqiao" figure="129" description="周边伤害活泼型超级稀有战姬" head="daqiao" propertyDescription="-1" solider="-1" evaluate="周边伤害活泼型超级稀有战姬" evaluateColor="3"/>
-	<generalItem id="01024" name="小乔" sex="0" arms="2" sf="xiaoqiao" figure="130" description="全体伤害温柔型超级稀有战姬" head="xiaoqiao" propertyDescription="-1" solider="-1" evaluate="全体伤害温柔型超级稀有战姬" evaluateColor="3"/>
-	<generalItem id="01025" name="王昭君" sex="1" arms="3" sf="zhaoyun" figure="139" description="无敌罩罩凶悍型超超级稀有战姬" head="zhaoyun" propertyDescription="-1" solider="-1" evaluate="无敌罩罩凶悍型超超级稀有战姬" evaluateColor="4"/>
-	<generalItem id="01026" name="杨玉环" sex="1" arms="4" sf="guanyu" figure="102" description="单体斩杀活泼型超超级稀有战姬" head="guanyu" propertyDescription="-1" solider="-1" evaluate="单体斩杀活泼型超超级稀有战姬" evaluateColor="4"/>
-	<generalItem id="01027" name="貂蝉" sex="1" arms="1" sf="zhangfei" figure="140" description="群体控制活泼型超超级稀有战姬" head="zhangfei" propertyDescription="-1" solider="-1" evaluate="群体控制活泼型超超级稀有战姬" evaluateColor="4"/>
-	<generalItem id="01028" name="待定战姬" sex="0" arms="1" sf="diaochan" figure="141" description="待定" head="diaochan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01029" name="待定战姬" sex="1" arms="1" sf="lvbu" figure="142" description="待定" head="lvbu" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01030" name="待定战姬" sex="1" arms="1" sf="xiahoudun" figure="143" description="待定" head="xiahoudun" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01031" name="西施" sex="0" arms="2" sf="caiwenji" figure="144" description="全体治疗温柔型超超级稀有战姬" head="caiwenji" propertyDescription="-1" solider="-1" evaluate="全体治疗温柔型超超级稀有战姬" evaluateColor="4"/>
-	<generalItem id="01032" name="待定战姬" sex="1" arms="1" sf="yanyan" figure="145" description="待定" head="yanyan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01033" name="待定战姬" sex="1" arms="1" sf="jiangwei" figure="146" description="待定" head="jiangwei" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01034" name="待定战姬" sex="1" arms="1" sf="zhouyu" figure="147" description="待定" head="zhouyu" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
-	<generalItem id="01035" name="待定战姬" sex="1" arms="1" sf="zhoutai" figure="148" description="待定" head="zhoutai" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01001" name="美子" sex="1" arms="1" sf="aniu" figure="110" description="单体伤害输出型N级战姬" head="aniu" propertyDescription="-1" solider="-1" evaluate="单体伤害输出型N级战姬" evaluateColor="1"/>
+	<generalItem id="01002" name="茜茜公主" sex="1" arms="4" sf="simayi" figure="109" description="攻击加成输出型N级战姬" head="simayi" propertyDescription="-1" solider="-1" evaluate="攻击加成输出型N级战姬" evaluateColor="1"/>
+	<generalItem id="01003" name="女奴Mira" sex="1" arms="2" sf="huatuo" figure="112" description="全体治疗辅助型N级战姬" head="huatuo" propertyDescription="-1" solider="-1" evaluate="全体治疗辅助型N级战姬" evaluateColor="1"/>
+	<generalItem id="01004" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="111" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01005" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="114" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01006" name="修女碧昂斯" sex="1" arms="3" sf="xushu" figure="121" description="防御强化肉盾型N级战姬" head="xushu" propertyDescription="-1" solider="-1" evaluate="防御强化肉盾型N级战姬" evaluateColor="1"/>
+	<generalItem id="01007" name="演员梅蕙丝" sex="1" arms="4" sf="lidian" figure="117" description="单体伤害输出型R级战姬" head="lidian" propertyDescription="-1" solider="-1" evaluate="单体伤害输出型R级战姬" evaluateColor="2"/>
+	<generalItem id="01008" name="慈禧" sex="1" arms="3" sf="wenpin" figure="122" description="单体控制肉盾型SR级战姬" head="wenpin" propertyDescription="-1" solider="-1" evaluate="单体控制肉盾型SR级战姬" evaluateColor="3"/>
+	<generalItem id="01009" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="123" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01010" name="维多利亚女王" sex="1" arms="1" sf="taishici" figure="107" description="普攻光环辅助型R级战姬" head="taishici" propertyDescription="-1" solider="-1" evaluate="普攻光环辅助型R级战姬" evaluateColor="2"/>
+	<generalItem id="01011" name="演员伊莎贝尔" sex="1" arms="3" sf="lvmeng" figure="124" description="单体控制肉盾型N级战姬" head="lvmeng" propertyDescription="-1" solider="-1" evaluate="单体控制肉盾型N级战姬" evaluateColor="1"/>
+	<generalItem id="01012" name="伊丽莎白女王" sex="1" arms="3" sf="handang" figure="125" description="周边伤害输出型R级战姬" head="handang" propertyDescription="-1" solider="-1" evaluate="周边伤害输出型R级战姬" evaluateColor="2"/>
+	<generalItem id="01013" name="甄嬛" sex="1" arms="3" sf="huangzhong" figure="113" description="防御强化肉盾型R级战姬" head="huangzhong" propertyDescription="-1" solider="-1" evaluate="防御强化肉盾型R级战姬" evaluateColor="2"/>
+	<generalItem id="01014" name="演员梦露" sex="1" arms="2" sf="jiaxu" figure="126" description="攻击加成输出型R级战姬" head="jiaxu" propertyDescription="-1" solider="-1" evaluate="攻击加成输出型R级战姬" evaluateColor="2"/>
+	<generalItem id="01015" name="埃及艳后" sex="1" arms="1" sf="zhangliao" figure="101" description="周边伤害肉盾型R级战姬" head="zhangliao" propertyDescription="-1" solider="-1" evaluate="周边伤害肉盾型R级战姬" evaluateColor="2"/>
+	<generalItem id="01016" name="陆小曼" sex="1" arms="2" sf="zhanghe" figure="105" description="普防光环辅助型R级战姬" head="zhanghe" propertyDescription="-1" solider="-1" evaluate="普防光环辅助型R级战姬" evaluateColor="2"/>
+	<generalItem id="01017" name="川岛芳子" sex="1" arms="1" sf="xuhuang" figure="115" description="防御强化肉盾型SR级战姬" head="xuhuang" propertyDescription="-1" solider="-1" evaluate="防御强化肉盾型SR级战姬" evaluateColor="3"/>
+	<generalItem id="01018" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="116" description="普攻光环辅助型N级战姬" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="普攻光环辅助型N级战姬" evaluateColor="1"/>
+	<generalItem id="01019" name="玛丽公主" sex="1" arms="2" sf="huanggai" figure="127" description="攻击加成输出型N级战姬" head="huanggai" propertyDescription="-1" solider="-1" evaluate="攻击加成输出型N级战姬" evaluateColor="1"/>
+	<generalItem id="01020" name="叶赫那拉氏" sex="1" arms="4" sf="xiahouyuan" figure="128" description="全体伤害输出型N级战姬" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="全体伤害输出型N级战姬" evaluateColor="1"/>
+	<generalItem id="01021" name="演员爱娃" sex="1" arms="1" sf="zhenmi" figure="103" description="血量光环辅助型N级战姬" head="zhenmi" propertyDescription="-1" solider="-1" evaluate="血量光环辅助型N级战姬" evaluateColor="1"/>
+	<generalItem id="01022" name="海盗奈特莉" sex="1" arms="4" sf="huangyueying" figure="108" description="普攻光环辅助型R级战姬" head="huangyueying" propertyDescription="-1" solider="-1" evaluate="普攻光环辅助型R级战姬" evaluateColor="2"/>
+	<generalItem id="01023" name="大乔" sex="1" arms="4" sf="daqiao" figure="129" description="周边伤害输出型SR级战姬" head="daqiao" propertyDescription="-1" solider="-1" evaluate="周边伤害输出型SR级战姬" evaluateColor="3"/>
+	<generalItem id="01024" name="小乔" sex="1" arms="2" sf="xiaoqiao" figure="130" description="全体伤害输出型SR级战姬" head="xiaoqiao" propertyDescription="-1" solider="-1" evaluate="全体伤害输出型SR级战姬" evaluateColor="3"/>
+	<generalItem id="01025" name="王昭君" sex="1" arms="3" sf="zhaoyun" figure="139" description="无敌罩罩肉盾型SSR级战姬" head="zhaoyun" propertyDescription="-1" solider="-1" evaluate="无敌罩罩肉盾型SSR级战姬" evaluateColor="4"/>
+	<generalItem id="01026" name="杨玉环" sex="1" arms="4" sf="guanyu" figure="102" description="单体斩杀输出型SSR级战姬" head="guanyu" propertyDescription="-1" solider="-1" evaluate="单体斩杀输出型SSR级战姬" evaluateColor="4"/>
+	<generalItem id="01027" name="貂蝉" sex="1" arms="1" sf="zhangfei" figure="140" description="群体控制肉盾型SSR级战姬" head="zhangfei" propertyDescription="-1" solider="-1" evaluate="群体控制肉盾型SSR级战姬" evaluateColor="4"/>
+	<generalItem id="01028" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="141" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01029" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="142" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01030" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="143" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01031" name="西施" sex="1" arms="2" sf="caiwenji" figure="144" description="全体治疗辅助型SSR级战姬" head="caiwenji" propertyDescription="-1" solider="-1" evaluate="全体治疗辅助型SSR级战姬" evaluateColor="4"/>
+	<generalItem id="01032" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="145" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01033" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="146" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01034" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="147" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
+	<generalItem id="01035" name="待定战姬" sex="1" arms="1" sf="xiahouyuan" figure="148" description="待定" head="xiahouyuan" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
 	<generalItem id="01110" name="待定战姬" sex="1" arms="1" sf="heyi" figure="134" description="待定" head="heyi" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
 	<generalItem id="01111" name="待定战姬" sex="1" arms="1" sf="sunzhong" figure="131" description="待定" head="sunzhong" propertyDescription="-1" solider="-1" evaluate="待定" evaluateColor="1"/>
 	<generalItem id="01112" name="待定战姬" sex="1" arms="1" sf="sunzhong" figure="6" description="待定" head="sunzhong" propertyDescription="-1" solider="6" evaluate="待定" evaluateColor="1"/>
