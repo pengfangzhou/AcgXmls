@@ -62,65 +62,65 @@
             <battleLevelItem id="5" nameTxt="击杀散兵" levelType="1" expendStrength="6" fightBg="deck"/>
         </specialBattleLevel>
     </section>
-    <section id="1" section="1" sectionName="逃脱围捕">
+    <section id="1" section="1" sectionName="建立广东根据地">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="击杀散兵" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="2" nameTxt="斩杀" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="遭遇曹军" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="隐藏" levelType="1" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="5" nameTxt="赵云登场" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="6" nameTxt="暴露" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="赵云受伤" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="8" nameTxt="围困" levelType="1" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="智斗于禁" levelType="0" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="1" nameTxt="军校起义" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="2" nameTxt="东莞" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="占领广州" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="佛山" levelType="1" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="5" nameTxt="挥师茂名" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="6" nameTxt="湛江" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="进击汕头" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="8" nameTxt="潮州" levelType="1" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="一统广东" levelType="0" expendStrength="6" fightBg="woods"/>
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="击杀散兵" levelType="0" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="2" nameTxt="斩杀" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="遭遇曹军" levelType="0" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="隐藏" levelType="1" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="5" nameTxt="赵云登场" levelType="0" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="6" nameTxt="暴露" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="赵云受伤" levelType="0" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="8" nameTxt="围困" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="9" nameTxt="智斗于禁" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="1" nameTxt="军校起义" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="2" nameTxt="东莞" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="占领广州" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="佛山" levelType="1" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="5" nameTxt="挥师茂名" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="6" nameTxt="湛江" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="进击汕头" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="8" nameTxt="潮州" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="9" nameTxt="一统广东" levelType="0" expendStrength="12" fightBg="plain"/>
         </specialBattleLevel>
     </section>
-    <section id="2" section="2" sectionName="初入刘府">
+    <section id="2" section="2" sectionName="北伐战争">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="一战成名" levelType="0" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="身份" levelType="1" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="3" nameTxt="行春桥事件" levelType="0" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="4" nameTxt="手足" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="围剿乱贼" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="6" nameTxt="突变" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="少女人质" levelType="0" expendStrength="6" fightBg="snow"/>
-            <battleLevelItem id="8" nameTxt="虎口" levelType="1" expendStrength="6" fightBg="snow"/>
-            <battleLevelItem id="9" nameTxt="锦帆贼" levelType="0" expendStrength="6" fightBg="snow"/>
+            <battleLevelItem id="1" nameTxt="进攻湖南" levelType="0" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="长沙" levelType="1" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="3" nameTxt="汀泗桥战役" levelType="0" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="4" nameTxt="黄石" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="南浔路战役" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="6" nameTxt="武汉" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="进占福建" levelType="0" expendStrength="6" fightBg="snow"/>
+            <battleLevelItem id="8" nameTxt="南昌" levelType="1" expendStrength="6" fightBg="snow"/>
+            <battleLevelItem id="9" nameTxt="会攻南京" levelType="0" expendStrength="6" fightBg="snow"/>
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="一战成名" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="身份" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="行春桥事件" levelType="0" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="手足" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="围剿乱贼" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="6" nameTxt="突变" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="少女人质" levelType="0" expendStrength="12" fightBg="snow"/>
-            <battleLevelItem id="8" nameTxt="虎口" levelType="1" expendStrength="12" fightBg="snow"/>
-            <battleLevelItem id="9" nameTxt="锦帆贼" levelType="0" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="1" nameTxt="进攻湖南" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="长沙" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="汀泗桥战役" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="黄石" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="南浔路战役" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="6" nameTxt="武汉" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="进占福建" levelType="0" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="8" nameTxt="南昌" levelType="1" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="9" nameTxt="会攻南京" levelType="0" expendStrength="12" fightBg="snow"/>
         </specialBattleLevel>
     </section>
-    <section id="3" section="3" sectionName="新官上任">
+    <section id="3" section="3" sectionName="北伐胜利">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="新官上任" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="三把火" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="3" nameTxt="钱是大问题" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="4" nameTxt="降入佳境" levelType="1" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="5" nameTxt="许氏宗族祭祀" levelType="0" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="6" nameTxt="踌躇" levelType="1" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="7" nameTxt="意外中的意外" levelType="0" expendStrength="6" fightBg="snow"/>
-            <battleLevelItem id="8" nameTxt="迎刃而解" levelType="1" expendStrength="6" fightBg="snow"/>
-            <battleLevelItem id="9" nameTxt="获封新官" levelType="0" expendStrength="6" fightBg="snow"/>
+            <battleLevelItem id="1" nameTxt="占领河南" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="郑州" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="3" nameTxt="徐州誓师" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="4" nameTxt="怀安" levelType="1" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="5" nameTxt="进攻临沂" levelType="0" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="6" nameTxt="泰安" levelType="1" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="7" nameTxt="总攻济南" levelType="0" expendStrength="6" fightBg="snow"/>
+            <battleLevelItem id="8" nameTxt="保定" levelType="1" expendStrength="6" fightBg="snow"/>
+            <battleLevelItem id="9" nameTxt="解放北平" levelType="0" expendStrength="6" fightBg="snow"/>
             
             
             
@@ -130,53 +130,15 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="新官上任" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="三把火" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="钱是大问题" levelType="0" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="降入佳境" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="许氏宗族祭祀" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="6" nameTxt="踌躇" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="意外中的意外" levelType="0" expendStrength="12" fightBg="snow"/>
-            <battleLevelItem id="8" nameTxt="迎刃而解" levelType="1" expendStrength="12" fightBg="snow"/>
-            <battleLevelItem id="9" nameTxt="获封新官" levelType="0" expendStrength="12" fightBg="snow"/>
-            
-            
-            
-            
-            
-            
-            
-        </specialBattleLevel>
-    </section>
-    <section id="4" section="4" sectionName="火烧博望坡">
-        <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="火烧博望坡" levelType="0" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="3" nameTxt="贾文和之计" levelType="0" expendStrength="6" fightBg="woods"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="血战突围" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="同进同退" levelType="0" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="9" nameTxt="赵云驰援" levelType="0" expendStrength="6" fightBg="desert"/>
-            
-            
-            
-            
-            
-            
-            
-        </generalBattleLevel>
-        <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="火烧博望坡" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="贾文和之计" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="血战突围" levelType="0" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="12" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="同进同退" levelType="0" expendStrength="12" fightBg="snow"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="12" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="赵云驰援" levelType="0" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="1" nameTxt="占领河南" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="郑州" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="徐州誓师" levelType="0" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="怀安" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="进攻临沂" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="6" nameTxt="泰安" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="总攻济南" levelType="0" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="8" nameTxt="保定" levelType="1" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="9" nameTxt="解放北平" levelType="0" expendStrength="12" fightBg="snow"/>
             
             
             
@@ -186,17 +148,17 @@
             
         </specialBattleLevel>
     </section>
-    <section id="5" section="5" sectionName="血战柴桑">
+    <section id="4" section="4" sectionName="辽沈会战">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="血战柴桑" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="3" nameTxt="两路援军" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="大军压境" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="7" nameTxt="第二次血战" levelType="0" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="9" nameTxt="千钧一发" levelType="0" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="1" nameTxt="锦州会战" levelType="0" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="沈阳" levelType="1" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="3" nameTxt="剑指长春" levelType="0" expendStrength="6" fightBg="woods"/>
+            <battleLevelItem id="4" nameTxt="四平" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="辽西会战" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="6" nameTxt="铁岭" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="解放沈阳" levelType="0" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="抚顺" levelType="1" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="9" nameTxt="一统东北" levelType="0" expendStrength="6" fightBg="desert"/>
             
             
             
@@ -206,15 +168,15 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="血战柴桑" levelType="0" expendStrength="16" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="两路援军" levelType="0" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="大军压境" levelType="0" expendStrength="16" fightBg="snow"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="snow"/>
-            <battleLevelItem id="7" nameTxt="第二次血战" levelType="0" expendStrength="16" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="千钧一发" levelType="0" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="1" nameTxt="锦州会战" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="沈阳" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="剑指长春" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="4" nameTxt="四平" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="辽西会战" levelType="0" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="6" nameTxt="铁岭" levelType="1" expendStrength="12" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="解放沈阳" levelType="0" expendStrength="12" fightBg="snow"/>
+            <battleLevelItem id="8" nameTxt="抚顺" levelType="1" expendStrength="12" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="一统东北" levelType="0" expendStrength="12" fightBg="snow"/>
             
             
             
@@ -224,17 +186,17 @@
             
         </specialBattleLevel>
     </section>
-    <section id="6" section="6" sectionName="吞并江夏">
+    <section id="5" section="5" sectionName="征战蒙古">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="战争阴云" levelType="0" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="3" nameTxt="血战突围" levelType="0" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="5" nameTxt="反攻柴桑" levelType="0" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="desert"/>
-            <battleLevelItem id="7" nameTxt="江东主力杀至" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="9" nameTxt="浴血大战" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="1" nameTxt="鄂尔多斯追逐战" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="乌海" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="3" nameTxt="策反阿拉善盟" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="4" nameTxt="乌拉特" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="进驻乌兰巴托" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="6" nameTxt="温都尔汗" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="7" nameTxt="乌里雅苏台平叛" levelType="0" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="阿尔泰" levelType="1" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="9" nameTxt="平息蒙古" levelType="0" expendStrength="6" fightBg="desert"/>
             
             
             
@@ -244,15 +206,15 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="战争阴云" levelType="0" expendStrength="16" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="血战突围" levelType="0" expendStrength="16" fightBg="woods"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="反攻柴桑" levelType="0" expendStrength="16" fightBg="woods"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="江东主力杀至" levelType="0" expendStrength="16" fightBg="snow"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="浴血大战" levelType="0" expendStrength="16" fightBg="snow"/>
+            <battleLevelItem id="1" nameTxt="鄂尔多斯追逐战" levelType="0" expendStrength="16" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="乌海" levelType="1" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="策反阿拉善盟" levelType="0" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="乌拉特" levelType="1" expendStrength="16" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="进驻乌兰巴托" levelType="0" expendStrength="16" fightBg="snow"/>
+            <battleLevelItem id="6" nameTxt="温都尔汗" levelType="1" expendStrength="16" fightBg="snow"/>
+            <battleLevelItem id="7" nameTxt="乌里雅苏台平叛" levelType="0" expendStrength="16" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="阿尔泰" levelType="1" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="平息蒙古" levelType="0" expendStrength="16" fightBg="woods"/>
             
             
             
@@ -262,17 +224,17 @@
             
         </specialBattleLevel>
     </section>
-    <section id="7" section="7" sectionName="铁骑来袭">
+    <section id="6" section="6" sectionName="到西藏朝圣">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="铁骑来袭" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="耀武扬威" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="颍川奔袭" levelType="0" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="deck"/>
-            <battleLevelItem id="7" nameTxt="偷袭南阳" levelType="0" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="6" fightBg="plain"/>
-            <battleLevelItem id="9" nameTxt="初战樊城" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="1" nameTxt="抵达拉萨" levelType="0" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="2" nameTxt="曲水" levelType="1" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="3" nameTxt="调停那曲地区" levelType="0" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="4" nameTxt="林芝" levelType="1" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="5" nameTxt="昌都地区巡视" levelType="0" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="6" nameTxt="八宿" levelType="1" expendStrength="6" fightBg="desert"/>
+            <battleLevelItem id="7" nameTxt="进驻阿里地区" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="8" nameTxt="尼玛" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="9" nameTxt="西藏问题解决" levelType="0" expendStrength="6" fightBg="deck"/>
             
             
             
@@ -282,15 +244,15 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="铁骑来袭" levelType="0" expendStrength="16" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="耀武扬威" levelType="0" expendStrength="16" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="颍川奔袭" levelType="0" expendStrength="16" fightBg="snow"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="snow"/>
-            <battleLevelItem id="7" nameTxt="偷袭南阳" levelType="0" expendStrength="16" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="16" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="初战樊城" levelType="0" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="1" nameTxt="抵达拉萨" levelType="0" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="曲水" levelType="1" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="调停那曲地区" levelType="0" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="4" nameTxt="林芝" levelType="1" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="昌都地区巡视" levelType="0" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="6" nameTxt="八宿" levelType="1" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="进驻阿里地区" levelType="0" expendStrength="16" fightBg="snow"/>
+            <battleLevelItem id="8" nameTxt="尼玛" levelType="1" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="西藏问题解决" levelType="0" expendStrength="16" fightBg="snow"/>
             
             
             
@@ -300,17 +262,17 @@
             
         </specialBattleLevel>
     </section>
-    <section id="8" section="8" sectionName="许昌战备">
+    <section id="7" section="7" sectionName="新疆平叛">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="江东内争" levelType="0" expendStrength="8" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="deck"/>
-            <battleLevelItem id="3" nameTxt="襄城之变" levelType="0" expendStrength="8" fightBg="deck"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="plain"/>
-            <battleLevelItem id="5" nameTxt="占领襄阳" levelType="0" expendStrength="8" fightBg="plain"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="plain"/>
-            <battleLevelItem id="7" nameTxt="安陆血战" levelType="0" expendStrength="8" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="desert"/>
-            <battleLevelItem id="9" nameTxt="战略撤退" levelType="0" expendStrength="8" fightBg="desert"/>
+            <battleLevelItem id="1" nameTxt="进驻兰州" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="2" nameTxt="临夏" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="安定新疆回部" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="陇西" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="兵临吐鲁番" levelType="0" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="6" nameTxt="嘉峪关" levelType="1" expendStrength="6" fightBg="deck"/>
+            <battleLevelItem id="7" nameTxt="收复南疆八城" levelType="0" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="8" nameTxt="玉门关" levelType="1" expendStrength="6" fightBg="plain"/>
+            <battleLevelItem id="9" nameTxt="大清帝国一统" levelType="0" expendStrength="6" fightBg="plain"/>
             
             
             
@@ -320,15 +282,15 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="江东内争" levelType="0" expendStrength="20" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="襄城之变" levelType="0" expendStrength="20" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="占领襄阳" levelType="0" expendStrength="20" fightBg="snow"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="snow"/>
-            <battleLevelItem id="7" nameTxt="安陆血战" levelType="0" expendStrength="20" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="战略撤退" levelType="0" expendStrength="20" fightBg="woods"/>
+            <battleLevelItem id="1" nameTxt="进驻兰州" levelType="0" expendStrength="16" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="临夏" levelType="1" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="安定新疆回部" levelType="0" expendStrength="16" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="陇西" levelType="1" expendStrength="16" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="兵临吐鲁番" levelType="0" expendStrength="16" fightBg="snow"/>
+            <battleLevelItem id="6" nameTxt="嘉峪关" levelType="1" expendStrength="16" fightBg="snow"/>
+            <battleLevelItem id="7" nameTxt="收复南疆八城" levelType="0" expendStrength="16" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="玉门关" levelType="1" expendStrength="16" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="大清帝国一统" levelType="0" expendStrength="16" fightBg="woods"/>
             
             
             
@@ -338,17 +300,17 @@
             
         </specialBattleLevel>
     </section>
-    <section id="9" section="9" sectionName="赤壁大战">
+    <section id="8" section="8" sectionName="抗日援朝">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="战争悄然而至" levelType="0" expendStrength="8" fightBg="woods"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="woods"/>
-            <battleLevelItem id="3" nameTxt="君愿为帝否" levelType="0" expendStrength="8" fightBg="woods"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="desert"/>
-            <battleLevelItem id="5" nameTxt="大战前夕" levelType="0" expendStrength="8" fightBg="desert"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="desert"/>
-            <battleLevelItem id="7" nameTxt="赤壁大战(上)" levelType="0" expendStrength="8" fightBg="plain"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="8" fightBg="plain"/>
-            <battleLevelItem id="9" nameTxt="赤壁大战(中)" levelType="0" expendStrength="8" fightBg="plain"/>
+            <battleLevelItem id="1" nameTxt="跨过鸭绿江" levelType="0" expendStrength="8" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="江界" levelType="1" expendStrength="8" fightBg="deck"/>
+            <battleLevelItem id="3" nameTxt="清川江战役" levelType="0" expendStrength="8" fightBg="deck"/>
+            <battleLevelItem id="4" nameTxt="元山" levelType="1" expendStrength="8" fightBg="plain"/>
+            <battleLevelItem id="5" nameTxt="击退日本" levelType="0" expendStrength="8" fightBg="plain"/>
+            <battleLevelItem id="6" nameTxt="开城" levelType="1" expendStrength="8" fightBg="plain"/>
+            <battleLevelItem id="7" nameTxt="收复平壤" levelType="0" expendStrength="8" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="釜山" levelType="1" expendStrength="8" fightBg="desert"/>
+            <battleLevelItem id="9" nameTxt="朝鲜一统" levelType="0" expendStrength="8" fightBg="desert"/>
             
             
             
@@ -358,15 +320,15 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="战争悄然而至" levelType="0" expendStrength="20" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="君愿为帝否" levelType="0" expendStrength="20" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="大战前夕" levelType="0" expendStrength="20" fightBg="snow"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="snow"/>
-            <battleLevelItem id="7" nameTxt="赤壁大战(上)" levelType="0" expendStrength="20" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="赤壁大战(中)" levelType="0" expendStrength="20" fightBg="woods"/>
+            <battleLevelItem id="1" nameTxt="跨过鸭绿江" levelType="0" expendStrength="20" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="江界" levelType="1" expendStrength="20" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="清川江战役" levelType="0" expendStrength="20" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="元山" levelType="1" expendStrength="20" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="击退日本" levelType="0" expendStrength="20" fightBg="snow"/>
+            <battleLevelItem id="6" nameTxt="开城" levelType="1" expendStrength="20" fightBg="snow"/>
+            <battleLevelItem id="7" nameTxt="收复平壤" levelType="0" expendStrength="20" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="釜山" levelType="1" expendStrength="20" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="朝鲜一统" levelType="0" expendStrength="20" fightBg="woods"/>
             
             
             
@@ -376,17 +338,17 @@
             
         </specialBattleLevel>
     </section>
-    <section id="10" section="10" sectionName="西线布局">
+    <section id="9" section="9" sectionName="入缅作战">
         <generalBattleLevel>
-            <battleLevelItem id="1" nameTxt="天子封爵" levelType="0" expendStrength="10" fightBg="plain"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="10" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="谋夺江陵" levelType="0" expendStrength="10" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="10" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="火烧编城" levelType="0" expendStrength="10" fightBg="deck"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="10" fightBg="deck"/>
-            <battleLevelItem id="7" nameTxt="赵云归心" levelType="0" expendStrength="10" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="10" fightBg="desert"/>
-            <battleLevelItem id="9" nameTxt="夜谋巴蜀" levelType="0" expendStrength="10" fightBg="desert"/>
+            <battleLevelItem id="1" nameTxt="开进野人山区" levelType="0" expendStrength="8" fightBg="woods"/>
+            <battleLevelItem id="2" nameTxt="莫宁" levelType="1" expendStrength="8" fightBg="woods"/>
+            <battleLevelItem id="3" nameTxt="攻克于邦" levelType="0" expendStrength="8" fightBg="woods"/>
+            <battleLevelItem id="4" nameTxt="曼德勒" levelType="1" expendStrength="8" fightBg="desert"/>
+            <battleLevelItem id="5" nameTxt="攻下瓦鲁班" levelType="0" expendStrength="8" fightBg="desert"/>
+            <battleLevelItem id="6" nameTxt="内比都" levelType="1" expendStrength="8" fightBg="desert"/>
+            <battleLevelItem id="7" nameTxt="会师密支那" levelType="0" expendStrength="8" fightBg="plain"/>
+            <battleLevelItem id="8" nameTxt="仰光" levelType="1" expendStrength="8" fightBg="plain"/>
+            <battleLevelItem id="9" nameTxt="统一缅甸" levelType="0" expendStrength="8" fightBg="plain"/>
             
             
             
@@ -396,15 +358,53 @@
             
         </generalBattleLevel>
         <specialBattleLevel>
-            <battleLevelItem id="1" nameTxt="天子封爵" levelType="0" expendStrength="20" fightBg="deck"/>
-            <battleLevelItem id="2" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="plain"/>
-            <battleLevelItem id="3" nameTxt="谋夺江陵" levelType="0" expendStrength="20" fightBg="plain"/>
-            <battleLevelItem id="4" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="deck"/>
-            <battleLevelItem id="5" nameTxt="火烧编城" levelType="0" expendStrength="20" fightBg="snow"/>
-            <battleLevelItem id="6" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="snow"/>
-            <battleLevelItem id="7" nameTxt="赵云归心" levelType="0" expendStrength="20" fightBg="desert"/>
-            <battleLevelItem id="8" nameTxt="小关名" levelType="1" expendStrength="20" fightBg="woods"/>
-            <battleLevelItem id="9" nameTxt="夜谋巴蜀" levelType="0" expendStrength="20" fightBg="woods"/>
+            <battleLevelItem id="1" nameTxt="开进野人山区" levelType="0" expendStrength="20" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="莫宁" levelType="1" expendStrength="20" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="攻克于邦" levelType="0" expendStrength="20" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="曼德勒" levelType="1" expendStrength="20" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="攻下瓦鲁班" levelType="0" expendStrength="20" fightBg="snow"/>
+            <battleLevelItem id="6" nameTxt="内比都" levelType="1" expendStrength="20" fightBg="snow"/>
+            <battleLevelItem id="7" nameTxt="会师密支那" levelType="0" expendStrength="20" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="仰光" levelType="1" expendStrength="20" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="统一缅甸" levelType="0" expendStrength="20" fightBg="woods"/>
+            
+            
+            
+            
+            
+            
+            
+        </specialBattleLevel>
+    </section>
+    <section id="10" section="10" sectionName="越南战争">
+        <generalBattleLevel>
+            <battleLevelItem id="1" nameTxt="北部湾事件" levelType="0" expendStrength="10" fightBg="plain"/>
+            <battleLevelItem id="2" nameTxt="河内" levelType="1" expendStrength="10" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="游击战典范" levelType="0" expendStrength="10" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="灵感" levelType="1" expendStrength="10" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="春季攻势" levelType="0" expendStrength="10" fightBg="deck"/>
+            <battleLevelItem id="6" nameTxt="广治" levelType="1" expendStrength="10" fightBg="deck"/>
+            <battleLevelItem id="7" nameTxt="西贡解放" levelType="0" expendStrength="10" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="多乐" levelType="1" expendStrength="10" fightBg="desert"/>
+            <battleLevelItem id="9" nameTxt="越南统一" levelType="0" expendStrength="10" fightBg="desert"/>
+            
+            
+            
+            
+            
+            
+            
+        </generalBattleLevel>
+        <specialBattleLevel>
+            <battleLevelItem id="1" nameTxt="北部湾事件" levelType="0" expendStrength="20" fightBg="deck"/>
+            <battleLevelItem id="2" nameTxt="河内" levelType="1" expendStrength="20" fightBg="plain"/>
+            <battleLevelItem id="3" nameTxt="游击战典范" levelType="0" expendStrength="20" fightBg="plain"/>
+            <battleLevelItem id="4" nameTxt="灵感" levelType="1" expendStrength="20" fightBg="deck"/>
+            <battleLevelItem id="5" nameTxt="春季攻势" levelType="0" expendStrength="20" fightBg="snow"/>
+            <battleLevelItem id="6" nameTxt="广治" levelType="1" expendStrength="20" fightBg="snow"/>
+            <battleLevelItem id="7" nameTxt="西贡解放" levelType="0" expendStrength="20" fightBg="desert"/>
+            <battleLevelItem id="8" nameTxt="多乐" levelType="1" expendStrength="20" fightBg="woods"/>
+            <battleLevelItem id="9" nameTxt="越南统一" levelType="0" expendStrength="20" fightBg="woods"/>
             
             
             
